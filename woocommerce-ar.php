@@ -4,7 +4,7 @@
  * Plugin Name: WooCommerce Arabic
  * Plugin URI: http://ar-wc.com
  * Description: Adds completed Arabic translation & currencies to WooCommerce.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Abdullah Helayel
  * Author URI: http://updu.la/
  * Text Domain: wc_ar

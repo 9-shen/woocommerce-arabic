@@ -3,8 +3,8 @@ Contributors: Updula
 Tags: WooCommerce, Arabic, Arab, Middle East, Saudi, Saudi Arabia, Saudi Riyal, Bahrain, Kuwait, Dinar, Oman, Qatar, Rial
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=i@updu.la&item_name=Donation+for+WooCommerce+RTL+Plugin
 Requires at least: 3.0.1
-Tested up to: 4.1.1
-Stable tag: 1.0.0
+Tested up to: 4.2
+Stable tag: 1.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -18,7 +18,7 @@ The Arabic translation won't load unless the current language your WooCommerce s
 
 Also, the currencies titles and symbols were fully translated and could be adjusted through out the language files.
 
-**Currently compatible with version `2.3.7` of WooCommerce**
+**Currently compatible with version `2.3.8` of WooCommerce**
 
 == Installation ==
 
@@ -40,6 +40,9 @@ The manual installation method involves downloading our plugin and uploading it 
 Each time **WooCommerce** gets updated, a new version of **WooCommerce Arabic** will get updated as well, so it keeps the language files up-to-date.
 
 == Changelog ==
+
+= 1.0.1 =
+* WooCommerce 2.3.8 compatibility.
 
 = 1.0.0 =
 * Initial release.
