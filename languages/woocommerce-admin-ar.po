@@ -4,10 +4,10 @@
 # alaa13212 <alaa13212@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
-"Project-Id-Version: WooCommerce 2.3.8 Admin\n"
+"Project-Id-Version: WooCommerce 2.3.10 Admin\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2015-04-17 15:06:22+00:00\n"
-"PO-Revision-Date: 2015-04-24 15:00+0300\n"
+"POT-Creation-Date: 2015-06-03 20:33+0300\n"
+"PO-Revision-Date: 2015-06-03 21:05+0300\n"
 "Last-Translator: Abdullah Helayel <i@updu.la>\n"
 "Language-Team: Abdullah Helayel <i@updu.la>\n"
 "Language: ar\n"
@@ -16,12 +16,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n"
 "%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
-"X-Generator: Poedit 1.7.6\n"
+"X-Generator: Poedit 1.8.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. Plugin Name of the plugin/theme
 msgid "WooCommerce"
-msgstr "المتجر"
+msgstr "متجر"
 
 #: includes/admin/class-wc-admin-assets.php:137
 msgid "Please enter in decimal (%s) format without thousand separators."
@@ -29,8 +29,8 @@ msgstr "     رجاءً ادخل عددًا بشكل (٪s) بدون فاصل آ�
 
 #: includes/admin/class-wc-admin-assets.php:138
 msgid ""
-"Please enter in monetary decimal (%s) format without thousand separators and "
-"currency symbols."
+"Please enter in monetary decimal (%s) format without thousand separators and currency "
+"symbols."
 msgstr "الرجاء إدخال قيمة المبلغ بصيغة عشرية (%s) بدون فاصل الآلاف ورمز العملة."
 
 #: includes/admin/class-wc-admin-assets.php:139
@@ -43,11 +43,11 @@ msgstr "فضلًا أدخل قيمة أقل من السعر الإفتراضي."
 
 #: includes/admin/class-wc-admin-assets.php:180
 msgid ""
-"Are you sure you want to link all variations? This will create a new variation "
-"for each and every possible combination of variation attributes (max 50 per run)."
+"Are you sure you want to link all variations? This will create a new variation for "
+"each and every possible combination of variation attributes (max 50 per run)."
 msgstr ""
-"هل أنت متأكد من رغبتك في إضافة الجميع التركيبات الممكنة؟ هذا سينشأ نوع لكل "
-"تركيبات لصفات المنتج (أقصى حد 50 لكل مرة)."
+"هل أنت متأكد من رغبتك في إضافة الجميع التركيبات الممكنة؟ هذا سينشأ نوع لكل تركيبات "
+"لصفات المنتج (أقصى حد 50 لكل مرة)."
 
 #: includes/admin/class-wc-admin-assets.php:181
 msgid "Enter a value"
@@ -66,8 +66,8 @@ msgid "Last warning, are you sure?"
 msgstr "آخر سؤال، هل أنت متأكد؟"
 
 #: includes/admin/class-wc-admin-assets.php:185
-#: includes/admin/class-wc-admin-taxonomies.php:127
-#: includes/admin/class-wc-admin-taxonomies.php:213
+#: includes/admin/class-wc-admin-taxonomies.php:126
+#: includes/admin/class-wc-admin-taxonomies.php:217
 msgid "Choose an image"
 msgstr "اختر صورة"
 
@@ -107,12 +107,12 @@ msgstr "حدد خيارًا&hellip;"
 
 #: includes/admin/class-wc-admin-assets.php:213
 msgid ""
-"Are you sure you want to remove the selected items? If you have previously "
-"reduced this item's stock, or this order was submitted by a customer, you will "
-"need to manually restore the item's stock."
+"Are you sure you want to remove the selected items? If you have previously reduced "
+"this item's stock, or this order was submitted by a customer, you will need to "
+"manually restore the item's stock."
 msgstr ""
-"هل بالتأكيد تريد إزالة هذه العناصر، قد تحتاج لتعديل الكميات في المخازن يدويا إذا "
-"كان الطلب أرسل من عميل."
+"هل بالتأكيد تريد إزالة هذه العناصر، قد تحتاج لتعديل الكميات في المخازن يدويا إذا كان "
+"الطلب أرسل من عميل."
 
 #: includes/admin/class-wc-admin-assets.php:214
 msgid "Please select some items."
@@ -127,8 +127,7 @@ msgid "Are you sure you wish to delete this refund? This action cannot be undone
 msgstr "هل أنت متأكد من حذف المبلغ المعاد؟ لا يمكنك إلغاء هذه العملية لاحقًا."
 
 #: includes/admin/class-wc-admin-assets.php:217
-msgid ""
-"Are you sure you wish to delete this tax column? This action cannot be undone."
+msgid "Are you sure you wish to delete this tax column? This action cannot be undone."
 msgstr "هل أنت متأكد من حذف عامود الضريبة؟ لا يمكنك إلغاء هذه العملية لاحقًا."
 
 #: includes/admin/class-wc-admin-assets.php:218
@@ -140,12 +139,12 @@ msgid "Remove this attribute?"
 msgstr "إزالة هذه الخاصية؟"
 
 #: includes/admin/class-wc-admin-assets.php:220
-#: includes/admin/class-wc-admin-attributes.php:272
-#: includes/admin/class-wc-admin-attributes.php:317
-#: includes/admin/class-wc-admin-attributes.php:350
-#: includes/admin/class-wc-admin-attributes.php:373
-#: includes/admin/class-wc-admin-attributes.php:429
-#: includes/admin/class-wc-admin-attributes.php:460
+#: includes/admin/class-wc-admin-attributes.php:271
+#: includes/admin/class-wc-admin-attributes.php:316
+#: includes/admin/class-wc-admin-attributes.php:349
+#: includes/admin/class-wc-admin-attributes.php:372
+#: includes/admin/class-wc-admin-attributes.php:428
+#: includes/admin/class-wc-admin-attributes.php:459
 #: includes/admin/class-wc-admin-post-types.php:109
 #: includes/admin/class-wc-admin-webhooks-table-list.php:40
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:192
@@ -153,7 +152,7 @@ msgstr "إزالة هذه الخاصية؟"
 #: includes/admin/meta-boxes/views/html-variation-admin.php:196
 #: includes/admin/settings/class-wc-settings-shipping.php:204
 #: includes/admin/settings/views/html-webhooks-edit.php:15
-#: includes/admin/views/html-admin-page-status-report.php:568
+#: includes/admin/views/html-admin-page-status-report.php:566
 msgid "Name"
 msgstr "الاسم"
 
@@ -199,27 +198,27 @@ msgstr "هل تود حساب المجموع حسب منتجات وخصومات �
 
 #: includes/admin/class-wc-admin-assets.php:229
 msgid ""
-"Calculate line taxes? This will calculate taxes based on the customers country. "
-"If no billing/shipping is set it will use the store base country."
+"Calculate line taxes? This will calculate taxes based on the customers country. If no "
+"billing/shipping is set it will use the store base country."
 msgstr ""
-"حساب ضرائب العنصر؟ الحساب يتم حسب دولة العميل. إذا كان العنوان لم يحدد ستحسب "
-"الضرائب بدولة متجرك."
+"حساب ضرائب العنصر؟ الحساب يتم حسب دولة العميل. إذا كان العنوان لم يحدد ستحسب الضرائب "
+"بدولة متجرك."
 
 #: includes/admin/class-wc-admin-assets.php:230
 msgid ""
 "Copy billing information to shipping information? This will remove any currently "
 "entered shipping information."
 msgstr ""
-"نسخ معلومات الفاتورة لمعلومات الشحن؟ هذا سيحذف أي معلومات متعلقة بالشحن تم "
-"إدخالها مسبقًا."
+"نسخ معلومات الفاتورة لمعلومات الشحن؟ هذا سيحذف أي معلومات متعلقة بالشحن تم إدخالها "
+"مسبقًا."
 
 #: includes/admin/class-wc-admin-assets.php:231
 msgid ""
 "Load the customer's billing information? This will remove any currently entered "
 "billing information."
 msgstr ""
-"هل تود تحميل معلومات الفاتورة الخاصة بالعميل؟ هذا سيحذف أي معلومات متعلقة "
-"بالفاتورة تم إدخالها مسبقًا."
+"هل تود تحميل معلومات الفاتورة الخاصة بالعميل؟ هذا سيحذف أي معلومات متعلقة بالفاتورة "
+"تم إدخالها مسبقًا."
 
 #: includes/admin/class-wc-admin-assets.php:232
 msgid ""
@@ -231,7 +230,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-assets.php:233
 #: includes/admin/class-wc-admin-post-types.php:122
-#: includes/admin/class-wc-admin-post-types.php:1964
+#: includes/admin/class-wc-admin-post-types.php:1968
 #: includes/admin/views/html-bulk-edit-product.php:197
 #: includes/admin/views/html-quick-edit-product.php:155
 msgid "Featured"
@@ -260,8 +259,8 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-assets.php:263
 msgid ""
-"Your product has variations! Before changing the product type, it is a good idea "
-"to delete the variations to avoid errors in the stock reports."
+"Your product has variations! Before changing the product type, it is a good idea to "
+"delete the variations to avoid errors in the stock reports."
 msgstr ""
 
 #: includes/admin/class-wc-admin-attributes.php:111
@@ -282,135 +281,135 @@ msgstr "فضلًا أضف اسم واسم لطيف للخاصية."
 msgid "Slug \"%s\" is already in use. Change it, please."
 msgstr "الاسم اللطيف \"%s\"  مستخدم مسبقًا. الرجاء إختيار اسم آخر."
 
-#: includes/admin/class-wc-admin-attributes.php:207
+#: includes/admin/class-wc-admin-attributes.php:206
 msgid "Attribute updated successfully"
 msgstr "تم تحديث الخاصية بنجاح"
 
-#: includes/admin/class-wc-admin-attributes.php:266
+#: includes/admin/class-wc-admin-attributes.php:265
 msgid "Edit Attribute"
 msgstr "تحرير الخاصية"
 
-#: includes/admin/class-wc-admin-attributes.php:276
-#: includes/admin/class-wc-admin-attributes.php:431
+#: includes/admin/class-wc-admin-attributes.php:275
+#: includes/admin/class-wc-admin-attributes.php:430
 msgid "Name for the attribute (shown on the front-end)."
 msgstr "اسم الخاصية (المعروض في واجهة المتجر)"
 
-#: includes/admin/class-wc-admin-attributes.php:281
-#: includes/admin/class-wc-admin-attributes.php:351
-#: includes/admin/class-wc-admin-attributes.php:435
+#: includes/admin/class-wc-admin-attributes.php:280
+#: includes/admin/class-wc-admin-attributes.php:350
+#: includes/admin/class-wc-admin-attributes.php:434
 msgid "Slug"
 msgstr "الاسم اللطيف"
 
-#: includes/admin/class-wc-admin-attributes.php:285
-#: includes/admin/class-wc-admin-attributes.php:437
+#: includes/admin/class-wc-admin-attributes.php:284
+#: includes/admin/class-wc-admin-attributes.php:436
 msgid "Unique slug/reference for the attribute; must be shorter than 28 characters."
 msgstr ""
-"“slug” هو الاسم اللطيف لشيء ما، وهو في العادة يتكون من حروف صغيرة ويحتوي على "
-"حروف، أرقام وشرطات فقط."
+"“slug” هو الاسم اللطيف لشيء ما، وهو في العادة يتكون من حروف صغيرة ويحتوي على حروف، "
+"أرقام وشرطات فقط."
 
-#: includes/admin/class-wc-admin-attributes.php:290
-#: includes/admin/class-wc-admin-attributes.php:441
+#: includes/admin/class-wc-admin-attributes.php:289
+#: includes/admin/class-wc-admin-attributes.php:440
 msgid "Enable Archives?"
 msgstr "تفعيل الأرشيفات؟"
 
-#: includes/admin/class-wc-admin-attributes.php:294
-#: includes/admin/class-wc-admin-attributes.php:443
-msgid ""
-"Enable this if you want this attribute to have product archives in your store."
+#: includes/admin/class-wc-admin-attributes.php:293
+#: includes/admin/class-wc-admin-attributes.php:442
+msgid "Enable this if you want this attribute to have product archives in your store."
 msgstr "فعل هذا الخيار اذا اردت ان تمتلك هذه الخاصية أرشيف للمنتجات في متجرك."
 
-#: includes/admin/class-wc-admin-attributes.php:299
-#: includes/admin/class-wc-admin-attributes.php:352
-#: includes/admin/class-wc-admin-attributes.php:447
+#: includes/admin/class-wc-admin-attributes.php:298
+#: includes/admin/class-wc-admin-attributes.php:351
+#: includes/admin/class-wc-admin-attributes.php:446
 #: includes/admin/class-wc-admin-post-types.php:123
 msgid "Type"
 msgstr "النوع"
 
-#: includes/admin/class-wc-admin-attributes.php:303
-#: includes/admin/class-wc-admin-attributes.php:449
+#: includes/admin/class-wc-admin-attributes.php:302
+#: includes/admin/class-wc-admin-attributes.php:448
 msgid "Select"
 msgstr "قائمة إختيار"
 
-#: includes/admin/class-wc-admin-attributes.php:304
-#: includes/admin/class-wc-admin-attributes.php:450
+#: includes/admin/class-wc-admin-attributes.php:303
+#: includes/admin/class-wc-admin-attributes.php:449
 msgid "Text"
 msgstr "نص"
 
-#: includes/admin/class-wc-admin-attributes.php:307
-#: includes/admin/class-wc-admin-attributes.php:453
+#: includes/admin/class-wc-admin-attributes.php:306
+#: includes/admin/class-wc-admin-attributes.php:452
 msgid ""
-"Determines how you select attributes for products. Under admin panel -> products -"
-"> product data -> attributes -> values, <strong>Text</strong> allows manual entry "
+"Determines how you select attributes for products. Under admin panel -> products -> "
+"product data -> attributes -> values, <strong>Text</strong> allows manual entry "
 "whereas <strong>select</strong> allows pre-configured terms in a drop-down list."
 msgstr ""
 "تحدد طريقة إختيار العميل لأحد الخصائص المرتبطة بالمنتج. من خلال الدخول إلى لوحة "
-"التحكم -> المنتجات -> بيانات المنتج -> الخصائص -> القيم، <strong>النص</strong> "
-"يسمح بالأدخال اليدوي بينما <strong>قائمة الإختيار</strong> تسمح بخصائص معدة مسبقًا "
-"ومعروضة في قائمة منسدلة."
+"التحكم -> المنتجات -> بيانات المنتج -> الخصائص -> القيم، <strong>النص</strong> يسمح "
+"بالأدخال اليدوي بينما <strong>قائمة الإختيار</strong> تسمح بخصائص معدة مسبقًا ومعروضة "
+"في قائمة منسدلة."
 
-#: includes/admin/class-wc-admin-attributes.php:312
-#: includes/admin/class-wc-admin-attributes.php:457
+#: includes/admin/class-wc-admin-attributes.php:311
+#: includes/admin/class-wc-admin-attributes.php:456
 msgid "Default sort order"
 msgstr "الترتيب الإفتراضي"
 
-#: includes/admin/class-wc-admin-attributes.php:316
-#: includes/admin/class-wc-admin-attributes.php:382
-#: includes/admin/class-wc-admin-attributes.php:459
+#: includes/admin/class-wc-admin-attributes.php:315
+#: includes/admin/class-wc-admin-attributes.php:381
+#: includes/admin/class-wc-admin-attributes.php:458
 msgid "Custom ordering"
 msgstr "ترتيب مخصص"
 
-#: includes/admin/class-wc-admin-attributes.php:318
-#: includes/admin/class-wc-admin-attributes.php:376
+#: includes/admin/class-wc-admin-attributes.php:317
+#: includes/admin/class-wc-admin-attributes.php:375
+#: includes/admin/class-wc-admin-attributes.php:460
 msgid "Name (numeric)"
 msgstr "الاسم (رقمي)"
 
-#: includes/admin/class-wc-admin-attributes.php:319
-#: includes/admin/class-wc-admin-attributes.php:379
+#: includes/admin/class-wc-admin-attributes.php:318
+#: includes/admin/class-wc-admin-attributes.php:378
 #: includes/admin/class-wc-admin-attributes.php:461
 msgid "Term ID"
 msgstr "معرف المصطلح"
 
-#: includes/admin/class-wc-admin-attributes.php:321
+#: includes/admin/class-wc-admin-attributes.php:320
 #: includes/admin/class-wc-admin-attributes.php:463
 msgid ""
-"Determines the sort order of the terms on the frontend shop product pages. If "
-"using custom ordering, you can drag and drop the terms in this attribute."
+"Determines the sort order of the terms on the frontend shop product pages. If using "
+"custom ordering, you can drag and drop the terms in this attribute."
 msgstr ""
 "يحدد ترتيب سرد الأنواع في صفحات المنتجات في واجهة المتجر. في حال إستخدام الترتيب "
 "المخصص، تستطيع سحب وإفلات الأنواع في هذه الخاصية."
 
-#: includes/admin/class-wc-admin-attributes.php:326
+#: includes/admin/class-wc-admin-attributes.php:325
 msgid "Update"
 msgstr "تحديث"
 
-#: includes/admin/class-wc-admin-attributes.php:342
+#: includes/admin/class-wc-admin-attributes.php:341
 #: includes/admin/class-wc-admin-menus.php:59
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:109
 msgid "Attributes"
-msgstr "الخصائص"
+msgstr "خصائص"
 
-#: includes/admin/class-wc-admin-attributes.php:353
+#: includes/admin/class-wc-admin-attributes.php:352
 msgid "Order by"
 msgstr "طريقة الترتيب"
 
-#: includes/admin/class-wc-admin-attributes.php:354
+#: includes/admin/class-wc-admin-attributes.php:353
 msgid "Terms"
 msgstr "الأنواع"
 
-#: includes/admin/class-wc-admin-attributes.php:366
+#: includes/admin/class-wc-admin-attributes.php:365
 #: includes/admin/class-wc-admin-post-types.php:212
 #: includes/admin/class-wc-admin-post-types.php:368
-#: includes/admin/class-wc-admin-post-types.php:1968
+#: includes/admin/class-wc-admin-post-types.php:1972
 #: includes/admin/class-wc-admin-webhooks-table-list.php:99
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:232
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:312
 #: includes/admin/meta-boxes/views/html-order-items.php:205
 #: includes/admin/reports/class-wc-report-customer-list.php:169
-#: includes/admin/reports/class-wc-report-stock.php:124
+#: includes/admin/reports/class-wc-report-stock.php:126
 msgid "Edit"
 msgstr "تحرير"
 
-#: includes/admin/class-wc-admin-attributes.php:366
+#: includes/admin/class-wc-admin-attributes.php:365
 #: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:46
 #: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:58
 #: includes/admin/meta-boxes/views/html-product-download.php:6
@@ -418,31 +417,31 @@ msgstr "تحرير"
 msgid "Delete"
 msgstr "حذف"
 
-#: includes/admin/class-wc-admin-attributes.php:369
+#: includes/admin/class-wc-admin-attributes.php:368
 msgid "Public"
 msgstr "عام"
 
-#: includes/admin/class-wc-admin-attributes.php:411
+#: includes/admin/class-wc-admin-attributes.php:410
 msgid "Configure terms"
 msgstr "ضبط الأنواع"
 
-#: includes/admin/class-wc-admin-attributes.php:415
+#: includes/admin/class-wc-admin-attributes.php:414
 msgid "No attributes currently exist."
 msgstr "لا يوجد خصائص حاليًا."
 
-#: includes/admin/class-wc-admin-attributes.php:425
+#: includes/admin/class-wc-admin-attributes.php:424
 msgid "Add New Attribute"
 msgstr "إضافة خاصية جديدة"
 
-#: includes/admin/class-wc-admin-attributes.php:426
+#: includes/admin/class-wc-admin-attributes.php:425
 msgid ""
 "Attributes let you define extra product data, such as size or colour. You can use "
-"these attributes in the shop sidebar using the \"layered nav\" widgets. Please "
-"note: you cannot rename an attribute later on."
+"these attributes in the shop sidebar using the \"layered nav\" widgets. Please note: "
+"you cannot rename an attribute later on."
 msgstr ""
-"خصائص المنتجات تمكنك من إضافة المزيد من البيانات عن منتج، مثل المقاس واللون. "
-"تستطيع إستخدام هذه الخصائص في الشريط الجانبي للمتجر. الرجاء ملاحظة أنه لا يمكنك "
-"إعادة تسمية أحد الخصائص لاحقًا."
+"خصائص المنتجات تمكنك من إضافة المزيد من البيانات عن منتج، مثل المقاس واللون. تستطيع "
+"إستخدام هذه الخصائص في الشريط الجانبي للمتجر. الرجاء ملاحظة أنه لا يمكنك إعادة تسمية "
+"أحد الخصائص لاحقًا."
 
 #: includes/admin/class-wc-admin-attributes.php:466
 msgid "Add Attribute"
@@ -554,8 +553,8 @@ msgid ""
 "Thank you for using WooCommerce :) Should you need help using or extending "
 "WooCommerce please read the documentation."
 msgstr ""
-"شكرًا لك لإستخدام ووكومرس :) اذا احتجت لأي مساعدة في استخدام او توسيع ووكومرس، "
-"فضلًا اقرأ التعليمات."
+"شكرًا لك لإستخدام ووكومرس :) اذا احتجت لأي مساعدة في استخدام او توسيع ووكومرس، فضلًا "
+"اقرأ التعليمات."
 
 #: includes/admin/class-wc-admin-help.php:46
 msgid "WooCommerce Documentation"
@@ -572,18 +571,17 @@ msgstr "الدعم"
 #: includes/admin/class-wc-admin-help.php:55
 msgid ""
 "After %sreading the documentation%s, for further assistance you can use our "
-"%scommunity forum%s if you get stuck. For help with premium add-ons from "
-"WooThemes, or if you are a WooThemes customer, you can %suse our helpdesk%s."
+"%scommunity forum%s if you get stuck. For help with premium add-ons from WooThemes, "
+"or if you are a WooThemes customer, you can %suse our helpdesk%s."
 msgstr ""
 
 #: includes/admin/class-wc-admin-help.php:57
 msgid ""
-"Before asking for help we recommend checking the status page to identify any "
-"problems with your configuration."
+"Before asking for help we recommend checking the status page to identify any problems "
+"with your configuration."
 msgstr ""
 
-#: includes/admin/class-wc-admin-help.php:59
-#: includes/admin/class-wc-admin-help.php:70
+#: includes/admin/class-wc-admin-help.php:59 includes/admin/class-wc-admin-help.php:70
 #: includes/admin/class-wc-admin-menus.php:94
 #: includes/admin/views/html-admin-page-status.php:16
 #: includes/admin/views/html-notice-template-check.php:14
@@ -605,9 +603,9 @@ msgstr "هل وجدت خطأً؟"
 #: includes/admin/class-wc-admin-help.php:68
 msgid ""
 "If you find a bug within WooCommerce core you can create a ticket via <a href=\"%s"
-"\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> "
-"prior to submitting your report. Be as descriptive as possible and please include "
-"your <a href=\"%s\">system status report</a>."
+"\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior "
+"to submitting your report. Be as descriptive as possible and please include your <a "
+"href=\"%s\">system status report</a>."
 msgstr ""
 
 #: includes/admin/class-wc-admin-help.php:70
@@ -653,7 +651,7 @@ msgstr "فئات الشحن"
 
 #: includes/admin/class-wc-admin-menus.php:67
 msgid "Reports"
-msgstr "التقارير"
+msgstr "تقارير"
 
 #: includes/admin/class-wc-admin-menus.php:69
 msgid "Sales Reports"
@@ -667,9 +665,9 @@ msgstr "إعدادات ووكومرس"
 #: includes/admin/class-wc-admin-welcome.php:218
 #: includes/admin/settings/class-wc-settings-checkout.php:287
 #: includes/admin/settings/class-wc-settings-shipping.php:236
-#: includes/admin/views/html-admin-page-status-report.php:383
+#: includes/admin/views/html-admin-page-status-report.php:382
 msgid "Settings"
-msgstr "الإعدادات"
+msgstr "إعدادات"
 
 #: includes/admin/class-wc-admin-menus.php:102
 #: includes/admin/views/html-admin-page-addons.php:20
@@ -678,7 +676,7 @@ msgstr "إضافات ووكومرس الرسمية"
 
 #: includes/admin/class-wc-admin-menus.php:102
 msgid "Add-ons"
-msgstr "الإضافات"
+msgstr "إضافات"
 
 #: includes/admin/class-wc-admin-menus.php:238
 msgid "WooCommerce Endpoints"
@@ -724,8 +722,8 @@ msgstr "صلاحيات المنتج القابل للتحميل"
 
 #: includes/admin/class-wc-admin-meta-boxes.php:115
 msgid ""
-"Note: Permissions for order items will automatically be granted when the order "
-"status changes to processing/completed."
+"Note: Permissions for order items will automatically be granted when the order status "
+"changes to processing/completed."
 msgstr ""
 "ملاحظة: الصلاحيات تعطى تلقائيا عند تغير حالة الطلب إلى \"جار العمل عليه\\مكتمل\"."
 
@@ -733,18 +731,28 @@ msgstr ""
 msgid "%s Actions"
 msgstr "إجراءات %s"
 
-#: includes/admin/class-wc-admin-meta-boxes.php:120
+#: includes/admin/class-wc-admin-meta-boxes.php:121
 msgid "Coupon Data"
 msgstr "بيانات القسيمة"
 
-#: includes/admin/class-wc-admin-meta-boxes.php:125
+#: includes/admin/class-wc-admin-meta-boxes.php:126
 msgid "Rating"
 msgstr "التقييم"
 
-#: includes/admin/class-wc-admin-meta-boxes.php:161
+#: includes/admin/class-wc-admin-meta-boxes.php:162
 #: includes/admin/settings/class-wc-settings-products.php:461
 msgid "Reviews"
 msgstr "المراجعات"
+
+#: includes/admin/class-wc-admin-notices.php:101
+#: includes/admin/class-wc-admin-settings.php:58
+#: includes/admin/class-wc-admin-webhooks.php:123
+msgid "Action failed. Please refresh the page and retry."
+msgstr "فشل تنفيذ الإجراء. رجاءً حدث الصفحة وحاول مجددا"
+
+#: includes/admin/class-wc-admin-notices.php:105
+msgid "Cheatin&#8217; huh?"
+msgstr ""
 
 #: includes/admin/class-wc-admin-permalink-settings.php:36
 msgid "Product permalink base"
@@ -764,22 +772,22 @@ msgstr "تركيبة مخصّصة"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:96
 msgid ""
-"These settings control the permalinks used for products. These settings only "
-"apply when <strong>not using \"default\" permalinks above</strong>."
+"These settings control the permalinks used for products. These settings only apply "
+"when <strong>not using \"default\" permalinks above</strong>."
 msgstr ""
 "هذه الإعدادات تتحكم بالروابط الدائمة للمنتجات. هذه الإعدادات <strong>لن تعمل عند "
 "إختيار الروابط الدائمة كـ (افتراضي) من القسم العلوي</strong>."
 
 #: includes/admin/class-wc-admin-permalink-settings.php:116
-#: includes/admin/class-wc-admin-taxonomies.php:91
-#: includes/admin/class-wc-admin-taxonomies.php:180
+#: includes/admin/class-wc-admin-taxonomies.php:90
+#: includes/admin/class-wc-admin-taxonomies.php:179
 #: includes/admin/settings/class-wc-settings-checkout.php:230
 #: includes/admin/settings/class-wc-settings-shipping.php:203
 msgid "Default"
 msgstr "الإفتراضي"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:120
-#: includes/admin/reports/class-wc-report-stock.php:153
+#: includes/admin/reports/class-wc-report-stock.php:155
 msgid "Product"
 msgstr "المنتج"
 
@@ -797,14 +805,14 @@ msgstr "تركيبة مخصّصة"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:137
 msgid ""
-"Enter a custom base to use. A base <strong>must</strong> be set or WordPress will "
-"use default instead."
+"Enter a custom base to use. A base <strong>must</strong> be set or WordPress will use "
+"default instead."
 msgstr ""
-"ادخل تركيبة مخصصة لإستخدامها. التركيبة المخصصة <strong>يجب</strong> أن تكون مدخله "
-"أو سيقوم ووردبريس بإستخدام التركيبة الإفتراضية."
+"ادخل تركيبة مخصصة لإستخدامها. التركيبة المخصصة <strong>يجب</strong> أن تكون مدخله أو "
+"سيقوم ووردبريس بإستخدام التركيبة الإفتراضية."
 
 #: includes/admin/class-wc-admin-post-types.php:108
-#: includes/admin/class-wc-admin-taxonomies.php:284
+#: includes/admin/class-wc-admin-taxonomies.php:288
 msgid "Image"
 msgstr "الصورة"
 
@@ -818,8 +826,8 @@ msgstr "الرمز التعريفي"
 #: includes/admin/class-wc-admin-post-types.php:116
 #: includes/admin/class-wc-admin-reports.php:91
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:689
-#: includes/admin/reports/class-wc-report-stock.php:27
-#: includes/admin/reports/class-wc-report-stock.php:28
+#: includes/admin/reports/class-wc-report-stock.php:29
+#: includes/admin/reports/class-wc-report-stock.php:30
 msgid "Stock"
 msgstr "المخزون"
 
@@ -843,7 +851,7 @@ msgstr "الوسوم"
 #: includes/admin/reports/class-wc-report-coupon-usage.php:334
 #: includes/admin/reports/class-wc-report-customers.php:210
 #: includes/admin/reports/class-wc-report-sales-by-category.php:235
-#: includes/admin/reports/class-wc-report-sales-by-date.php:375
+#: includes/admin/reports/class-wc-report-sales-by-date.php:376
 #: includes/admin/reports/class-wc-report-sales-by-product.php:365
 #: includes/admin/settings/views/html-webhook-logs.php:17
 #: includes/admin/settings/views/html-webhook-logs.php:25
@@ -860,7 +868,7 @@ msgstr "نوع القسيمة"
 
 #: includes/admin/class-wc-admin-post-types.php:140
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:68
-#: includes/admin/reports/class-wc-report-sales-by-date.php:471
+#: includes/admin/reports/class-wc-report-sales-by-date.php:472
 msgid "Coupon amount"
 msgstr "قيمة القسيمة"
 
@@ -920,7 +928,7 @@ msgstr "المجموع"
 #: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:41
 #: includes/admin/meta-boxes/views/html-order-items.php:203
 #: includes/admin/reports/class-wc-report-customer-list.php:235
-#: includes/admin/reports/class-wc-report-stock.php:157
+#: includes/admin/reports/class-wc-report-stock.php:159
 msgid "Actions"
 msgstr "الإجراءات"
 
@@ -990,7 +998,7 @@ msgstr "عرض &#8220;%s&#8221;"
 
 #: includes/admin/class-wc-admin-post-types.php:231
 #: includes/admin/class-wc-admin-post-types.php:645
-#: includes/admin/reports/class-wc-report-stock.php:131
+#: includes/admin/reports/class-wc-report-stock.php:133
 #: includes/admin/views/html-admin-page-status-logs.php:24
 msgid "View"
 msgstr "عرض"
@@ -1004,14 +1012,14 @@ msgid "External/Affiliate"
 msgstr "خارجي ذو صلة"
 
 #: includes/admin/class-wc-admin-post-types.php:288
-#: includes/admin/class-wc-admin-post-types.php:1476
+#: includes/admin/class-wc-admin-post-types.php:1480
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:57
 #: includes/admin/meta-boxes/views/html-variation-admin.php:78
 msgid "Virtual"
 msgstr "منتج رقمي"
 
 #: includes/admin/class-wc-admin-post-types.php:290
-#: includes/admin/class-wc-admin-post-types.php:1468
+#: includes/admin/class-wc-admin-post-types.php:1472
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:64
 #: includes/admin/meta-boxes/views/html-variation-admin.php:76
 msgid "Downloadable"
@@ -1032,6 +1040,7 @@ msgstr "تعليم كمنتج بارز"
 #: includes/admin/class-wc-admin-post-types.php:322
 #: includes/admin/class-wc-admin-post-types.php:481
 #: includes/admin/class-wc-admin-post-types.php:549
+#: includes/admin/class-wc-admin-post-types.php:551
 #: includes/admin/class-wc-admin-post-types.php:553
 #: includes/admin/views/html-bulk-edit-product.php:203
 #: includes/admin/views/html-bulk-edit-product.php:240
@@ -1049,7 +1058,7 @@ msgstr "لا"
 #: includes/admin/class-wc-admin-post-types.php:331
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:327
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:651
-#: includes/admin/reports/class-wc-report-stock.php:106
+#: includes/admin/reports/class-wc-report-stock.php:108
 #: includes/admin/views/html-bulk-edit-product.php:221
 #: includes/admin/views/html-quick-edit-product.php:164
 msgid "In stock"
@@ -1059,7 +1068,7 @@ msgstr "متوفر في المخزون"
 #: includes/admin/class-wc-admin-reports.php:100
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:328
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:652
-#: includes/admin/reports/class-wc-report-stock.php:108
+#: includes/admin/reports/class-wc-report-stock.php:110
 #: includes/admin/views/html-bulk-edit-product.php:222
 #: includes/admin/views/html-quick-edit-product.php:165
 msgid "Out of stock"
@@ -1110,7 +1119,7 @@ msgstr[3] "بالإضافة إلى %d ملاحظات أخرى"
 msgstr[4] "بالإضافة إلى %d ملاحظة أخرى"
 msgstr[5] "بالإضافة إلى %d ملاحظة أخرى"
 
-#: includes/admin/class-wc-admin-post-types.php:551
+#: includes/admin/class-wc-admin-post-types.php:553
 msgid "%d note"
 msgid_plural "%d notes"
 msgstr[0] "%d ملاحظة"
@@ -1160,11 +1169,11 @@ msgstr "وضع علامة (بإنتظار العمل عليه)"
 msgid "Mark complete"
 msgstr "وضع علامة (مكتمل)"
 
-#: includes/admin/class-wc-admin-post-types.php:1254
+#: includes/admin/class-wc-admin-post-types.php:1253
 msgid "Order status changed by bulk edit:"
 msgstr "تم تغيير حالة الطلب عبر تحرير:"
 
-#: includes/admin/class-wc-admin-post-types.php:1282
+#: includes/admin/class-wc-admin-post-types.php:1286
 msgid "Order status changed."
 msgid_plural "%s order statuses changed."
 msgstr[0] "لم يتم تغيير حالة أي طلب."
@@ -1174,75 +1183,75 @@ msgstr[3] "تم تغيير حالة %s طلبات"
 msgstr[4] "تم تغيير حالة %s طلب"
 msgstr[5] "تم تغيير حالة %s طلب"
 
-#: includes/admin/class-wc-admin-post-types.php:1428
+#: includes/admin/class-wc-admin-post-types.php:1432
 msgid "Show all product types"
 msgstr "إظهار جميع أنواع المنتجات"
 
-#: includes/admin/class-wc-admin-post-types.php:1441
+#: includes/admin/class-wc-admin-post-types.php:1445
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:40
 msgid "Grouped product"
 msgstr "منتج مجمع"
 
-#: includes/admin/class-wc-admin-post-types.php:1444
+#: includes/admin/class-wc-admin-post-types.php:1448
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:41
 msgid "External/Affiliate product"
 msgstr "منتج خارجي"
 
-#: includes/admin/class-wc-admin-post-types.php:1447
+#: includes/admin/class-wc-admin-post-types.php:1451
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:42
 msgid "Variable product"
 msgstr "منتج متعدد الأنواع"
 
-#: includes/admin/class-wc-admin-post-types.php:1450
+#: includes/admin/class-wc-admin-post-types.php:1454
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:39
 msgid "Simple product"
 msgstr "منتج بسيط"
 
-#: includes/admin/class-wc-admin-post-types.php:1491
+#: includes/admin/class-wc-admin-post-types.php:1495
 msgid "Show all types"
 msgstr "إظهار جميع الأنواع"
 
-#: includes/admin/class-wc-admin-post-types.php:1520
+#: includes/admin/class-wc-admin-post-types.php:1524
 msgid "Search for a customer&hellip;"
 msgstr "البحث عن عميل&hellip;"
 
-#: includes/admin/class-wc-admin-post-types.php:1683
+#: includes/admin/class-wc-admin-post-types.php:1687
 msgid "Product updated. <a href=\"%s\">View Product</a>"
 msgstr "تم تحديث المنتج. <a href=\"%s\">عرض المنتج</a>"
 
-#: includes/admin/class-wc-admin-post-types.php:1684
-#: includes/admin/class-wc-admin-post-types.php:1699
-#: includes/admin/class-wc-admin-post-types.php:1715
+#: includes/admin/class-wc-admin-post-types.php:1688
+#: includes/admin/class-wc-admin-post-types.php:1703
+#: includes/admin/class-wc-admin-post-types.php:1719
 msgid "Custom field updated."
 msgstr "تم تحديث الحقل الخاص."
 
-#: includes/admin/class-wc-admin-post-types.php:1685
-#: includes/admin/class-wc-admin-post-types.php:1700
-#: includes/admin/class-wc-admin-post-types.php:1716
+#: includes/admin/class-wc-admin-post-types.php:1689
+#: includes/admin/class-wc-admin-post-types.php:1704
+#: includes/admin/class-wc-admin-post-types.php:1720
 msgid "Custom field deleted."
 msgstr "تم حذف الحقل الخاص."
 
-#: includes/admin/class-wc-admin-post-types.php:1686
+#: includes/admin/class-wc-admin-post-types.php:1690
 msgid "Product updated."
 msgstr "تم تحديث المتج."
 
-#: includes/admin/class-wc-admin-post-types.php:1687
+#: includes/admin/class-wc-admin-post-types.php:1691
 msgid "Product restored to revision from %s"
 msgstr "تمت استعادة النسخة (%s) من المنتج."
 
-#: includes/admin/class-wc-admin-post-types.php:1688
+#: includes/admin/class-wc-admin-post-types.php:1692
 msgid "Product published. <a href=\"%s\">View Product</a>"
 msgstr "تم نشر المنتج. <a href=\"%s\">عرض المنتج</a>."
 
-#: includes/admin/class-wc-admin-post-types.php:1689
+#: includes/admin/class-wc-admin-post-types.php:1693
 msgid "Product saved."
 msgstr "تم حفظ المنتج."
 
-#: includes/admin/class-wc-admin-post-types.php:1690
+#: includes/admin/class-wc-admin-post-types.php:1694
 msgid "Product submitted. <a target=\"_blank\" href=\"%s\">Preview Product</a>"
 msgstr "تمت إضافة المنتج. <a target=\"_blank\" href=\"%s\">معاينة المنتج</a>."
 
-#: includes/admin/class-wc-admin-post-types.php:1691
+#: includes/admin/class-wc-admin-post-types.php:1695
 msgid ""
 "Product scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
 "\">Preview Product</a>"
@@ -1250,9 +1259,9 @@ msgstr ""
 "تمت جدولة المنتج ليوم: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
 "\">معاينة المنتج</a>."
 
-#: includes/admin/class-wc-admin-post-types.php:1692
-#: includes/admin/class-wc-admin-post-types.php:1707
-#: includes/admin/class-wc-admin-post-types.php:1723
+#: includes/admin/class-wc-admin-post-types.php:1696
+#: includes/admin/class-wc-admin-post-types.php:1711
+#: includes/admin/class-wc-admin-post-types.php:1727
 #: includes/admin/settings/views/html-webhook-log.php:10
 #: includes/admin/settings/views/html-webhooks-edit.php:126
 #: includes/admin/settings/views/html-webhooks-edit.php:135
@@ -1260,132 +1269,131 @@ msgstr ""
 msgid "M j, Y @ G:i"
 msgstr "M j، Y @ G:i"
 
-#: includes/admin/class-wc-admin-post-types.php:1693
+#: includes/admin/class-wc-admin-post-types.php:1697
 msgid "Product draft updated. <a target=\"_blank\" href=\"%s\">Preview Product</a>"
 msgstr "تم حفظ المنتج كمسودة<a target=\"_blank\" href=\"%s\">معاينة المنتج</a>."
 
-#: includes/admin/class-wc-admin-post-types.php:1698
-#: includes/admin/class-wc-admin-post-types.php:1701
-#: includes/admin/class-wc-admin-post-types.php:1703
+#: includes/admin/class-wc-admin-post-types.php:1702
+#: includes/admin/class-wc-admin-post-types.php:1705
+#: includes/admin/class-wc-admin-post-types.php:1707
 msgid "Order updated."
 msgstr "تم تحديث الطلب."
 
-#: includes/admin/class-wc-admin-post-types.php:1702
+#: includes/admin/class-wc-admin-post-types.php:1706
 msgid "Order restored to revision from %s"
 msgstr "تمت استعادة النسخة (%s) من الطلب."
 
-#: includes/admin/class-wc-admin-post-types.php:1704
+#: includes/admin/class-wc-admin-post-types.php:1708
 msgid "Order saved."
 msgstr "تم حفظ الطلب."
 
-#: includes/admin/class-wc-admin-post-types.php:1705
+#: includes/admin/class-wc-admin-post-types.php:1709
 msgid "Order submitted."
 msgstr "تمت إضافة الطلب."
 
-#: includes/admin/class-wc-admin-post-types.php:1706
+#: includes/admin/class-wc-admin-post-types.php:1710
 msgid "Order scheduled for: <strong>%1$s</strong>."
 msgstr "تمت جدولة الطلب ليوم: <strong>%1$s</strong>."
 
-#: includes/admin/class-wc-admin-post-types.php:1708
+#: includes/admin/class-wc-admin-post-types.php:1712
 msgid "Order draft updated."
 msgstr "تم حفظ الطلب كمسودة."
 
-#: includes/admin/class-wc-admin-post-types.php:1709
+#: includes/admin/class-wc-admin-post-types.php:1713
 msgid "Order updated and email sent."
 msgstr "تم تحديث الطلب وإرسال البريد."
 
-#: includes/admin/class-wc-admin-post-types.php:1714
-#: includes/admin/class-wc-admin-post-types.php:1717
-#: includes/admin/class-wc-admin-post-types.php:1719
+#: includes/admin/class-wc-admin-post-types.php:1718
+#: includes/admin/class-wc-admin-post-types.php:1721
+#: includes/admin/class-wc-admin-post-types.php:1723
 msgid "Coupon updated."
 msgstr "تم تحديث القسيمة."
 
-#: includes/admin/class-wc-admin-post-types.php:1718
+#: includes/admin/class-wc-admin-post-types.php:1722
 msgid "Coupon restored to revision from %s"
 msgstr "تمت استعادة النسخة (%s) من القسيمة."
 
-#: includes/admin/class-wc-admin-post-types.php:1720
+#: includes/admin/class-wc-admin-post-types.php:1724
 msgid "Coupon saved."
 msgstr "تم حفظ القسيمة."
 
-#: includes/admin/class-wc-admin-post-types.php:1721
+#: includes/admin/class-wc-admin-post-types.php:1725
 msgid "Coupon submitted."
 msgstr "تمت إضافة القسيمة."
 
-#: includes/admin/class-wc-admin-post-types.php:1722
+#: includes/admin/class-wc-admin-post-types.php:1726
 msgid "Coupon scheduled for: <strong>%1$s</strong>."
 msgstr "تمت جدولة القسيمة ليوم: <strong>%1$s</strong>."
 
-#: includes/admin/class-wc-admin-post-types.php:1724
+#: includes/admin/class-wc-admin-post-types.php:1728
 msgid "Coupon draft updated."
 msgstr "تم حفظ القسيمة كمسودة."
 
-#: includes/admin/class-wc-admin-post-types.php:1897
+#: includes/admin/class-wc-admin-post-types.php:1901
 msgid "Product name"
 msgstr "اسم المنتج"
 
-#: includes/admin/class-wc-admin-post-types.php:1900
+#: includes/admin/class-wc-admin-post-types.php:1904
 msgid "Coupon code"
 msgstr "رمز القسيمة"
 
-#: includes/admin/class-wc-admin-post-types.php:1915
+#: includes/admin/class-wc-admin-post-types.php:1919
 msgid "Description (optional)"
 msgstr "الوصف (إختياري)"
 
-#: includes/admin/class-wc-admin-post-types.php:1932
+#: includes/admin/class-wc-admin-post-types.php:1936
 msgid "Insert into %s"
 msgstr "ادخال في %s"
 
-#: includes/admin/class-wc-admin-post-types.php:1933
+#: includes/admin/class-wc-admin-post-types.php:1937
 msgid "Uploaded to this %s"
 msgstr "تم رفعها لـ %s"
 
-#: includes/admin/class-wc-admin-post-types.php:1953
+#: includes/admin/class-wc-admin-post-types.php:1957
 msgid "Catalog/search"
 msgstr "القائمة\\البحث"
 
-#: includes/admin/class-wc-admin-post-types.php:1954
+#: includes/admin/class-wc-admin-post-types.php:1958
 #: includes/admin/views/html-bulk-edit-product.php:185
 #: includes/admin/views/html-quick-edit-product.php:142
 msgid "Catalog"
 msgstr "قائمة المنتجات"
 
-#: includes/admin/class-wc-admin-post-types.php:1955
+#: includes/admin/class-wc-admin-post-types.php:1959
 #: includes/admin/views/html-bulk-edit-product.php:186
 #: includes/admin/views/html-quick-edit-product.php:143
 msgid "Search"
 msgstr "البحث"
 
-#: includes/admin/class-wc-admin-post-types.php:1956
+#: includes/admin/class-wc-admin-post-types.php:1960
 #: includes/admin/views/html-bulk-edit-product.php:187
 #: includes/admin/views/html-quick-edit-product.php:144
 msgid "Hidden"
 msgstr "مخفي"
 
-#: includes/admin/class-wc-admin-post-types.php:1960
+#: includes/admin/class-wc-admin-post-types.php:1964
 msgid "Catalog visibility:"
 msgstr "عرض المنتج في:"
 
-#: includes/admin/class-wc-admin-post-types.php:1976
+#: includes/admin/class-wc-admin-post-types.php:1980
 msgid ""
 "Define the loops this product should be visible in. The product will still be "
 "accessible directly."
-msgstr ""
-"تحديد الأماكن التي يعرض المنتج فيها، الرابط المباشر يعمل ولا يتأثر بهذا الخيار."
+msgstr "تحديد الأماكن التي يعرض المنتج فيها، الرابط المباشر يعمل ولا يتأثر بهذا الخيار."
 
-#: includes/admin/class-wc-admin-post-types.php:1982
+#: includes/admin/class-wc-admin-post-types.php:1986
 msgid "Enable this option to feature this product."
 msgstr "فعل هذا الخيار للمنتجات المميزة."
 
-#: includes/admin/class-wc-admin-post-types.php:1984
+#: includes/admin/class-wc-admin-post-types.php:1988
 msgid "Featured Product"
 msgstr "منتج مميز."
 
-#: includes/admin/class-wc-admin-post-types.php:1987
+#: includes/admin/class-wc-admin-post-types.php:1991
 msgid "OK"
 msgstr "موافق"
 
-#: includes/admin/class-wc-admin-post-types.php:1988
+#: includes/admin/class-wc-admin-post-types.php:1992
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:175
 #: includes/admin/meta-boxes/views/html-order-items.php:243
 #: includes/admin/meta-boxes/views/html-order-items.php:289
@@ -1575,11 +1583,6 @@ msgstr "الضرائب بالرمز"
 msgid "Taxes by date"
 msgstr "الضرائب بالتاريخ"
 
-#: includes/admin/class-wc-admin-settings.php:58
-#: includes/admin/class-wc-admin-webhooks.php:123
-msgid "Action failed. Please refresh the page and retry."
-msgstr "فشل تنفيذ الإجراء. رجاءً حدث الصفحة وحاول مجددا"
-
 #: includes/admin/class-wc-admin-settings.php:69
 msgid "Your settings have been saved."
 msgstr "تم حفظ إعداداتك."
@@ -1624,254 +1627,254 @@ msgstr "مسح الكل"
 msgid "Product Transients Cleared"
 msgstr "ذاكرة المنتجات المؤقتة مسحها"
 
-#: includes/admin/class-wc-admin-status.php:91
+#: includes/admin/class-wc-admin-status.php:75
 msgid "%d Transients Rows Cleared"
 msgstr "%d من عناصر الذاكرة المؤقتة تم مسحه"
 
-#: includes/admin/class-wc-admin-status.php:99
+#: includes/admin/class-wc-admin-status.php:83
 msgid "Roles successfully reset"
 msgstr "نجحت إعادة تعيين الأساسات "
 
-#: includes/admin/class-wc-admin-status.php:111
+#: includes/admin/class-wc-admin-status.php:95
 msgid "Terms successfully recounted"
 msgstr "الصفات أعيد عدها بنجاح"
 
-#: includes/admin/class-wc-admin-status.php:122
+#: includes/admin/class-wc-admin-status.php:106
 msgid "Sessions successfully cleared"
 msgstr "تمت إزالة الجلسات بنجاح"
 
-#: includes/admin/class-wc-admin-status.php:126
+#: includes/admin/class-wc-admin-status.php:110
 msgid "All missing WooCommerce pages was installed successfully."
 msgstr "تم تنصيب جميع صفحات ووكومرس المفقودة بنجاح."
 
-#: includes/admin/class-wc-admin-status.php:134
+#: includes/admin/class-wc-admin-status.php:118
 msgid "Tax rates successfully deleted"
 msgstr "تم حذف أسعار الضريبة بنجاح"
 
-#: includes/admin/class-wc-admin-status.php:140
+#: includes/admin/class-wc-admin-status.php:124
 msgid "Usage tracking settings successfully reset."
 msgstr "تم إلغاء إعدادات تتبع الإستخدام بنجاح."
 
-#: includes/admin/class-wc-admin-status.php:149
+#: includes/admin/class-wc-admin-status.php:133
 msgid "There was an error calling %s::%s"
 msgstr "عناك خطأ عطل %s::%s"
 
-#: includes/admin/class-wc-admin-status.php:152
+#: includes/admin/class-wc-admin-status.php:136
 msgid "There was an error calling %s"
 msgstr "عناك خطأ عطل %s"
 
-#: includes/admin/class-wc-admin-status.php:164
-#: includes/admin/class-wc-admin-status.php:167
-#: includes/admin/class-wc-admin-status.php:170
+#: includes/admin/class-wc-admin-status.php:148
+#: includes/admin/class-wc-admin-status.php:151
+#: includes/admin/class-wc-admin-status.php:154
 msgid "Failed to install/update the translation:"
 msgstr "حدث خطأ أثناء تنصيب/تحديث الترجمة:"
 
-#: includes/admin/class-wc-admin-status.php:164
+#: includes/admin/class-wc-admin-status.php:148
 msgid "Seems you don't have permission to do this!"
 msgstr "يبدو بأنك لا تمتلك تصريح لفعل هذا!"
 
-#: includes/admin/class-wc-admin-status.php:167
+#: includes/admin/class-wc-admin-status.php:151
 msgid ""
-"An authentication error occurred while updating the translation. Please try again "
-"or configure your %sUpgrade Constants%s."
+"An authentication error occurred while updating the translation. Please try again or "
+"configure your %sUpgrade Constants%s."
 msgstr ""
-"حدث خطأ في التوثيق أثناء تحديث الترجمة. الرجاء المحاولة مجددًا أو ضبط %sثوابت "
-"الترقية%s."
+"حدث خطأ في التوثيق أثناء تحديث الترجمة. الرجاء المحاولة مجددًا أو ضبط %sثوابت الترقية"
+"%s."
 
-#: includes/admin/class-wc-admin-status.php:170
+#: includes/admin/class-wc-admin-status.php:154
 msgid "Sorry but there is no translation available for your language =/"
 msgstr "عذرًا، ولكن لا يوجد ترجمة متاحة للغتك =/"
 
-#: includes/admin/class-wc-admin-status.php:177
+#: includes/admin/class-wc-admin-status.php:161
 msgid "Translations installed/updated successfully!"
 msgstr "تم تنصيب/تحديث الترجمات بنجاح!"
 
-#: includes/admin/class-wc-admin-status.php:184
+#: includes/admin/class-wc-admin-status.php:168
 msgid "Your changes have been saved."
 msgstr "تم حفظ تغييراتك بنجاح."
 
-#: includes/admin/class-wc-admin-status.php:197
+#: includes/admin/class-wc-admin-status.php:181
 msgid "WC Transients"
 msgstr "التخزينات المؤقتة"
 
-#: includes/admin/class-wc-admin-status.php:198
+#: includes/admin/class-wc-admin-status.php:182
 msgid "Clear transients"
 msgstr "مسح التخزينات"
 
-#: includes/admin/class-wc-admin-status.php:199
+#: includes/admin/class-wc-admin-status.php:183
 msgid "This tool will clear the product/shop transients cache."
 msgstr "هذا الخيار سيمسح التخزينات المؤقتة للمنتجات والمتجر بشكل عام."
 
-#: includes/admin/class-wc-admin-status.php:202
+#: includes/admin/class-wc-admin-status.php:186
 msgid "Expired Transients"
 msgstr "التخزينات المنتهية"
 
-#: includes/admin/class-wc-admin-status.php:203
+#: includes/admin/class-wc-admin-status.php:187
 msgid "Clear expired transients"
 msgstr "مسح التخزينات المنتهية"
 
-#: includes/admin/class-wc-admin-status.php:204
+#: includes/admin/class-wc-admin-status.php:188
 msgid "This tool will clear ALL expired transients from WordPress."
 msgstr "هذه الأداة ستمسح جميع التخزينات المنتهية من ووربريس، وليس المتجر فقط."
 
-#: includes/admin/class-wc-admin-status.php:207
+#: includes/admin/class-wc-admin-status.php:191
 msgid "Term counts"
 msgstr "أعداد النوع"
 
-#: includes/admin/class-wc-admin-status.php:208
+#: includes/admin/class-wc-admin-status.php:192
 msgid "Recount terms"
 msgstr "إعادة عد الأنواع"
 
-#: includes/admin/class-wc-admin-status.php:209
+#: includes/admin/class-wc-admin-status.php:193
 msgid ""
-"This tool will recount product terms - useful when changing your settings in a "
-"way which hides products from the catalog."
+"This tool will recount product terms - useful when changing your settings in a way "
+"which hides products from the catalog."
 msgstr ""
-"هذه الأداة ستعيد عد مصطلحات المنتجات - مفيدة في حال تغيير إعداداتك لإخفاء منتجاتك "
-"من واجهة المتجر."
+"هذه الأداة ستعيد عد مصطلحات المنتجات - مفيدة في حال تغيير إعداداتك لإخفاء منتجاتك من "
+"واجهة المتجر."
 
-#: includes/admin/class-wc-admin-status.php:212
+#: includes/admin/class-wc-admin-status.php:196
 msgid "Capabilities"
 msgstr "الرتب"
 
-#: includes/admin/class-wc-admin-status.php:213
+#: includes/admin/class-wc-admin-status.php:197
 msgid "Reset capabilities"
 msgstr "إعادة تعيين الرتب"
 
-#: includes/admin/class-wc-admin-status.php:214
+#: includes/admin/class-wc-admin-status.php:198
 msgid ""
-"This tool will reset the admin, customer and shop_manager roles to default. Use "
-"this if your users cannot access all of the WooCommerce admin pages."
+"This tool will reset the admin, customer and shop_manager roles to default. Use this "
+"if your users cannot access all of the WooCommerce admin pages."
 msgstr ""
-"هذه الأداة ستعيد تعيين رتب المدراء والعملاء ومشرفي المتجر لرتبهم الإفتراضية. "
-"إستخدم هذه الأداة في حالة عدم قدرة المستخدمين للوصول لصفحات إدارة المتجر."
+"هذه الأداة ستعيد تعيين رتب المدراء والعملاء ومشرفي المتجر لرتبهم الإفتراضية. إستخدم "
+"هذه الأداة في حالة عدم قدرة المستخدمين للوصول لصفحات إدارة المتجر."
 
-#: includes/admin/class-wc-admin-status.php:217
+#: includes/admin/class-wc-admin-status.php:201
 msgid "Customer Sessions"
 msgstr "جلسات العملاء"
 
-#: includes/admin/class-wc-admin-status.php:218
+#: includes/admin/class-wc-admin-status.php:202
 msgid "Clear all sessions"
 msgstr "مسح جميع الجلسات"
 
-#: includes/admin/class-wc-admin-status.php:219
+#: includes/admin/class-wc-admin-status.php:203
 msgid ""
-"<strong class=\"red\">Warning:</strong> This tool will delete all customer "
-"session data from the database, including any current live carts."
+"<strong class=\"red\">Warning:</strong> This tool will delete all customer session "
+"data from the database, including any current live carts."
 msgstr ""
-"<strong class=\"red\">تحذير:</strong>  هذه الأداة ستحذف جميع بيانات جلسة العميل "
-"من قاعدة البيانات، متضمنةً أي بيانات حيّة."
+"<strong class=\"red\">تحذير:</strong>  هذه الأداة ستحذف جميع بيانات جلسة العميل من "
+"قاعدة البيانات، متضمنةً أي بيانات حيّة."
 
-#: includes/admin/class-wc-admin-status.php:222
+#: includes/admin/class-wc-admin-status.php:206
 #: includes/admin/views/html-notice-install.php:14
 msgid "Install WooCommerce Pages"
 msgstr "تنصيب صفحات المتجر"
 
-#: includes/admin/class-wc-admin-status.php:223
+#: includes/admin/class-wc-admin-status.php:207
 msgid "Install pages"
 msgstr "تنصيب الصفحات"
 
-#: includes/admin/class-wc-admin-status.php:224
+#: includes/admin/class-wc-admin-status.php:208
 msgid ""
 "<strong class=\"red\">Note:</strong> This tool will install all the missing "
 "WooCommerce pages. Pages already defined and set up will not be replaced."
 msgstr ""
-"<strong class=\"red\">ملاحظة:</strong> هذه الأداة ستنصب جميع صفحات المتجر "
-"المفقودة.  لن يتم إستبدال الصفحات المتواجدة مسبقًا."
+"<strong class=\"red\">ملاحظة:</strong> هذه الأداة ستنصب جميع صفحات المتجر المفقودة.  "
+"لن يتم إستبدال الصفحات المتواجدة مسبقًا."
 
-#: includes/admin/class-wc-admin-status.php:227
+#: includes/admin/class-wc-admin-status.php:211
 msgid "Delete all WooCommerce tax rates"
 msgstr "حذف جميع بيانات ضرائب المتجر"
 
-#: includes/admin/class-wc-admin-status.php:228
+#: includes/admin/class-wc-admin-status.php:212
 msgid "Delete ALL tax rates"
 msgstr "حذف جميع بيانات الضرائب"
 
-#: includes/admin/class-wc-admin-status.php:229
+#: includes/admin/class-wc-admin-status.php:213
 msgid ""
-"<strong class=\"red\">Note:</strong> This option will delete ALL of your tax "
-"rates, use with caution."
+"<strong class=\"red\">Note:</strong> This option will delete ALL of your tax rates, "
+"use with caution."
 msgstr ""
-"<strong class=\"red\">ملاحظة: </strong>هذا الخيار سيحذف جميع بيانات الضرائب، "
-"إستخدمه بحذر."
+"<strong class=\"red\">ملاحظة: </strong>هذا الخيار سيحذف جميع بيانات الضرائب، إستخدمه "
+"بحذر."
 
-#: includes/admin/class-wc-admin-status.php:232
+#: includes/admin/class-wc-admin-status.php:216
 msgid "Reset Usage Tracking Settings"
 msgstr "إلغاء إعدادات تتبع الإستخدام"
 
-#: includes/admin/class-wc-admin-status.php:233
+#: includes/admin/class-wc-admin-status.php:217
 msgid "Reset usage tracking settings"
 msgstr "إلغاء إعدادات تتبع الإستخدام"
 
-#: includes/admin/class-wc-admin-status.php:234
+#: includes/admin/class-wc-admin-status.php:218
 msgid ""
-"This will reset your usage tracking settings, causing it to show the opt-in "
-"banner again and not sending any data."
+"This will reset your usage tracking settings, causing it to show the opt-in banner "
+"again and not sending any data."
 msgstr ""
-"تساعدك هذه الأداة بإلغاء إعدادات تتبع الإستخدام مما يتسبب بإعادة إظهار إشعار "
-"التتبع مرة أخرى وإختيار رفضه أو الموافقة عليه."
+"تساعدك هذه الأداة بإلغاء إعدادات تتبع الإستخدام مما يتسبب بإعادة إظهار إشعار التتبع "
+"مرة أخرى وإختيار رفضه أو الموافقة عليه."
 
-#: includes/admin/class-wc-admin-status.php:240
+#: includes/admin/class-wc-admin-status.php:224
 msgid "Translation Upgrade"
 msgstr "تحديث الترجمة"
 
-#: includes/admin/class-wc-admin-status.php:241
+#: includes/admin/class-wc-admin-status.php:225
 msgid "Force Translation Upgrade"
 msgstr "إجبار تحديث الترجمة"
 
-#: includes/admin/class-wc-admin-status.php:242
+#: includes/admin/class-wc-admin-status.php:226
 msgid ""
-"<strong class=\"red\">Note:</strong> This option will force the translation "
-"upgrade for your language if a translation is available."
+"<strong class=\"red\">Note:</strong> This option will force the translation upgrade "
+"for your language if a translation is available."
 msgstr ""
-"‏<strong class=\"red\">ملاحظة:</strong> سيقوم هذا الخيار بإجبار تحديث الترجمة إلى "
-"لغتك اذا كانت متاحة."
+"‏<strong class=\"red\">ملاحظة:</strong> سيقوم هذا الخيار بإجبار تحديث الترجمة إلى لغتك "
+"اذا كانت متاحة."
 
-#: includes/admin/class-wc-admin-taxonomies.php:89
-#: includes/admin/class-wc-admin-taxonomies.php:177
+#: includes/admin/class-wc-admin-taxonomies.php:88
+#: includes/admin/class-wc-admin-taxonomies.php:176
 msgid "Display type"
 msgstr "نوع العرض"
 
-#: includes/admin/class-wc-admin-taxonomies.php:92
-#: includes/admin/class-wc-admin-taxonomies.php:181
+#: includes/admin/class-wc-admin-taxonomies.php:91
+#: includes/admin/class-wc-admin-taxonomies.php:180
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:99
 #: includes/admin/settings/class-wc-settings-products.php:28
 #: includes/admin/views/html-admin-page-addons.php:31
 msgid "Products"
-msgstr "المنتجات"
+msgstr "منتجات"
 
-#: includes/admin/class-wc-admin-taxonomies.php:93
-#: includes/admin/class-wc-admin-taxonomies.php:182
+#: includes/admin/class-wc-admin-taxonomies.php:92
+#: includes/admin/class-wc-admin-taxonomies.php:181
 msgid "Subcategories"
 msgstr "التصنيفات الفرعية"
 
-#: includes/admin/class-wc-admin-taxonomies.php:94
-#: includes/admin/class-wc-admin-taxonomies.php:183
+#: includes/admin/class-wc-admin-taxonomies.php:93
+#: includes/admin/class-wc-admin-taxonomies.php:182
 msgid "Both"
 msgstr "كلاهما"
 
-#: includes/admin/class-wc-admin-taxonomies.php:98
-#: includes/admin/class-wc-admin-taxonomies.php:188
-#: includes/admin/class-wc-admin-taxonomies.php:315
+#: includes/admin/class-wc-admin-taxonomies.php:97
+#: includes/admin/class-wc-admin-taxonomies.php:187
+#: includes/admin/class-wc-admin-taxonomies.php:319
 msgid "Thumbnail"
 msgstr "الصورة البارزة للتصنيف"
 
-#: includes/admin/class-wc-admin-taxonomies.php:102
-#: includes/admin/class-wc-admin-taxonomies.php:193
+#: includes/admin/class-wc-admin-taxonomies.php:101
+#: includes/admin/class-wc-admin-taxonomies.php:192
 msgid "Upload/Add image"
 msgstr "رفع أو إضافة صورة"
 
-#: includes/admin/class-wc-admin-taxonomies.php:103
-#: includes/admin/class-wc-admin-taxonomies.php:194
+#: includes/admin/class-wc-admin-taxonomies.php:102
+#: includes/admin/class-wc-admin-taxonomies.php:193
 msgid "Remove image"
 msgstr "إزالة صورة"
 
-#: includes/admin/class-wc-admin-taxonomies.php:129
-#: includes/admin/class-wc-admin-taxonomies.php:215
+#: includes/admin/class-wc-admin-taxonomies.php:128
+#: includes/admin/class-wc-admin-taxonomies.php:219
 msgid "Use image"
 msgstr "استخدام صورة"
 
-#: includes/admin/class-wc-admin-taxonomies.php:265
+#: includes/admin/class-wc-admin-taxonomies.php:269
 msgid ""
 "Product categories for your store can be managed here. To change the order of "
 "categories on the front-end you can drag and drop to sort them. To see more "
@@ -1880,14 +1883,13 @@ msgstr ""
 "تصنيفات المنتجات لمتجرك تدار هنا. لتغيير ترتيب التصنيفات في واجهة الموقع، تستطيع "
 "السحب والإفلات لترتيبهم."
 
-#: includes/admin/class-wc-admin-taxonomies.php:272
+#: includes/admin/class-wc-admin-taxonomies.php:276
 msgid ""
-"Shipping classes can be used to group products of similar type. These groups can "
-"then be used by certain shipping methods to provide different rates to different "
-"products."
+"Shipping classes can be used to group products of similar type. These groups can then "
+"be used by certain shipping methods to provide different rates to different products."
 msgstr ""
-"فئات الشحن تستخدم لجمع المنتجات من نفس النوع. وممكن أن تستخدم هذه المجموعات في "
-"طرق الشحن لتطبيق ضرائب مختلفة لكل منتج."
+"فئات الشحن تستخدم لجمع المنتجات من نفس النوع. وممكن أن تستخدم هذه المجموعات في طرق "
+"الشحن لتطبيق ضرائب مختلفة لكل منتج."
 
 #: includes/admin/class-wc-admin-webhooks-table-list.php:26
 msgid "webhook"
@@ -1975,11 +1977,10 @@ msgstr "شكرًا للتنصيب!"
 
 #: includes/admin/class-wc-admin-welcome.php:211
 msgid ""
-"%s WooCommerce %s is more powerful, stable and secure than ever before. We hope "
-"you enjoy using it."
+"%s WooCommerce %s is more powerful, stable and secure than ever before. We hope you "
+"enjoy using it."
 msgstr ""
-"‏%s ووكومرس %s أصبح أكثر قوة وإستقرارًا وأمانًا من أي وقتٍ مضى. نأمل أن تستمع "
-"بإستخدامه."
+"‏%s ووكومرس %s أصبح أكثر قوة وإستقرارًا وأمانًا من أي وقتٍ مضى. نأمل أن تستمع بإستخدامه."
 
 #: includes/admin/class-wc-admin-welcome.php:215
 msgid "Version %s"
@@ -2010,8 +2011,8 @@ msgid ""
 "We've updated the user interface on both the front and backend of WooCommerce 2.3 "
 "\"Handsome Hippo\"."
 msgstr ""
-"قمنا بتحديث كلًا من واجهة استخدام المتجر ولوحة التحكم في نسخة ووكومرس 2‪.‬3 \"فرس "
-"النهر الأنيق\"."
+"قمنا بتحديث كلًا من واجهة استخدام المتجر ولوحة التحكم في نسخة ووكومرس 2‪.‬3 \"فرس النهر "
+"الأنيق\"."
 
 #: includes/admin/class-wc-admin-welcome.php:254
 msgid "Frontend UI Improvements"
@@ -2019,9 +2020,9 @@ msgstr "تحسينات لواجهة استخدام المتجر"
 
 #: includes/admin/class-wc-admin-welcome.php:255
 msgid ""
-"On the frontend there are several UX enhancements such as the undo-remove-from "
-"cart link and responsive table design as well as a fresh, modern look which "
-"meshes more fluidly with the current design trends of default WordPress themes."
+"On the frontend there are several UX enhancements such as the undo-remove-from cart "
+"link and responsive table design as well as a fresh, modern look which meshes more "
+"fluidly with the current design trends of default WordPress themes."
 msgstr ""
 "تم إجراء بضعة تحسينات لتجربة الإستخدام في واجهة المتجر كإضافة زر التراجع عن حذف "
 "المنتج من السلة وتصميم جداول متجاوب بالإضافة إلى مظهر منعش وحديث ينسجم مع أساليب "
@@ -2045,9 +2046,9 @@ msgstr "واجهة استخدام Webhooks"
 
 #: includes/admin/class-wc-admin-welcome.php:263
 msgid ""
-"As part of the API, we've introduced a UI for the Webhook system in WooCommerce "
-"2.3. This makes it easier for 3rd party apps to integrate with WooCommerce. Read "
-"more in our %sdocs%s."
+"As part of the API, we've introduced a UI for the Webhook system in WooCommerce 2.3. "
+"This makes it easier for 3rd party apps to integrate with WooCommerce. Read more in "
+"our %sdocs%s."
 msgstr ""
 "كجزء من الـ API، قمنا بتقديم واجهة لإدارة نظام Webhooks في ووكومرس 2‪.‬3. يسهل ذلك "
 "التكامل مع التطبيقات الخارجية. إقرأ المزيد في %sالتعليمات%s."
@@ -2058,13 +2059,13 @@ msgstr "تحديد موقع العميل جغرافيًا"
 
 #: includes/admin/class-wc-admin-welcome.php:272
 msgid ""
-"We have added a new option to geolocate the \"Default Customer Location\". "
-"Coupled with ability to show taxes in your store based on this location, you can "
-"show relevant prices store-wide. Enable this in the %ssettings%s."
+"We have added a new option to geolocate the \"Default Customer Location\". Coupled "
+"with ability to show taxes in your store based on this location, you can show "
+"relevant prices store-wide. Enable this in the %ssettings%s."
 msgstr ""
 "قمنا بإضافة خيار جديد لتحديد الموقع الجغرافي لـ \"الموقع الإفتراضي للعميل\". مع "
-"قابلية إظهار الضرائب في متجرك حسب هذا الموقع. بإمكانك عرض الأسعار المتعلقة في "
-"كافة أرجاء المتجر. فعل هذا الخيار في %sالإعدادات%s."
+"قابلية إظهار الضرائب في متجرك حسب هذا الموقع. بإمكانك عرض الأسعار المتعلقة في كافة "
+"أرجاء المتجر. فعل هذا الخيار في %sالإعدادات%s."
 
 #: includes/admin/class-wc-admin-welcome.php:275
 msgid "Color Customization"
@@ -2072,9 +2073,9 @@ msgstr "تخصيص الألوان"
 
 #: includes/admin/class-wc-admin-welcome.php:276
 msgid ""
-"If you're looking to customise the look and feel of the frontend in 2.3, take a "
-"look at the free %sWooCommerce Colors plugin%s. This lets you change the colors "
-"with a live preview."
+"If you're looking to customise the look and feel of the frontend in 2.3, take a look "
+"at the free %sWooCommerce Colors plugin%s. This lets you change the colors with a "
+"live preview."
 msgstr ""
 "اذا كنت ترغب بتخصيص مظهر وشعور واجهة المتجر في الإصدارة 2‪.‬3، ألقِ نظرة على %sإضافة "
 "WooCommerce Colors%s المجانية. تمكنك هذه الإضافة من تغيير الألوان مع عرض حي لمظهر "
@@ -2086,8 +2087,8 @@ msgstr "تقارير محسنة"
 
 #: includes/admin/class-wc-admin-welcome.php:280
 msgid ""
-"Sales reports can now show net and gross amounts, we've added a print stylesheet, "
-"and added extra data on refunds to reports."
+"Sales reports can now show net and gross amounts, we've added a print stylesheet, and "
+"added extra data on refunds to reports."
 msgstr ""
 "الآن يمكن لتقارير المبيعات إظهار صافي وإجمالي المبالغ، مع تنسيقات مخصصة للطباعة، "
 "وبيانات إضافة للمبالغ المسترجعة في التقارير."
@@ -2098,11 +2099,11 @@ msgstr "تحسينات لبوابة الدفع Simplify"
 
 #: includes/admin/class-wc-admin-welcome.php:286
 msgid ""
-"The built in Simplify Commerce Gateway (available in the US) now supports "
-"%sHosted Payments%s - a PCI Compliant hosted payment platform."
+"The built in Simplify Commerce Gateway (available in the US) now supports %sHosted "
+"Payments%s - a PCI Compliant hosted payment platform."
 msgstr ""
-"الآن تدعم بوابة دفع Simplify والمتاحة في الولايات المتحدة %sالمبالغ المستضافة%s - "
-"وهي منصة دفع مستضافة ومتوافقة مع PCI."
+"الآن تدعم بوابة دفع Simplify والمتاحة في الولايات المتحدة %sالمبالغ المستضافة%s - وهي "
+"منصة دفع مستضافة ومتوافقة مع PCI."
 
 #: includes/admin/class-wc-admin-welcome.php:289
 msgid "Email Template Improvements"
@@ -2110,13 +2111,13 @@ msgstr "تحسينات لقالب البريد الإلكتروني"
 
 #: includes/admin/class-wc-admin-welcome.php:290
 msgid ""
-"To make email customization simpler, we've included a CSS Inliner in this "
-"release, some new template files for styling emails, and some additional hooks "
-"for developers. Read more on our %sdeveloper blog%s."
+"To make email customization simpler, we've included a CSS Inliner in this release, "
+"some new template files for styling emails, and some additional hooks for developers. "
+"Read more on our %sdeveloper blog%s."
 msgstr ""
-"قمنا بإضافة CSS Inliner لهذا الإصدار لجعل تخصيص البريد الإلكتروني أكثر سهولة، "
-"وبعض ملفات قالب جديدة لتنسيق الرسائل الإلكترونية، و Hooks إضافية للمطورين. إقرأ "
-"المزيد على %sمدونة المطورين%s الخاصة بنا."
+"قمنا بإضافة CSS Inliner لهذا الإصدار لجعل تخصيص البريد الإلكتروني أكثر سهولة، وبعض "
+"ملفات قالب جديدة لتنسيق الرسائل الإلكترونية، و Hooks إضافية للمطورين. إقرأ المزيد على "
+"%sمدونة المطورين%s الخاصة بنا."
 
 #: includes/admin/class-wc-admin-welcome.php:293
 msgid "Simplified Coupon System"
@@ -2124,12 +2125,12 @@ msgstr "نظام قسائم مبسّط"
 
 #: includes/admin/class-wc-admin-welcome.php:294
 msgid ""
-"We have simplified the coupon system to ensure discounts are never applied to "
-"taxes, and we've improved support for discounting products inclusive of tax. Read "
-"more on our %sdevelop blog%s."
+"We have simplified the coupon system to ensure discounts are never applied to taxes, "
+"and we've improved support for discounting products inclusive of tax. Read more on "
+"our %sdevelop blog%s."
 msgstr ""
-"قمنا بتبسيط نظام القسائم للتأكد من أن القسائم لا تطبق على الضرائب، وقمنا بتحسين "
-"دعم المنتجات المتضمنة سعر الضريبة. إقرأ المزيد على %sمدونة المطورين%s الخاصة بنا."
+"قمنا بتبسيط نظام القسائم للتأكد من أن القسائم لا تطبق على الضرائب، وقمنا بتحسين دعم "
+"المنتجات المتضمنة سعر الضريبة. إقرأ المزيد على %sمدونة المطورين%s الخاصة بنا."
 
 #: includes/admin/class-wc-admin-welcome.php:302
 msgid "Go to WooCommerce Settings"
@@ -2137,12 +2138,12 @@ msgstr "اذهب لإعدادات المتجر!"
 
 #: includes/admin/class-wc-admin-welcome.php:317
 msgid ""
-"WooCommerce is developed and maintained by a worldwide team of passionate "
-"individuals and backed by an awesome developer community. Want to see your name? "
-"<a href=\"%s\">Contribute to WooCommerce</a>."
+"WooCommerce is developed and maintained by a worldwide team of passionate individuals "
+"and backed by an awesome developer community. Want to see your name? <a href=\"%s"
+"\">Contribute to WooCommerce</a>."
 msgstr ""
-"تم تطوير وضبط ووكومرس بواسطة فريق عالمي مليء بالأشخاص الرائعين ومزود بمجتمع مذهل "
-"من المطورين. هل تود أن ترى أسمك ضمنهم؟ <a href=\"https://github.com/woothemes/"
+"تم تطوير وضبط ووكومرس بواسطة فريق عالمي مليء بالأشخاص الرائعين ومزود بمجتمع مذهل من "
+"المطورين. هل تود أن ترى أسمك ضمنهم؟ <a href=\"https://github.com/woothemes/"
 "woocommerce/blob/master/CONTRIBUTING.md\">ساهم الآن في جعل ووكومرس أفضل!</a>."
 
 #: includes/admin/class-wc-admin-welcome.php:333
@@ -2150,9 +2151,9 @@ msgid ""
 "WooCommerce has been kindly translated into several other languages thanks to our "
 "translation team. Want to see your name? <a href=\"%s\">Translate WooCommerce</a>."
 msgstr ""
-"تمت ترجمة ووكومرس لدعم أغلب لغات العالم، والشكر كله لفريق المترجمين الرائع. هل "
-"تود أن ترى أسمك ضمنهم؟ <a href=\"https://www.transifex.com/projects/p/woocommerce/"
-"\">ترجم WooCommerce الآن!</a>."
+"تمت ترجمة ووكومرس لدعم أغلب لغات العالم، والشكر كله لفريق المترجمين الرائع. هل تود أن "
+"ترى أسمك ضمنهم؟ <a href=\"https://www.transifex.com/projects/p/woocommerce/\">ترجم "
+"WooCommerce الآن!</a>."
 
 #: includes/admin/class-wc-admin-welcome.php:381
 msgid "View %s"
@@ -2162,19 +2163,19 @@ msgstr "عرض %s"
 msgid "HTML Email Template"
 msgstr "قالب HTML للبريد الإلكتروني"
 
-#: includes/admin/class-wc-admin.php:168
+#: includes/admin/class-wc-admin.php:177
 msgid ""
 "If you like <strong>WooCommerce</strong> please leave us a %s&#9733;&#9733;&#9733;"
 "&#9733;&#9733;%s rating. A huge thank you from WooThemes in advance!"
 msgstr ""
-"الرجاء تقييمنا بـ %s&#9733;&#9733;&#9733;&#9733;&#9733;%s إذا أعجبك "
-"<strong>ووكومرس</strong>."
+"الرجاء تقييمنا بـ %s&#9733;&#9733;&#9733;&#9733;&#9733;%s إذا أعجبك <strong>ووكومرس</"
+"strong>."
 
-#: includes/admin/class-wc-admin.php:168
+#: includes/admin/class-wc-admin.php:177
 msgid "Thanks :)"
 msgstr "شكرًا :)"
 
-#: includes/admin/class-wc-admin.php:176
+#: includes/admin/class-wc-admin.php:185
 msgid "Thank you for selling with WooCommerce."
 msgstr "شكرًا لإستخدامك لووكومرس."
 
@@ -2207,16 +2208,16 @@ msgid ""
 "Hi there! Upload a CSV file containing tax rates to import the contents into your "
 "shop. Choose a .csv file to upload, then click \"Upload file and import\"."
 msgstr ""
-"مرحبا بك! ارفع ملف CSV يحوي الضرائب لاستيراد محتوياته إلى سوقك. اختر ملف &lrm;."
-"csv المراد رفعه، ثم اضغط \"رفع الملف واستيراده\"."
+"مرحبا بك! ارفع ملف CSV يحوي الضرائب لاستيراد محتوياته إلى سوقك. اختر ملف &lrm;.csv "
+"المراد رفعه، ثم اضغط \"رفع الملف واستيراده\"."
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:209
 msgid ""
-"Tax rates need to be defined with columns in a specific order (10 columns). <a "
-"href=\"%s\">Click here to download a sample</a>."
+"Tax rates need to be defined with columns in a specific order (10 columns). <a href="
+"\"%s\">Click here to download a sample</a>."
 msgstr ""
-"الضرائب يجب أن تكون بأعمدة محددة ومرتبة (10 columns). <a href=\"%s\">أضغط هنا "
-"لتحميل مثال</a>."
+"الضرائب يجب أن تكون بأعمدة محددة ومرتبة (10 columns). <a href=\"%s\">أضغط هنا لتحميل "
+"مثال</a>."
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:217
 msgid ""
@@ -2276,13 +2277,13 @@ msgstr "السماح بالشحن المجاني"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:71
 msgid ""
-"Check this box if the coupon grants free shipping. The <a href=\"%s\">free "
-"shipping method</a> must be enabled and be set to require \"a valid free shipping "
-"coupon\" (see the \"Free Shipping Requires\" setting)."
+"Check this box if the coupon grants free shipping. The <a href=\"%s\">free shipping "
+"method</a> must be enabled and be set to require \"a valid free shipping coupon"
+"\" (see the \"Free Shipping Requires\" setting)."
 msgstr ""
 "حدد هذا الصندوق اذا كانت القسيمة تقدم شحن مجاني. يجب أن تكون <a href=\"%s\">طريقة "
-"الشحن المجاني</a> مفعلة مع تنشيط خيار \"قسيمة شحن مجاني صالحة\" (ألقِ نظرة على "
-"إعداد \"ما يتطلبه الشحن المجاني\")."
+"الشحن المجاني</a> مفعلة مع تنشيط خيار \"قسيمة شحن مجاني صالحة\" (ألقِ نظرة على إعداد "
+"\"ما يتطلبه الشحن المجاني\")."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:74
 msgid "Coupon expiry date"
@@ -2298,8 +2299,7 @@ msgstr "بلا حد أدنى"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:84
 msgid "This field allows you to set the minimum subtotal needed to use the coupon."
-msgstr ""
-"يسمح لك هذا الحقل بضبط حد أدنى لمجموع الطلب المسموح به لإستخدام هذه القسيمة."
+msgstr "يسمح لك هذا الحقل بضبط حد أدنى لمجموع الطلب المسموح به لإستخدام هذه القسيمة."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:87
 msgid "Maximum spend"
@@ -2310,18 +2310,15 @@ msgid "No maximum"
 msgstr "بلا حد أقصى"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:87
-msgid ""
-"This field allows you to set the maximum subtotal allowed when using the coupon."
-msgstr ""
-"يسمح لك هذا الحقل بضبط حد أقصى لمجموع الطلب المسموح به لإستخدام هذه القسيمة."
+msgid "This field allows you to set the maximum subtotal allowed when using the coupon."
+msgstr "يسمح لك هذا الحقل بضبط حد أقصى لمجموع الطلب المسموح به لإستخدام هذه القسيمة."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:90
 msgid "Individual use only"
 msgstr "أستخدام القسيمة لوحدها فقط"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:90
-msgid ""
-"Check this box if the coupon cannot be used in conjunction with other coupons."
+msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
 msgstr "حدد هذا الخيار لجعل القسيمة غير قابلة للإستخدام مع قسائم أخرى."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:93
@@ -2330,13 +2327,13 @@ msgstr "استبعاد المنتجات المخصومة"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:93
 msgid ""
-"Check this box if the coupon should not apply to items on sale. Per-item coupons "
-"will only work if the item is not on sale. Per-cart coupons will only work if "
-"there are no sale items in the cart."
+"Check this box if the coupon should not apply to items on sale. Per-item coupons will "
+"only work if the item is not on sale. Per-cart coupons will only work if there are no "
+"sale items in the cart."
 msgstr ""
 "حدد هذا الخيار لجعل القسيمة لا تطبق على المنتجات المخصومة. القسائم المخصصة للمنتج "
-"الواحد ستعمل فقط اذا كان المنتج غير مخصوم. القسائم المخصصة لجميع المنتجات ستعمل "
-"اذا كانت المنتجات المتواجدة في السلة غير مخصومة."
+"الواحد ستعمل فقط اذا كان المنتج غير مخصوم. القسائم المخصصة لجميع المنتجات ستعمل اذا "
+"كانت المنتجات المتواجدة في السلة غير مخصومة."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:100
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:118
@@ -2349,8 +2346,8 @@ msgstr "ابحث عن منتج&hellip;"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:112
 msgid ""
-"Products which need to be in the cart to use this coupon or, for \"Product "
-"Discounts\", which products are discounted."
+"Products which need to be in the cart to use this coupon or, for \"Product Discounts"
+"\", which products are discounted."
 msgstr ""
 "المنتجات التي يجب أن تكون مضافة في السلة لإستخدام هذه القسيمة. أو لـ (المنتجات "
 "المخصومة)."
@@ -2361,11 +2358,11 @@ msgstr "المنتجات المستبعدة"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:130
 msgid ""
-"Products which must not be in the cart to use this coupon or, for \"Product "
-"Discounts\", which products are not discounted."
+"Products which must not be in the cart to use this coupon or, for \"Product Discounts"
+"\", which products are not discounted."
 msgstr ""
-"المنتجات التي يجب أن لا تكون مضافة في سلة المشتريات لإستخدام القسيمة، أو لـ "
-"(المنتجات المخصومة)."
+"المنتجات التي يجب أن لا تكون مضافة في سلة المشتريات لإستخدام القسيمة، أو لـ (المنتجات "
+"المخصومة)."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:137
 msgid "Product categories"
@@ -2377,11 +2374,11 @@ msgstr "أي تصنيف"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:147
 msgid ""
-"A product must be in this category for the coupon to remain valid or, for "
-"\"Product Discounts\", products in these categories will be discounted."
+"A product must be in this category for the coupon to remain valid or, for \"Product "
+"Discounts\", products in these categories will be discounted."
 msgstr ""
-"المنتج يجب أن يكون في هذا التصنيف لكي تكون القسيمة صالحة، أو لـ (المنتجات "
-"المخصومة). المنتجات في هذه التصنيفات ستكون مخصومة."
+"المنتج يجب أن يكون في هذا التصنيف لكي تكون القسيمة صالحة، أو لـ (المنتجات المخصومة). "
+"المنتجات في هذه التصنيفات ستكون مخصومة."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:152
 msgid "Exclude categories"
@@ -2393,8 +2390,8 @@ msgstr "لا تصنيفات"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:162
 msgid ""
-"Product must not be in this category for the coupon to remain valid or, for "
-"\"Product Discounts\", products in these categories will not be discounted."
+"Product must not be in this category for the coupon to remain valid or, for \"Product "
+"Discounts\", products in these categories will not be discounted."
 msgstr ""
 "المنتج لا يجب أن يكون في هذا التصنيف لكي تكون القسيمة صالحة أو لـ (المنتجات "
 "المخصومة). المنتجات في هذه التصنيفات لن تكون مخصومة."
@@ -2409,8 +2406,8 @@ msgstr "بدون قيود"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:168
 msgid ""
-"List of allowed emails to check against the customer's billing email when an "
-"order is placed. Separate email addresses with commas."
+"List of allowed emails to check against the customer's billing email when an order is "
+"placed. Separate email addresses with commas."
 msgstr ""
 "قائمة الإيميلات المسموحة لمقارنتها مع عنوان البريد الإلكتروني الخاص بالعميل عنده "
 "تأكيده لطلب جديد. أفصل العناوين بفاصلة."
@@ -2429,8 +2426,8 @@ msgstr "حد الإستخدام لـ X عناصر"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:188
 msgid ""
-"The maximum number of individual items this coupon can apply to when using "
-"product discounts. Leave blank to apply to all qualifying items in cart."
+"The maximum number of individual items this coupon can apply to when using product "
+"discounts. Leave blank to apply to all qualifying items in cart."
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:194
@@ -2439,8 +2436,8 @@ msgstr "حد الإستخدام لكل عميل"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:194
 msgid ""
-"How many times this coupon can be used by an invidual user. Uses billing email "
-"for guests, and user ID for logged in users."
+"How many times this coupon can be used by an invidual user. Uses billing email for "
+"guests, and user ID for logged in users."
 msgstr ""
 "كم مرة يمكن إستخدام هذه القسيمة بواسطة عميل واحد. أدخل البريد الإلكتروني لعنوان "
 "الفاتورة الخاص بالضيوف أو اسم المستخدم الخاص بالمستخدمين المسجلين."
@@ -2552,7 +2549,7 @@ msgstr "وسيلة الدفع:"
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:280
 #: includes/admin/meta-boxes/views/html-order-shipping.php:26
 #: includes/admin/settings/views/settings-tax.php:103
-#: includes/admin/views/html-admin-page-status-report.php:303
+#: includes/admin/views/html-admin-page-status-report.php:302
 msgid "N/A"
 msgstr "غير محدد"
 
@@ -2695,8 +2692,8 @@ msgstr "الرمز التعريفي"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:140
 msgid ""
-"SKU refers to a Stock-keeping unit, a unique identifier for each distinct product "
-"and service that can be purchased."
+"SKU refers to a Stock-keeping unit, a unique identifier for each distinct product and "
+"service that can be purchased."
 msgstr ""
 "الرمز التعريفي SKU يشير إلى (وحدة حفظ المخزون)، وهو رمز مميز لكل منتج وخدمة قابلة "
 "للشراء."
@@ -2755,8 +2752,7 @@ msgstr "رابط الملف"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:193
 #: includes/admin/meta-boxes/views/html-variation-admin.php:197
-msgid ""
-"This is the URL or absolute path to the file which customers will get access to."
+msgid "This is the URL or absolute path to the file which customers will get access to."
 msgstr "الرابط المباشر للملف والقابل للوصول له من قبل العملاء."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:219
@@ -2873,8 +2869,8 @@ msgid ""
 "Stock quantity. If this is a variable product this value will be used to control "
 "stock for all variations, unless you define stock at variation level."
 msgstr ""
-"كمية المخزون. سيتم استخدامها لجميع الأنواع اذا كان هذا المنتج متعدد الأنواع، ولكن "
-"ليس عندك تحديدك لكمية المخزون لكل نوع بشكل منفصل."
+"كمية المخزون. سيتم استخدامها لجميع الأنواع اذا كان هذا المنتج متعدد الأنواع، ولكن ليس "
+"عندك تحديدك لكمية المخزون لكل نوع بشكل منفصل."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:313
 #: includes/admin/meta-boxes/views/html-variation-admin.php:118
@@ -2905,26 +2901,26 @@ msgstr "السماح"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:317
 msgid ""
-"If managing stock, this controls whether or not backorders are allowed. If "
-"enabled, stock quantity can go below 0."
+"If managing stock, this controls whether or not backorders are allowed. If enabled, "
+"stock quantity can go below 0."
 msgstr ""
-"إذا كانت إدارة المخزون مفعلة، هذا الخيار يتحكم في إتاحة الطلبات المؤجلة لهذا "
-"المنتج. إذا كان مفعل، كمية المخزون قد تقل عن 0."
+"إذا كانت إدارة المخزون مفعلة، هذا الخيار يتحكم في إتاحة الطلبات المؤجلة لهذا المنتج. "
+"إذا كان مفعل، كمية المخزون قد تقل عن 0."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:326
 #: includes/admin/meta-boxes/views/html-variation-admin.php:130
-#: includes/admin/reports/class-wc-report-stock.php:156
+#: includes/admin/reports/class-wc-report-stock.php:158
 msgid "Stock status"
 msgstr "حالة المخزون"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:329
 #: includes/admin/meta-boxes/views/html-variation-admin.php:130
 msgid ""
-"Controls whether or not the product is listed as \"in stock\" or \"out of stock\" "
-"on the frontend."
+"Controls whether or not the product is listed as \"in stock\" or \"out of stock\" on "
+"the frontend."
 msgstr ""
-"للتحكم بعرض حالة مخزون المنتج سواءًا كان (متوفر في المخزون) أو (غير متوفر في "
-"المخزون) في واجهة المتجر."
+"للتحكم بعرض حالة مخزون المنتج سواءًا كان (متوفر في المخزون) أو (غير متوفر في المخزون) "
+"في واجهة المتجر."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:338
 msgid "Sold Individually"
@@ -2985,8 +2981,7 @@ msgid "Shipping class"
 msgstr "فئة الشحن"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:396
-msgid ""
-"Shipping classes are used by certain shipping methods to group similar products."
+msgid "Shipping classes are used by certain shipping methods to group similar products."
 msgstr "تستخدم فئات الشحن بواسطة طرق شحن معينة لتجميع منتجات متشابهة."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:408
@@ -3013,9 +3008,8 @@ msgstr "منتجات يوصى بها"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:490
 msgid ""
-"Up-sells are products which you recommend instead of the currently viewed "
-"product, for example, products that are more profitable or better quality or more "
-"expensive."
+"Up-sells are products which you recommend instead of the currently viewed product, "
+"for example, products that are more profitable or better quality or more expensive."
 msgstr ""
 "هذه منتجات أنت توصي بها بدلًا من المنتج المعروض حاليًا للزائر، كمنتجات أكثر ربحًا أو "
 "أفضل جودةً أو أعلى سعرًا من المنتج المعروض."
@@ -3026,11 +3020,10 @@ msgstr "منتجات تسويقية"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:505
 msgid ""
-"Cross-sells are products which you promote in the cart, based on the current "
-"product."
+"Cross-sells are products which you promote in the cart, based on the current product."
 msgstr ""
-"المنتجات التسويقية هي منتجات تعرض في سلة مشتريات العميل، بناءًا على المنتج الذي "
-"ينوي شراءه."
+"المنتجات التسويقية هي منتجات تعرض في سلة مشتريات العميل، بناءًا على المنتج الذي ينوي "
+"شراءه."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:515
 msgid "Choose a grouped product&hellip;"
@@ -3167,11 +3160,23 @@ msgstr "بلا إفتراضيات"
 msgid "Product SKU must be unique."
 msgstr "يجب أن يكون رمز التعريف مميزًا. (SKU)"
 
-#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1336
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1259
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1531
+msgid ""
+"The downloadable file %s cannot be used as it does not have an allowed file type. "
+"Allowed types include: %s"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1266
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1538
+msgid "The downloadable file %s cannot be used as it does not exist on the server."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1367
 msgid "Variation #%s of %s"
 msgstr "النوع #%s من %s"
 
-#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1380
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1411
 msgid "Variation SKU must be unique."
 msgstr "يجب أن يكون رمز تعريف النوع مميزًا. (SKU)"
 
@@ -3374,7 +3379,7 @@ msgid "Total available to refund"
 msgstr "القيمة المتاحة لإعادتها"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:266
-#: includes/admin/reports/class-wc-report-sales-by-date.php:481
+#: includes/admin/reports/class-wc-report-sales-by-date.php:482
 msgid "Refund amount"
 msgstr "إعادة القيمة"
 
@@ -3387,8 +3392,7 @@ msgid "Payment Gateway"
 msgstr "بوابة الدفع"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:287
-msgid ""
-"The payment gateway used to place this order does not support automatic refunds."
+msgid "The payment gateway used to place this order does not support automatic refunds."
 msgstr ""
 
 #: includes/admin/meta-boxes/views/html-order-items.php:288
@@ -3539,11 +3543,10 @@ msgstr "الكمية:"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:114
 msgid ""
-"Enter a quantity to enable stock management at variation level, or leave blank to "
-"use the parent product's options."
+"Enter a quantity to enable stock management at variation level, or leave blank to use "
+"the parent product's options."
 msgstr ""
-"أدخل الكمية لتفعيل تحديد كميات النوع، أو دعها فارغة لاستعمال اعدادات المنتج "
-"الأصلي."
+"أدخل الكمية لتفعيل تحديد كميات النوع، أو دعها فارغة لاستعمال اعدادات المنتج الأصلي."
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:146
 msgid ""
@@ -3600,7 +3603,7 @@ msgstr "‏%s مجموع القسائم المستخدمة"
 #: includes/admin/reports/class-wc-report-coupon-usage.php:111
 #: includes/admin/reports/class-wc-report-customers.php:146
 #: includes/admin/reports/class-wc-report-sales-by-category.php:85
-#: includes/admin/reports/class-wc-report-sales-by-date.php:336
+#: includes/admin/reports/class-wc-report-sales-by-date.php:337
 #: includes/admin/reports/class-wc-report-sales-by-product.php:105
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:44
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:44
@@ -3610,7 +3613,7 @@ msgstr "السنة الحالية"
 #: includes/admin/reports/class-wc-report-coupon-usage.php:112
 #: includes/admin/reports/class-wc-report-customers.php:147
 #: includes/admin/reports/class-wc-report-sales-by-category.php:86
-#: includes/admin/reports/class-wc-report-sales-by-date.php:337
+#: includes/admin/reports/class-wc-report-sales-by-date.php:338
 #: includes/admin/reports/class-wc-report-sales-by-product.php:106
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:45
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:45
@@ -3620,7 +3623,7 @@ msgstr "الشهر السابق"
 #: includes/admin/reports/class-wc-report-coupon-usage.php:113
 #: includes/admin/reports/class-wc-report-customers.php:148
 #: includes/admin/reports/class-wc-report-sales-by-category.php:87
-#: includes/admin/reports/class-wc-report-sales-by-date.php:338
+#: includes/admin/reports/class-wc-report-sales-by-date.php:339
 #: includes/admin/reports/class-wc-report-sales-by-product.php:107
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:46
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:46
@@ -3630,7 +3633,7 @@ msgstr "الشهر الجاري"
 #: includes/admin/reports/class-wc-report-coupon-usage.php:114
 #: includes/admin/reports/class-wc-report-customers.php:149
 #: includes/admin/reports/class-wc-report-sales-by-category.php:88
-#: includes/admin/reports/class-wc-report-sales-by-date.php:339
+#: includes/admin/reports/class-wc-report-sales-by-date.php:340
 #: includes/admin/reports/class-wc-report-sales-by-product.php:108
 msgid "Last 7 Days"
 msgstr "آخر 7 أيام"
@@ -3673,7 +3676,7 @@ msgstr "الأكثر خصمًا"
 #: includes/admin/reports/class-wc-report-coupon-usage.php:337
 #: includes/admin/reports/class-wc-report-customers.php:213
 #: includes/admin/reports/class-wc-report-sales-by-category.php:238
-#: includes/admin/reports/class-wc-report-sales-by-date.php:379
+#: includes/admin/reports/class-wc-report-sales-by-date.php:380
 #: includes/admin/reports/class-wc-report-sales-by-product.php:368
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:33
 #: includes/admin/reports/class-wc-report-taxes-by-date.php:33
@@ -3817,78 +3820,76 @@ msgstr "الكل"
 msgid "&larr; Choose a category to view stats"
 msgstr "اختر تصنيفًا لعرض إحصائياته &larr;"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:275
+#: includes/admin/reports/class-wc-report-sales-by-date.php:276
 msgid "%s average daily sales"
 msgstr "%s متوسط المبيعات اليومية"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:279
+#: includes/admin/reports/class-wc-report-sales-by-date.php:280
 msgid "%s average monthly sales"
 msgstr "%s متوسط المبيعات الشهرية"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:284
+#: includes/admin/reports/class-wc-report-sales-by-date.php:285
 msgid "%s gross sales in this period"
 msgstr "‏%s إجمالي المبيعات في هذه الفترة"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:285
+#: includes/admin/reports/class-wc-report-sales-by-date.php:286
 msgid ""
 "This is the sum of the order totals after any refunds and including shipping and "
 "taxes."
-msgstr ""
-"هذا هو ملخص مجموع الطلبات بعد أي مبالغ مسترجعة ومتضمنًا تكاليف الشحن والضرائب."
+msgstr "هذا هو ملخص مجموع الطلبات بعد أي مبالغ مسترجعة ومتضمنًا تكاليف الشحن والضرائب."
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:290
+#: includes/admin/reports/class-wc-report-sales-by-date.php:291
 msgid "%s net sales in this period"
 msgstr "‏%s صافي المبيعات في هذه الفترة"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:291
+#: includes/admin/reports/class-wc-report-sales-by-date.php:292
 msgid ""
 "This is the sum of the order totals after any refunds and excluding shipping and "
 "taxes."
-msgstr ""
-"هذا هو ملخص مجموع الطلبات بعد أي مبالغ مسترجعة بإستثناء تكاليف الشحن والضرائب."
+msgstr "هذا هو ملخص مجموع الطلبات بعد أي مبالغ مسترجعة بإستثناء تكاليف الشحن والضرائب."
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:301
+#: includes/admin/reports/class-wc-report-sales-by-date.php:302
 msgid "%s orders placed"
 msgstr "%s طلبات مؤكدة"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:307
+#: includes/admin/reports/class-wc-report-sales-by-date.php:308
 msgid "%s items purchased"
 msgstr "%s منتج تم شراءه"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:313
+#: includes/admin/reports/class-wc-report-sales-by-date.php:314
 msgid "%s charged for shipping"
 msgstr "%s تكلفة شحن الطلبات"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:318
+#: includes/admin/reports/class-wc-report-sales-by-date.php:319
 msgid "%s in refunds"
 msgstr "‏%s في المبالغ المسترجعة"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:323
+#: includes/admin/reports/class-wc-report-sales-by-date.php:324
 msgid "%s worth of coupons used"
 msgstr "%s قيمة القسائم المستخدمة"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:445
+#: includes/admin/reports/class-wc-report-sales-by-date.php:446
 #: includes/admin/reports/class-wc-report-sales-by-product.php:482
 msgid "Number of items sold"
 msgstr "عدد السلع المباعة"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:453
+#: includes/admin/reports/class-wc-report-sales-by-date.php:454
 msgid "Number of orders"
 msgstr "عدد الطلبات"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:461
+#: includes/admin/reports/class-wc-report-sales-by-date.php:462
 msgid "Average sales amount"
 msgstr "متوسط كمية المبيعات"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:491
+#: includes/admin/reports/class-wc-report-sales-by-date.php:492
 msgid "Shipping amount"
 msgstr "كمية الشحن"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:501
+#: includes/admin/reports/class-wc-report-sales-by-date.php:502
 msgid "Gross Sales amount"
 msgstr "كمية إجمالي المبيعات"
 
-#: includes/admin/reports/class-wc-report-sales-by-date.php:511
+#: includes/admin/reports/class-wc-report-sales-by-date.php:512
 msgid "Net Sales amount"
 msgstr "كمية صافي المبيعات"
 
@@ -3938,19 +3939,19 @@ msgstr "اختر منتجًا لعرض إحصائياته &larr;"
 msgid "Sales amount"
 msgstr "قيمة المبيعات"
 
-#: includes/admin/reports/class-wc-report-stock.php:37
+#: includes/admin/reports/class-wc-report-stock.php:39
 msgid "No products found."
 msgstr "لم يتم إيجاد منتجات."
 
-#: includes/admin/reports/class-wc-report-stock.php:139
+#: includes/admin/reports/class-wc-report-stock.php:141
 msgid "product"
 msgstr "المنتج"
 
-#: includes/admin/reports/class-wc-report-stock.php:154
+#: includes/admin/reports/class-wc-report-stock.php:156
 msgid "Parent"
 msgstr "الأب"
 
-#: includes/admin/reports/class-wc-report-stock.php:155
+#: includes/admin/reports/class-wc-report-stock.php:157
 msgid "Units in stock"
 msgstr "عدد الوحدات في المخزون"
 
@@ -4039,11 +4040,11 @@ msgstr "صفحات الحساب"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:43
 msgid ""
-"These pages need to be set so that WooCommerce knows where to send users to "
-"access account related functionality."
+"These pages need to be set so that WooCommerce knows where to send users to access "
+"account related functionality."
 msgstr ""
-"يجب إعداد هذه الصفحات ليتمكن ووكومرس من تحديد مكان إرسال المستخدمين للصفحات "
-"المتعلقة بحساباتهم في المتجر."
+"يجب إعداد هذه الصفحات ليتمكن ووكومرس من تحديد مكان إرسال المستخدمين للصفحات المتعلقة "
+"بحساباتهم في المتجر."
 
 #: includes/admin/settings/class-wc-settings-accounts.php:46
 msgid "My Account Page"
@@ -4061,8 +4062,8 @@ msgstr "أسماء روابط النهاية لصفحة حساب المستخد�
 
 #: includes/admin/settings/class-wc-settings-accounts.php:58
 msgid ""
-"Endpoints are appended to your page URLs to handle specific actions on the "
-"accounts pages. They should be unique."
+"Endpoints are appended to your page URLs to handle specific actions on the accounts "
+"pages. They should be unique."
 msgstr ""
 "أسماء روابط النهاية تضاف إلى رابط الصفحة المعروضة لعرض تفاصيل معينه في صفحة حساب "
 "العميل. يجب أن تكون مختلفة وسهلة الفهم."
@@ -4105,8 +4106,8 @@ msgstr "تسجيل الخروج"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:98
 msgid ""
-"Endpoint for the triggering logout. You can add this to your menus via a custom "
-"link: yoursite.com/?customer-logout=true"
+"Endpoint for the triggering logout. You can add this to your menus via a custom link: "
+"yoursite.com/?customer-logout=true"
 msgstr ""
 "اسم رابط النهاية لتسجيل الخروج. تستطيع إضافة هذا الرابط إلى قوائم عبر إدخال رابط "
 "مخصص، مثل: yoursite.com/?customer-logout=true"
@@ -4129,8 +4130,7 @@ msgstr "تفعيل التسجيل في صفحة ‪)‬حسابي‪(‬"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:129
 msgid "Display returning customer login reminder on the \"Checkout\" page"
-msgstr ""
-"عرض خيار لتسجيل الدخول في صفحة انهاء الطلب في حال كان المستخدم يمتلك حساب مسبقًا"
+msgstr "عرض خيار لتسجيل الدخول في صفحة انهاء الطلب في حال كان المستخدم يمتلك حساب مسبقًا"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:138
 msgid "Account Creation"
@@ -4190,8 +4190,7 @@ msgstr "صفحات إنهاء الطلب"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:112
 msgid ""
-"These pages need to be set so that WooCommerce knows where to send users to "
-"checkout."
+"These pages need to be set so that WooCommerce knows where to send users to checkout."
 msgstr ""
 "يجب أن تكون هذه الصفحات معده مسبقًا ليتمكن ‪)‬ووكومرس‪(‬ من إرسال العملاء لصفحة إنهاء "
 "الطلب."
@@ -4210,11 +4209,11 @@ msgstr "صفحة الشروط والأحكام"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:138
 msgid ""
-"If you define a \"Terms\" page the customer will be asked if they accept them "
-"when checking out."
+"If you define a \"Terms\" page the customer will be asked if they accept them when "
+"checking out."
 msgstr ""
-"إذا قمت بتعيين صفحة لـ \"الشروط والأحكام\"، سيتم سؤال العميل بقبولها في صفحة "
-"انهاء الطلب."
+"إذا قمت بتعيين صفحة لـ \"الشروط والأحكام\"، سيتم سؤال العميل بقبولها في صفحة انهاء "
+"الطلب."
 
 #: includes/admin/settings/class-wc-settings-checkout.php:150
 msgid "Checkout Endpoints"
@@ -4258,8 +4257,8 @@ msgstr "بوابات الدفع"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:181
 msgid ""
-"Installed gateways are listed below. Drag and drop gateways to control their "
-"display order on the frontend."
+"Installed gateways are listed below. Drag and drop gateways to control their display "
+"order on the frontend."
 msgstr ""
 "بوابات الدفع المنصبة معروضة بالأسفل. أسحب البوابات للتحكم بترتيب عرضها في واجهة "
 "المتجر."
@@ -4290,8 +4289,8 @@ msgstr "خيارات مرسل البريد الإلكتروني"
 
 #: includes/admin/settings/class-wc-settings-emails.php:70
 msgid ""
-"The following options affect the sender (email address and name) used in "
-"WooCommerce emails."
+"The following options affect the sender (email address and name) used in WooCommerce "
+"emails."
 msgstr "الإعدادات التالية هي إعدادات مرسل البريد الإلكتروني المستخدمة في ووكومرس."
 
 #: includes/admin/settings/class-wc-settings-emails.php:73
@@ -4308,15 +4307,15 @@ msgstr "قالب البريد"
 
 #: includes/admin/settings/class-wc-settings-emails.php:97
 msgid ""
-"This section lets you customise the WooCommerce emails. <a href=\"%s\" target="
-"\"_blank\">Click here to preview your email template</a>. For more advanced "
-"control copy <code>woocommerce/templates/emails/</code> to <code>yourtheme/"
-"woocommerce/emails/</code>."
+"This section lets you customise the WooCommerce emails. <a href=\"%s\" target=\"_blank"
+"\">Click here to preview your email template</a>. For more advanced control copy "
+"<code>woocommerce/templates/emails/</code> to <code>yourtheme/woocommerce/emails/</"
+"code>."
 msgstr ""
 "يمكنك هذا القسم من تخصيص البريد الإلكتروني المرسل للمشترين. <a href=\"%s\" target="
-"\"_blank\">أنقر هنا لأخذ نظرة مسبقة على قالب البريد</a>. لتحكم أكثر تقدمًا، انسخ "
-"مجلد <code>woocommerce/templates/emails/</code> إلى <code>yourtheme/woocommerce/"
-"emails/</code>."
+"\"_blank\">أنقر هنا لأخذ نظرة مسبقة على قالب البريد</a>. لتحكم أكثر تقدمًا، انسخ مجلد "
+"<code>woocommerce/templates/emails/</code> إلى <code>yourtheme/woocommerce/emails/</"
+"code>."
 
 #: includes/admin/settings/class-wc-settings-emails.php:100
 msgid "Header Image"
@@ -4347,8 +4346,7 @@ msgid "Base Colour"
 msgstr "اللون الأساسي"
 
 #: includes/admin/settings/class-wc-settings-emails.php:121
-msgid ""
-"The base colour for WooCommerce email templates. Default <code>#557da1</code>."
+msgid "The base colour for WooCommerce email templates. Default <code>#557da1</code>."
 msgstr "اللون الأساسي لقوالب البريد الإلكتروني. الإفتراضي هو <code>#557da1</code>."
 
 #: includes/admin/settings/class-wc-settings-emails.php:130
@@ -4357,8 +4355,7 @@ msgstr "لون الخلفية"
 
 #: includes/admin/settings/class-wc-settings-emails.php:131
 msgid ""
-"The background colour for WooCommerce email templates. Default <code>#f5f5f5</"
-"code>."
+"The background colour for WooCommerce email templates. Default <code>#f5f5f5</code>."
 msgstr "لون خلفية قوالب البريد الإلكتروني. الإفتراضي هو <code>#f5f5f5</code>."
 
 #: includes/admin/settings/class-wc-settings-emails.php:140
@@ -4388,8 +4385,7 @@ msgstr "الدولة"
 
 #: includes/admin/settings/class-wc-settings-general.php:54
 msgid ""
-"This is the base location for your business. Tax rates will be based on this "
-"country."
+"This is the base location for your business. Tax rates will be based on this country."
 msgstr "هذه هي الدولة الأم لمشروعك. سيتم حساب الضرائب حسب دولتك."
 
 #: includes/admin/settings/class-wc-settings-general.php:63
@@ -4425,11 +4421,11 @@ msgstr "يحدد هذا الخيار العنوان الإفتراضي للعم�
 
 #: includes/admin/settings/class-wc-settings-general.php:90
 msgid ""
-"Note: If you choose to Geolocate the user address, the %sMaxMind GeoLite Database"
-"%s will be periodically downloaded and stored in your wp-content directory."
+"Note: If you choose to Geolocate the user address, the %sMaxMind GeoLite Database%s "
+"will be periodically downloaded and stored in your wp-content directory."
 msgstr ""
-"ملاحظة: عند إختيار للتحديد الجغرافي للعنوان، سيتم تحميل %sقاعدة بيانات MaxMind "
-"GeoLite%s بشكل دوري وتخزينها في مجلد wp-content الخاص بموقعك."
+"ملاحظة: عند إختيار للتحديد الجغرافي للعنوان، سيتم تحميل %sقاعدة بيانات MaxMind GeoLite"
+"%s بشكل دوري وتخزينها في مجلد wp-content الخاص بموقعك."
 
 #: includes/admin/settings/class-wc-settings-general.php:95
 msgid "No address"
@@ -4457,8 +4453,7 @@ msgid "Store Notice Text"
 msgstr "نص التنبه"
 
 #: includes/admin/settings/class-wc-settings-general.php:113
-msgid ""
-"This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
+msgid "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
 msgstr "هذا المتجر اختباري وهو لأغراض تجريبية &mdash; لن يتم إستقبال أي طلبات"
 
 #: includes/admin/settings/class-wc-settings-general.php:120
@@ -4478,20 +4473,19 @@ msgid "The following options affect how prices are displayed on the frontend."
 msgstr "الخيارات التالية تتعلق بكيفية عرض الأسعار في واجهة المتجر."
 
 #: includes/admin/settings/class-wc-settings-general.php:132
-#: includes/admin/views/html-admin-page-status-report.php:408
+#: includes/admin/views/html-admin-page-status-report.php:407
 msgid "Currency"
 msgstr "العملة"
 
 #: includes/admin/settings/class-wc-settings-general.php:133
 msgid ""
-"This controls what currency prices are listed at in the catalog and which "
-"currency gateways will take payments in."
+"This controls what currency prices are listed at in the catalog and which currency "
+"gateways will take payments in."
 msgstr ""
-"يتحكم هذا الخيار بالعملة التي تعرض بها الأسعار في المتجر وبوابات الدفع التي "
-"تقبلها."
+"يتحكم هذا الخيار بالعملة التي تعرض بها الأسعار في المتجر وبوابات الدفع التي تقبلها."
 
 #: includes/admin/settings/class-wc-settings-general.php:144
-#: includes/admin/views/html-admin-page-status-report.php:413
+#: includes/admin/views/html-admin-page-status-report.php:412
 msgid "Currency Position"
 msgstr "موضع عرض العملة"
 
@@ -4516,7 +4510,7 @@ msgid "Right with space"
 msgstr "يسار الرقم مع مسافة"
 
 #: includes/admin/settings/class-wc-settings-general.php:161
-#: includes/admin/views/html-admin-page-status-report.php:418
+#: includes/admin/views/html-admin-page-status-report.php:417
 msgid "Thousand Separator"
 msgstr "فاصل الآلاف"
 
@@ -4525,26 +4519,24 @@ msgid "This sets the thousand separator of displayed prices."
 msgstr "يحدد هذا الخيار فاصل الآلاف في الأسعار المعروضة. مثال: 1,000, 1,200, 5,555"
 
 #: includes/admin/settings/class-wc-settings-general.php:171
-#: includes/admin/views/html-admin-page-status-report.php:423
+#: includes/admin/views/html-admin-page-status-report.php:422
 msgid "Decimal Separator"
 msgstr "فاصل الأرقام العشرية"
 
 #: includes/admin/settings/class-wc-settings-general.php:172
 msgid "This sets the decimal separator of displayed prices."
 msgstr ""
-"يحدد هذا الخيار فاصل الأعداد العشرية في الأسعار المعروضة. مثال: 10.99, 12.00, "
-"33.33"
+"يحدد هذا الخيار فاصل الأعداد العشرية في الأسعار المعروضة. مثال: 10.99, 12.00, 33.33"
 
 #: includes/admin/settings/class-wc-settings-general.php:181
-#: includes/admin/views/html-admin-page-status-report.php:428
+#: includes/admin/views/html-admin-page-status-report.php:427
 msgid "Number of Decimals"
 msgstr "عدد الأرقام العشرية"
 
 #: includes/admin/settings/class-wc-settings-general.php:182
 msgid "This sets the number of decimal points shown in displayed prices."
 msgstr ""
-"يحدد هذا الخيار عدد الأرقام بعد الفاصل. مثال لرقمين: 12.00 ومثال لثلاثة أرقام: "
-"12.000"
+"يحدد هذا الخيار عدد الأرقام بعد الفاصل. مثال لرقمين: 12.00 ومثال لثلاثة أرقام: 12.000"
 
 #: includes/admin/settings/class-wc-settings-integrations.php:28
 msgid "Integration"
@@ -4568,8 +4560,7 @@ msgid "Shop Page"
 msgstr "صفحة المتجر"
 
 #: includes/admin/settings/class-wc-settings-products.php:93
-msgid ""
-"The base page can also be used in your <a href=\"%s\">product permalinks</a>."
+msgid "The base page can also be used in your <a href=\"%s\">product permalinks</a>."
 msgstr ""
 "اسم صفحة المتجر يمكن إستخدامه أيضًا في <a href=\"%s\">الروابط الدائمة للمنتجات</a>."
 
@@ -4593,7 +4584,7 @@ msgstr "عرض المنتجات"
 
 #: includes/admin/settings/class-wc-settings-products.php:112
 msgid "Show categories &amp; subcategories"
-msgstr ""
+msgstr "عرض التصنيفات والتصنيفات الفرعية"
 
 #: includes/admin/settings/class-wc-settings-products.php:113
 #: includes/admin/settings/class-wc-settings-products.php:129
@@ -4663,12 +4654,12 @@ msgstr "صور المنتج"
 #: includes/admin/settings/class-wc-settings-products.php:178
 msgid ""
 "These settings affect the display and dimensions of images in your catalog - the "
-"display on the front-end will still be affected by CSS styles. After changing "
-"these settings you may need to <a href=\"%s\">regenerate your thumbnails</a>."
+"display on the front-end will still be affected by CSS styles. After changing these "
+"settings you may need to <a href=\"%s\">regenerate your thumbnails</a>."
 msgstr ""
 "تؤثر هذه الإعدادات على عرض ومقاسات صور قائمة المنتجات - العرض في واجهة المتجر قد "
-"يتأثر بتنسيقات CSS. ربما تحتاج <a href=\"%s\">إعادة توليد الصور المصغرة</a> بعد "
-"تغيير هذه الإعدادات."
+"يتأثر بتنسيقات CSS. ربما تحتاج <a href=\"%s\">إعادة توليد الصور المصغرة</a> بعد تغيير "
+"هذه الإعدادات."
 
 #: includes/admin/settings/class-wc-settings-products.php:183
 msgid "Catalog Images"
@@ -4703,8 +4694,7 @@ msgid "Enable Lightbox for product images"
 msgstr "تفعيل نافذة عرض الصور للمنتج"
 
 #: includes/admin/settings/class-wc-settings-products.php:229
-msgid ""
-"Include WooCommerce's lightbox. Product gallery images will open in a lightbox."
+msgid "Include WooCommerce's lightbox. Product gallery images will open in a lightbox."
 msgstr ""
 "لإضافة نافذة عرض الصور الخاصة بووكومرس. معرض صور المنتجات سيتم فتحه في نافذة عرض "
 "الصور."
@@ -4723,11 +4713,11 @@ msgstr "تعليق المخزون (بالدقائق)"
 
 #: includes/admin/settings/class-wc-settings-products.php:260
 msgid ""
-"Hold stock (for unpaid orders) for x minutes. When this limit is reached, the "
-"pending order will be cancelled. Leave blank to disable."
+"Hold stock (for unpaid orders) for x minutes. When this limit is reached, the pending "
+"order will be cancelled. Leave blank to disable."
 msgstr ""
-"تعليق المخزون (للطلبات الغير مدفوعة) بعد الدقائق المحددة. حين الوصول للحد المعطى "
-"من الدقائق، سيتم إلغاء الطلب. أتركه فارغًا للتعطيل."
+"تعليق المخزون (للطلبات الغير مدفوعة) بعد الدقائق المحددة. حين الوصول للحد المعطى من "
+"الدقائق، سيتم إلغاء الطلب. أتركه فارغًا للتعطيل."
 
 #: includes/admin/settings/class-wc-settings-products.php:273
 msgid "Notifications"
@@ -4776,8 +4766,7 @@ msgstr "اعرض الكمية دائمًا. مثال: \"12 منتج متوفر �
 #: includes/admin/settings/class-wc-settings-products.php:346
 msgid "Only show stock when low e.g. \"Only 2 left in stock\" vs. \"In Stock\""
 msgstr ""
-"اعرض الكمية فقط عندما تكون منخفضة المخزون. مثال: \"3 منتجات فقط متبقية في المخزون"
-"\""
+"اعرض الكمية فقط عندما تكون منخفضة المخزون. مثال: \"3 منتجات فقط متبقية في المخزون\""
 
 #: includes/admin/settings/class-wc-settings-products.php:347
 msgid "Never show stock amount"
@@ -4790,14 +4779,12 @@ msgstr "طريقة تحميل الملف"
 #: includes/admin/settings/class-wc-settings-products.php:369
 msgid ""
 "Forcing downloads will keep URLs hidden, but some servers may serve large files "
-"unreliably. If supported, <code>X-Accel-Redirect</code>/ <code>X-Sendfile</code> "
-"can be used to serve downloads instead (server requires <code>mod_xsendfile</"
-"code>)."
+"unreliably. If supported, <code>X-Accel-Redirect</code>/ <code>X-Sendfile</code> can "
+"be used to serve downloads instead (server requires <code>mod_xsendfile</code>)."
 msgstr ""
-"فرض التحميلات سيبقي الروابط مخبئة، لكن بعض الخودام قد تخدم الملفات كبيرة الحجم "
-"بشكل لا يعتمد عليه. إذا كانت الخاصيتان <code>X-Accel-Redirect</code>/ <code>X-"
-"Sendfile</code> مدعومة، فبإمكانها خدمة التحميلات. (الخادم يتطلب "
-"<code>mod_xsendfile</code>)."
+"فرض التحميلات سيبقي الروابط مخبئة، لكن بعض الخودام قد تخدم الملفات كبيرة الحجم بشكل "
+"لا يعتمد عليه. إذا كانت الخاصيتان <code>X-Accel-Redirect</code>/ <code>X-Sendfile</"
+"code> مدعومة، فبإمكانها خدمة التحميلات. (الخادم يتطلب <code>mod_xsendfile</code>)."
 
 #: includes/admin/settings/class-wc-settings-products.php:377
 msgid "Force Downloads"
@@ -4972,8 +4959,7 @@ msgid ""
 "Choose which countries you want to ship to, or choose to ship to all <a href=\"%s"
 "\">locations you sell to</a>."
 msgstr ""
-"اختر الدول التي تريد الشحن لها، أو اختر الشحن لجميع <a href=\"%s\">مناطق البيع</"
-"a>."
+"اختر الدول التي تريد الشحن لها، أو اختر الشحن لجميع <a href=\"%s\">مناطق البيع</a>."
 
 #: includes/admin/settings/class-wc-settings-shipping.php:139
 msgid "Ship to all countries you sell to"
@@ -5120,8 +5106,8 @@ msgstr "الرمز البريدي"
 
 #: includes/admin/settings/views/html-settings-tax.php:17
 msgid ""
-"Postcode for this rule. Semi-colon (;) separate multiple values. Leave blank to "
-"apply to all areas. Wildcards (*) can be used. Ranges for numeric postcodes (e.g. "
+"Postcode for this rule. Semi-colon (;) separate multiple values. Leave blank to apply "
+"to all areas. Wildcards (*) can be used. Ranges for numeric postcodes (e.g. "
 "12345-12350) will be expanded into individual postcodes."
 msgstr ""
 "الرموز البريدية التي تطبق عليها الضرائب. \";\" تفصل بين القيم المتعددة. فارغ لكل "
@@ -5129,8 +5115,8 @@ msgstr ""
 
 #: includes/admin/settings/views/html-settings-tax.php:19
 msgid ""
-"Cities for this rule. Semi-colon (;) separate multiple values. Leave blank to "
-"apply to all cities."
+"Cities for this rule. Semi-colon (;) separate multiple values. Leave blank to apply "
+"to all cities."
 msgstr ""
 "الرموز البريدية التي تطبق عليها الضرائب. \";\" تفصل بين القيم المتعددة. فارغ لكل "
 "المدن."
@@ -5158,12 +5144,12 @@ msgstr "الأولوية"
 
 #: includes/admin/settings/views/html-settings-tax.php:25
 msgid ""
-"Choose a priority for this tax rate. Only 1 matching rate per priority will be "
-"used. To define multiple tax rates for a single area you need to specify a "
-"different priority per rate."
+"Choose a priority for this tax rate. Only 1 matching rate per priority will be used. "
+"To define multiple tax rates for a single area you need to specify a different "
+"priority per rate."
 msgstr ""
-"اختر أولوية هذه الضريبة. تؤخذ ضريبة واحدة من نفس الأولوي فقظ. لتحديد أكثر من "
-"ضريبة على منطقة واحدة استخدم أولوية مختلفة لكل ضرية."
+"اختر أولوية هذه الضريبة. تؤخذ ضريبة واحدة من نفس الأولوي فقظ. لتحديد أكثر من ضريبة "
+"على منطقة واحدة استخدم أولوية مختلفة لكل ضرية."
 
 #: includes/admin/settings/views/html-settings-tax.php:27
 #: includes/admin/settings/views/html-settings-tax.php:148
@@ -5172,8 +5158,8 @@ msgstr "مركب"
 
 #: includes/admin/settings/views/html-settings-tax.php:27
 msgid ""
-"Choose whether or not this is a compound rate. Compound tax rates are applied on "
-"top of other tax rates."
+"Choose whether or not this is a compound rate. Compound tax rates are applied on top "
+"of other tax rates."
 msgstr "الضرائب المركبة تحسب قبل حساب الباقين"
 
 #: includes/admin/settings/views/html-settings-tax.php:29
@@ -5250,14 +5236,13 @@ msgid "Webhook Data"
 msgstr "بيانات الـ Webhook"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:16
-msgid ""
-"Friendly name for identifying this webhook, defaults to Webhook created on %s."
+msgid "Friendly name for identifying this webhook, defaults to Webhook created on %s."
 msgstr "اسم لطيف لتعريف الـ Webhook. سيتم ضبطه إفتراضيًا حسب وقت إنشاءه."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:25
 msgid ""
-"The options are &quot;Active&quot; (delivers payload), &quot;Paused&quot; (does "
-"not deliver), or &quot;Disabled&quot; (does not deliver due delivery failures)."
+"The options are &quot;Active&quot; (delivers payload), &quot;Paused&quot; (does not "
+"deliver), or &quot;Disabled&quot; (does not deliver due delivery failures)."
 msgstr ""
 "الخيارات هي &quot;فعال&quot; (لتوصيل الحمولة) أو &quot;متوقف مؤقتًا&quot; (عدم "
 "التوصيل) أو &quot;معطل&quot; (عدم التوصيل بسبب مشاكل)."
@@ -5348,12 +5333,12 @@ msgstr "السر"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:103
 msgid ""
-"The Secret Key is used to generate a hash of the delivered webhook and provided "
-"in the request headers. This will default to the current API user's consumer "
-"secret if not provided."
+"The Secret Key is used to generate a hash of the delivered webhook and provided in "
+"the request headers. This will default to the current API user's consumer secret if "
+"not provided."
 msgstr ""
-"يُستخدم مفتاح السر لتوليد مزيج من الـ Webhooks الموصلة والمزودة في ترويسة الطلب. "
-"سيتم ضبطه إفتراضيًا لمفتاح المستهلك للمستخدم الحالي للـ API في حال لم يتم ادخاله."
+"يُستخدم مفتاح السر لتوليد مزيج من الـ Webhooks الموصلة والمزودة في ترويسة الطلب. سيتم "
+"ضبطه إفتراضيًا لمفتاح المستهلك للمستخدم الحالي للـ API في حال لم يتم ادخاله."
 
 #: includes/admin/settings/views/html-webhooks-edit.php:116
 msgid "Webhook Actions"
@@ -5390,11 +5375,11 @@ msgstr "الأسعار المدخله مع الضريبة"
 
 #: includes/admin/settings/views/settings-tax.php:24
 msgid ""
-"This option is important as it will affect how you input prices. Changing it will "
-"not update existing products."
+"This option is important as it will affect how you input prices. Changing it will not "
+"update existing products."
 msgstr ""
-"هذا لخيار هام حيث سيؤثر في إدخالك للأسعار. لن يتم تحديث المنتجات المتواجدة مسبقًا "
-"عند تغييره."
+"هذا لخيار هام حيث سيؤثر في إدخالك للأسعار. لن يتم تحديث المنتجات المتواجدة مسبقًا عند "
+"تغييره."
 
 #: includes/admin/settings/views/settings-tax.php:26
 msgid "Yes, I will enter prices inclusive of tax"
@@ -5429,8 +5414,8 @@ msgid ""
 "Optionally control which tax class shipping gets, or leave it so shipping tax is "
 "based on the cart items themselves."
 msgstr ""
-"يتحكم بشكل إختياري بما يحصل عليه فئة شحن الضريبة، بالإمكانه تركه لتكون ضرائب "
-"الشحن معتمده على المنتجات المضافة لسلة المشتريات."
+"يتحكم بشكل إختياري بما يحصل عليه فئة شحن الضريبة، بالإمكانه تركه لتكون ضرائب الشحن "
+"معتمده على المنتجات المضافة لسلة المشتريات."
 
 #: includes/admin/settings/views/settings-tax.php:53
 msgid "Shipping tax class based on cart items"
@@ -5450,8 +5435,8 @@ msgstr "فئات ضرائب إضافية"
 
 #: includes/admin/settings/views/settings-tax.php:67
 msgid ""
-"List additional tax classes below (1 per line). This is in addition to the "
-"default \"Standard Rate\"."
+"List additional tax classes below (1 per line). This is in addition to the default "
+"\"Standard Rate\"."
 msgstr ""
 
 #: includes/admin/settings/views/settings-tax.php:71
@@ -5482,9 +5467,9 @@ msgstr "النص المعروض بعد السعر:"
 
 #: includes/admin/settings/views/settings-tax.php:105
 msgid ""
-"Define text to show after your product prices. This could be, for example, \"inc. "
-"Vat\" to explain your pricing. You can also have prices substituted here using "
-"one of the following: {price_including_tax}, {price_excluding_tax}."
+"Define text to show after your product prices. This could be, for example, \"inc. Vat"
+"\" to explain your pricing. You can also have prices substituted here using one of "
+"the following: {price_including_tax}, {price_excluding_tax}."
 msgstr ""
 
 #: includes/admin/settings/views/settings-tax.php:109
@@ -5533,8 +5518,8 @@ msgstr "طرف ثالث"
 
 #: includes/admin/views/html-admin-page-addons.php:95
 msgid ""
-"Our catalog of WooCommerce Extensions can be found on WooThemes.com here: <a href="
-"\"%s\">WooCommerce Extensions Catalog</a>"
+"Our catalog of WooCommerce Extensions can be found on WooThemes.com here: <a href=\"%s"
+"\">WooCommerce Extensions Catalog</a>"
 msgstr "تستطيع إيجاد مجموعة إضافات ووكومرس الرسمية <a href=\"%s\">هنا </a>."
 
 #: includes/admin/views/html-admin-page-addons.php:103
@@ -5548,8 +5533,7 @@ msgstr ""
 #: includes/admin/views/html-admin-page-addons.php:110
 msgid ""
 "Storefront is an intuitive &amp; flexible, %sfree%s WordPress theme offering deep "
-"integration with WooCommerce and many of the most popular customer-facing "
-"extensions."
+"integration with WooCommerce and many of the most popular customer-facing extensions."
 msgstr ""
 
 #: includes/admin/views/html-admin-page-addons.php:114
@@ -5569,8 +5553,7 @@ msgid "There are currently no logs to view."
 msgstr "لا توجد أي سجلات متاحة للعرض بعد."
 
 #: includes/admin/views/html-admin-page-status-report.php:13
-msgid ""
-"Please copy and paste this information in your ticket when contacting support:"
+msgid "Please copy and paste this information in your ticket when contacting support:"
 msgstr "الرجاء تضمين هذه المعلومات عند طلب الدعم:"
 
 #: includes/admin/views/html-admin-page-status-report.php:14
@@ -5633,16 +5616,16 @@ msgstr "قابلية كتابة دليل السجلات."
 
 #: includes/admin/views/html-admin-page-status-report.php:51
 msgid ""
-"Several WooCommerce extensions can write logs which makes debugging problems "
-"easier. The directory must be writable for this to happen."
+"Several WooCommerce extensions can write logs which makes debugging problems easier. "
+"The directory must be writable for this to happen."
 msgstr ""
-"بإمكان بضع إضافات لووكومرس كتابة سجلات تجعل حل المشاكل أسهل. يجب أن يكون هذا "
-"الدليل قابل للكتابة لتعمل هذه الخاصية."
+"بإمكان بضع إضافات لووكومرس كتابة سجلات تجعل حل المشاكل أسهل. يجب أن يكون هذا الدليل "
+"قابل للكتابة لتعمل هذه الخاصية."
 
 #: includes/admin/views/html-admin-page-status-report.php:56
 msgid ""
-"To allow logging, make <code>%s</code> writable or define a custom "
-"<code>WC_LOG_DIR</code>."
+"To allow logging, make <code>%s</code> writable or define a custom <code>WC_LOG_DIR</"
+"code>."
 msgstr ""
 "للسماح بالسجلات، إجعل <code>%s</code> قابل للكتابة أو عرّف <code>WC_LOG_DIR</code> "
 "مخصص."
@@ -5673,8 +5656,8 @@ msgstr "الحد الأعلى للذاكرة العشوائية (RAM) الذي �
 
 #: includes/admin/views/html-admin-page-status-report.php:77
 msgid ""
-"%s - We recommend setting memory to at least 64MB. See: <a href=\"%s\" target="
-"\"_blank\">Increasing memory allocated to PHP</a>"
+"%s - We recommend setting memory to at least 64MB. See: <a href=\"%s\" target=\"_blank"
+"\">Increasing memory allocated to PHP</a>"
 msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:84
@@ -5715,8 +5698,8 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:116
 msgid ""
-"%s - We recommend a minimum PHP version of 5.4. See: <a href=\"%s\" target="
-"\"_blank\">How to update your PHP version</a>"
+"%s - We recommend a minimum PHP version of 5.4. See: <a href=\"%s\" target=\"_blank"
+"\">How to update your PHP version</a>"
 msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:121
@@ -5747,8 +5730,8 @@ msgstr "الحد الأقصى لإدخال متغيرات PHP"
 
 #: includes/admin/views/html-admin-page-status-report.php:138
 msgid ""
-"The maximum number of variables your server can use for a single function to "
-"avoid overloads."
+"The maximum number of variables your server can use for a single function to avoid "
+"overloads."
 msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:142
@@ -5757,12 +5740,11 @@ msgstr "‏SUHOSIN منصب"
 
 #: includes/admin/views/html-admin-page-status-report.php:143
 msgid ""
-"Suhosin is an advanced protection system for PHP installations. It was designed "
-"to protect your servers on the one hand against a number of well known problems "
-"in PHP applications and on the other hand against potential unknown "
-"vulnerabilities within these applications or the PHP core itself. If enabled on "
-"your server, Suhosin may need to be configured to increase its data submission "
-"limits."
+"Suhosin is an advanced protection system for PHP installations. It was designed to "
+"protect your servers on the one hand against a number of well known problems in PHP "
+"applications and on the other hand against potential unknown vulnerabilities within "
+"these applications or the PHP core itself. If enabled on your server, Suhosin may "
+"need to be configured to increase its data submission limits."
 msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:148
@@ -5801,17 +5783,16 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:186
 msgid ""
-"Your server does not have fsockopen or cURL enabled - PayPal IPN and other "
-"scripts which communicate with other servers will not work. Contact your hosting "
-"provider."
+"Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts "
+"which communicate with other servers will not work. Contact your hosting provider."
 msgstr ""
-"الخام يمنع كل من fsockopen و cURL - خدمات باي بال IPN والخدمات التي تتصل بخوادم "
-"أخرى لن تعمل. تواصل مع خادمك لتفعيلها."
+"الخام يمنع كل من fsockopen و cURL - خدمات باي بال IPN والخدمات التي تتصل بخوادم أخرى "
+"لن تعمل. تواصل مع خادمك لتفعيلها."
 
 #: includes/admin/views/html-admin-page-status-report.php:191
 msgid ""
-"Some webservices like shipping use SOAP to get information from remote servers, "
-"for example, live shipping quotes from FedEx require SOAP to be installed."
+"Some webservices like shipping use SOAP to get information from remote servers, for "
+"example, live shipping quotes from FedEx require SOAP to be installed."
 msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:197
@@ -5819,8 +5800,8 @@ msgid ""
 "Your server does not have the <a href=\"%s\">SOAP Client</a> class enabled - some "
 "gateway plugins which use SOAP may not work as expected."
 msgstr ""
-"خادمك لا يمكن <a href=\"%s\">عميل SOAP</a> - بعض إضافات طرق الدفع تستخدمه وقد لا "
-"تعمل كما يجب."
+"خادمك لا يمكن <a href=\"%s\">عميل SOAP</a> - بعض إضافات طرق الدفع تستخدمه وقد لا تعمل "
+"كما يجب."
 
 #: includes/admin/views/html-admin-page-status-report.php:202
 msgid "HTML/Multipart emails use DOMDocument to generate inline CSS in templates."
@@ -5849,276 +5830,272 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:224
 msgid ""
-"PayPal uses this method of communicating when sending back transaction "
-"information."
+"PayPal uses this method of communicating when sending back transaction information."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:238
+#: includes/admin/views/html-admin-page-status-report.php:237
 msgid ""
-"wp_remote_post() failed. PayPal IPN won't work with your server. Contact your "
-"hosting provider."
+"wp_remote_post() failed. PayPal IPN won't work with your server. Contact your hosting "
+"provider."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:240
-#: includes/admin/views/html-admin-page-status-report.php:258
+#: includes/admin/views/html-admin-page-status-report.php:239
+#: includes/admin/views/html-admin-page-status-report.php:257
 msgid "Error: %s"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:242
-#: includes/admin/views/html-admin-page-status-report.php:260
+#: includes/admin/views/html-admin-page-status-report.php:241
+#: includes/admin/views/html-admin-page-status-report.php:259
 msgid "Status code: %s"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:248
+#: includes/admin/views/html-admin-page-status-report.php:247
 msgid "Remote Get"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:249
+#: includes/admin/views/html-admin-page-status-report.php:248
 msgid ""
 "WooCommerce plugins may use this method of communication when checking for plugin "
 "updates."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:256
+#: includes/admin/views/html-admin-page-status-report.php:255
 msgid ""
-"wp_remote_get() failed. The WooCommerce plugin updater won't work with your "
-"server. Contact your hosting provider."
+"wp_remote_get() failed. The WooCommerce plugin updater won't work with your server. "
+"Contact your hosting provider."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:288
+#: includes/admin/views/html-admin-page-status-report.php:287
 msgid "Server Locale"
 msgstr "إعدادات الخادم المحلية"
 
-#: includes/admin/views/html-admin-page-status-report.php:295
+#: includes/admin/views/html-admin-page-status-report.php:294
 msgid "The character used for decimal points."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:296
+#: includes/admin/views/html-admin-page-status-report.php:295
 msgid "The character used for a thousands separator."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:297
+#: includes/admin/views/html-admin-page-status-report.php:296
 msgid "The character used for decimal points in monetary values."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:298
+#: includes/admin/views/html-admin-page-status-report.php:297
 msgid "The character used for a thousands separator in monetary values."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:312
+#: includes/admin/views/html-admin-page-status-report.php:311
 msgid "Active Plugins"
 msgstr "الإضافات الفعالة"
 
-#: includes/admin/views/html-admin-page-status-report.php:336
+#: includes/admin/views/html-admin-page-status-report.php:335
 msgid "Visit plugin homepage"
 msgstr "زيارة الصفحة الرئيسية للإضافة"
 
-#: includes/admin/views/html-admin-page-status-report.php:364
+#: includes/admin/views/html-admin-page-status-report.php:363
 msgid "Network enabled"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:388
+#: includes/admin/views/html-admin-page-status-report.php:387
 msgid "API Enabled"
 msgstr "تفعيل API"
 
-#: includes/admin/views/html-admin-page-status-report.php:389
+#: includes/admin/views/html-admin-page-status-report.php:388
 msgid "Does your site have REST API enabled?"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:393
+#: includes/admin/views/html-admin-page-status-report.php:392
 msgid "Taxes Enabled"
 msgstr "تفعيل الضرائب"
 
-#: includes/admin/views/html-admin-page-status-report.php:394
+#: includes/admin/views/html-admin-page-status-report.php:393
 msgid "Does your site have taxes enabled?"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:398
+#: includes/admin/views/html-admin-page-status-report.php:397
 msgid "Shipping Enabled"
 msgstr "تفعيل الشحن"
 
-#: includes/admin/views/html-admin-page-status-report.php:399
+#: includes/admin/views/html-admin-page-status-report.php:398
 msgid "Does your site have shipping enabled?"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:403
+#: includes/admin/views/html-admin-page-status-report.php:402
 msgid "Force SSL"
 msgstr "فرض SSL"
 
-#: includes/admin/views/html-admin-page-status-report.php:404
+#: includes/admin/views/html-admin-page-status-report.php:403
 msgid "Does your site force a SSL Certificate for transactions?"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:409
+#: includes/admin/views/html-admin-page-status-report.php:408
 msgid ""
-"What currency prices are listed at in the catalog and which currency gateways "
-"will take payments in."
+"What currency prices are listed at in the catalog and which currency gateways will "
+"take payments in."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:414
+#: includes/admin/views/html-admin-page-status-report.php:413
 msgid "The position of the currency symbol."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:419
+#: includes/admin/views/html-admin-page-status-report.php:418
 msgid "The thousand separator of displayed prices."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:424
+#: includes/admin/views/html-admin-page-status-report.php:423
 msgid "The decimal separator of displayed prices."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:429
+#: includes/admin/views/html-admin-page-status-report.php:428
 msgid "The number of decimal points shown in displayed prices."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:437
+#: includes/admin/views/html-admin-page-status-report.php:436
 msgid "WC Pages"
 msgstr "صفحات ووكومرس"
 
-#: includes/admin/views/html-admin-page-status-report.php:446
+#: includes/admin/views/html-admin-page-status-report.php:445
 msgid "The URL of your WooCommerce shop's homepage (along with the Page ID)."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:451
+#: includes/admin/views/html-admin-page-status-report.php:450
 msgid "The URL of your WooCommerce shop's cart (along with the page ID)."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:456
+#: includes/admin/views/html-admin-page-status-report.php:455
 msgid "The URL of your WooCommerce shop's checkout (along with the page ID)."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:461
-msgid ""
-"The URL of your WooCommerce shop's “My Account” Page (along with the page ID)."
+#: includes/admin/views/html-admin-page-status-report.php:460
+msgid "The URL of your WooCommerce shop's “My Account” Page (along with the page ID)."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:482
+#: includes/admin/views/html-admin-page-status-report.php:481
 msgid "Page not set"
 msgstr "الصفحة لم تحدد"
 
-#: includes/admin/views/html-admin-page-status-report.php:492
+#: includes/admin/views/html-admin-page-status-report.php:491
 msgid "Page does not exist"
 msgstr "الصفحة غير موجودة"
 
-#: includes/admin/views/html-admin-page-status-report.php:497
+#: includes/admin/views/html-admin-page-status-report.php:496
 msgid "Page does not contain the shortcode: %s"
 msgstr "الصفحة لا تحتوي: %s"
 
-#: includes/admin/views/html-admin-page-status-report.php:515
+#: includes/admin/views/html-admin-page-status-report.php:514
 msgid "Taxonomies"
 msgstr "التصنيفات"
 
-#: includes/admin/views/html-admin-page-status-report.php:515
-msgid ""
-"A list of taxonomy terms that can be used in regard to order/product statuses."
+#: includes/admin/views/html-admin-page-status-report.php:514
+msgid "A list of taxonomy terms that can be used in regard to order/product statuses."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:520
+#: includes/admin/views/html-admin-page-status-report.php:519
 msgid "Product Types"
 msgstr "أنواع المنتجات"
 
-#: includes/admin/views/html-admin-page-status-report.php:536
+#: includes/admin/views/html-admin-page-status-report.php:535
 msgid "Theme"
 msgstr "القالب"
 
-#: includes/admin/views/html-admin-page-status-report.php:569
+#: includes/admin/views/html-admin-page-status-report.php:567
 msgid "The name of the current active theme."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:573
+#: includes/admin/views/html-admin-page-status-report.php:571
 msgid "Version"
 msgstr "الإصدار"
 
-#: includes/admin/views/html-admin-page-status-report.php:574
+#: includes/admin/views/html-admin-page-status-report.php:572
 msgid "The installed version of the current active theme."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:579
+#: includes/admin/views/html-admin-page-status-report.php:577
 msgid "is available"
 msgstr "متوفر"
 
-#: includes/admin/views/html-admin-page-status-report.php:584
+#: includes/admin/views/html-admin-page-status-report.php:582
 msgid "Author URL"
 msgstr "رابط المؤلف"
 
-#: includes/admin/views/html-admin-page-status-report.php:585
+#: includes/admin/views/html-admin-page-status-report.php:583
 msgid "The theme developers URL."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:589
+#: includes/admin/views/html-admin-page-status-report.php:587
 msgid "Child Theme"
 msgstr "القالب الإبن"
 
-#: includes/admin/views/html-admin-page-status-report.php:590
+#: includes/admin/views/html-admin-page-status-report.php:588
 msgid "Displays whether or not the current theme is a child theme."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:592
+#: includes/admin/views/html-admin-page-status-report.php:590
 msgid ""
 "If you're modifying WooCommerce or a parent theme you didn't build personally we "
-"recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to "
-"create a child theme</a>"
+"recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a "
+"child theme</a>"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:600
+#: includes/admin/views/html-admin-page-status-report.php:598
 msgid "Parent Theme Name"
 msgstr "اسم القالب الأب"
 
-#: includes/admin/views/html-admin-page-status-report.php:601
+#: includes/admin/views/html-admin-page-status-report.php:599
 msgid "The name of the parent theme."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:605
+#: includes/admin/views/html-admin-page-status-report.php:603
 msgid "Parent Theme Version"
 msgstr "اصدار القالب الأب"
 
-#: includes/admin/views/html-admin-page-status-report.php:606
+#: includes/admin/views/html-admin-page-status-report.php:604
 msgid "The installed version of the parent theme."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:610
+#: includes/admin/views/html-admin-page-status-report.php:608
 msgid "Parent Theme Author URL"
 msgstr "رابط مطور القالب الأب"
 
-#: includes/admin/views/html-admin-page-status-report.php:611
+#: includes/admin/views/html-admin-page-status-report.php:609
 msgid "The parent theme developers URL."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:616
+#: includes/admin/views/html-admin-page-status-report.php:614
 msgid "WooCommerce Support"
 msgstr "دعم ووكومرس"
 
-#: includes/admin/views/html-admin-page-status-report.php:617
-msgid ""
-"Displays whether or not the current active theme declares WooCommerce support."
+#: includes/admin/views/html-admin-page-status-report.php:615
+msgid "Displays whether or not the current active theme declares WooCommerce support."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:620
+#: includes/admin/views/html-admin-page-status-report.php:618
 msgid "Not Declared"
 msgstr "غير مصرح"
 
-#: includes/admin/views/html-admin-page-status-report.php:631
+#: includes/admin/views/html-admin-page-status-report.php:629
 msgid "Templates"
 msgstr "القوالب"
 
-#: includes/admin/views/html-admin-page-status-report.php:631
+#: includes/admin/views/html-admin-page-status-report.php:629
 msgid ""
 "This section shows any files that are overriding the default WooCommerce template "
 "pages."
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:668
+#: includes/admin/views/html-admin-page-status-report.php:666
 msgid ""
-"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. "
-"The core version is %s"
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The "
+"core version is %s"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:680
-#: includes/admin/views/html-admin-page-status-report.php:689
+#: includes/admin/views/html-admin-page-status-report.php:678
+#: includes/admin/views/html-admin-page-status-report.php:687
 msgid "Overrides"
 msgstr "التجاوزات"
 
-#: includes/admin/views/html-admin-page-status-report.php:701
+#: includes/admin/views/html-admin-page-status-report.php:699
 msgid "Learn how to update outdated templates"
 msgstr ""
 
@@ -6141,11 +6118,11 @@ msgstr "وضع معالجة القوالب"
 
 #: includes/admin/views/html-admin-page-status-tools.php:51
 msgid ""
-"This tool will disable template overrides for logged-in administrators for "
-"debugging purposes."
+"This tool will disable template overrides for logged-in administrators for debugging "
+"purposes."
 msgstr ""
-"هذه الأداة ستعطل الكتابة على جميع القوالب الإفتراضية للمدراء المسجلين دخولهم، "
-"تستخدم لأغراض الصيانة."
+"هذه الأداة ستعطل الكتابة على جميع القوالب الإفتراضية للمدراء المسجلين دخولهم، تستخدم "
+"لأغراض الصيانة."
 
 #: includes/admin/views/html-admin-page-status-tools.php:56
 msgid "Uninstall on Delete"
@@ -6153,8 +6130,8 @@ msgstr "إلغاء التنصيب عند الحذف"
 
 #: includes/admin/views/html-admin-page-status-tools.php:62
 msgid ""
-"This tool will delete all WooCommerce, Product and Order data when uninstalling "
-"via Plugins > Delete."
+"This tool will delete all WooCommerce, Product and Order data when uninstalling via "
+"Plugins > Delete."
 msgstr ""
 "ستقوم هذه الأداة بحذف جميع بيانات ووكومرس من قواعد البيانات أثناء إلغاء التنصيب، "
 "متضمنةً بيانات المنتجات والطلبات."
@@ -6275,11 +6252,11 @@ msgid ""
 "replacement WooCommerce Colors plugin from WordPress.org."
 msgstr ""
 
-#: includes/admin/views/html-notice-frontend-colors.php:22
+#: includes/admin/views/html-notice-frontend-colors.php:21
 msgid "Install the new WooCommerce Colors plugin"
 msgstr ""
 
-#: includes/admin/views/html-notice-frontend-colors.php:22
+#: includes/admin/views/html-notice-frontend-colors.php:21
 #: includes/admin/views/html-notice-template-check.php:14
 #: includes/admin/views/html-notice-theme-support.php:17
 msgid "Hide this notice"
@@ -6290,8 +6267,7 @@ msgid ""
 "<strong>Welcome to WooCommerce</strong> &#8211; You're almost ready to start "
 "selling :)"
 msgstr ""
-"‏<strong>مرحبًا بك في ووكومرس!</strong> &#8211; أنت على وشك أن تكون جاهزًا لبدء "
-"البيع :)"
+"‏<strong>مرحبًا بك في ووكومرس!</strong> &#8211; أنت على وشك أن تكون جاهزًا لبدء البيع :)"
 
 #: includes/admin/views/html-notice-install.php:14
 msgid "Skip setup"
@@ -6300,18 +6276,17 @@ msgstr "تخطي عملية التنصيب"
 #: includes/admin/views/html-notice-template-check.php:13
 msgid ""
 "<strong>Your theme has bundled outdated copies of WooCommerce template files.</"
-"strong> If you notice an issue on your site, this could be the reason. Please "
-"contact your theme developer for further assistance. You can review the System "
-"Status report for full details or <a href=\"http://docs.woothemes.com/document/"
-"template-structure/\" target=\"_blank\">learn more about WooCommerce Template "
-"Structure here</a>."
+"strong> If you notice an issue on your site, this could be the reason. Please contact "
+"your theme developer for further assistance. You can review the System Status report "
+"for full details or <a href=\"http://docs.woothemes.com/document/template-structure/"
+"\" target=\"_blank\">learn more about WooCommerce Template Structure here</a>."
 msgstr ""
 
 #: includes/admin/views/html-notice-theme-support.php:13
 msgid ""
-"<strong>Your theme does not declare WooCommerce support</strong> &#8211; Please "
-"read our integration guide or check out our %sStorefront%s theme which is totally "
-"free to download and designed specifically for use with WooCommerce :)"
+"<strong>Your theme does not declare WooCommerce support</strong> &#8211; Please read "
+"our integration guide or check out our %sStorefront%s theme which is totally free to "
+"download and designed specifically for use with WooCommerce :)"
 msgstr ""
 
 #: includes/admin/views/html-notice-theme-support.php:15
@@ -6340,8 +6315,8 @@ msgid ""
 "<strong>WooCommerce Translation Available</strong> &#8211; Install or update your "
 "<code>%s</code> translation to version <code>%s</code>."
 msgstr ""
-"‏<strong>هناك ترجمة متاحة لووكومرس</strong> &#8211; نصب أو حدث <code>%s</code> "
-"ترجمتك إلى الإصدار <code>%s</code>."
+"‏<strong>هناك ترجمة متاحة لووكومرس</strong> &#8211; نصب أو حدث <code>%s</code> ترجمتك "
+"إلى الإصدار <code>%s</code>."
 
 #: includes/admin/views/html-notice-translation-upgrade.php:16
 #: includes/admin/views/html-notice-translation-upgrade.php:18
@@ -6358,8 +6333,8 @@ msgstr "أخف هذا الإشعار"
 
 #: includes/admin/views/html-notice-update.php:13
 msgid ""
-"<strong>WooCommerce Data Update Required</strong> &#8211; We just need to update "
-"your install to the latest version"
+"<strong>WooCommerce Data Update Required</strong> &#8211; We just need to update your "
+"install to the latest version"
 msgstr ""
 
 #: includes/admin/views/html-notice-update.php:14
@@ -6368,11 +6343,10 @@ msgstr "شغل المحدث"
 
 #: includes/admin/views/html-notice-update.php:18
 msgid ""
-"It is strongly recommended that you backup your database before proceeding. Are "
-"you sure you wish to run the updater now?"
+"It is strongly recommended that you backup your database before proceeding. Are you "
+"sure you wish to run the updater now?"
 msgstr ""
-"يوصى بشدة أن تأخذ نسخة احتياطية من قاعدة بياناتك قبل المتابعة، هل تريد التحديث "
-"الآن؟"
+"يوصى بشدة أن تأخذ نسخة احتياطية من قاعدة بياناتك قبل المتابعة، هل تريد التحديث الآن؟"
 
 #: includes/admin/views/html-quick-edit-product.php:35
 msgid "Regular price"
@@ -6465,7 +6439,7 @@ msgstr "جاري البحث&hellip;"
 #: includes/admin/class-wc-admin-menus.php:144
 msgctxt "Admin menu name"
 msgid "Orders"
-msgstr "الطلبات"
+msgstr "طلبات"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:68
 msgctxt "slug"
@@ -6564,7 +6538,7 @@ msgstr "مبلغ معاد %s عبر %s"
 #: includes/admin/meta-boxes/views/html-order-items.php:288
 msgctxt "Refund $amount manually"
 msgid "Refund %s manually"
-msgstr ""
+msgstr "إعادة %s يدويًا"
 
 #: includes/admin/meta-boxes/views/html-order-refund.php:21
 msgctxt "Ex: Refund - $date >by< $username"
@@ -6586,66 +6560,64 @@ msgctxt "Settings group label"
 msgid "Checkout"
 msgstr "إنهاء الطلب"
 
-#: includes/admin/views/html-admin-page-status-report.php:360
+#: includes/admin/views/html-admin-page-status-report.php:359
 msgctxt "Version info"
 msgid "%s is available"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:372
+#: includes/admin/views/html-admin-page-status-report.php:371
 msgctxt "by author"
 msgid "by %s"
 msgstr ""
 
-#: includes/admin/views/html-admin-page-status-report.php:443
+#: includes/admin/views/html-admin-page-status-report.php:442
 msgctxt "Page setting"
 msgid "Shop Base"
 msgstr "المتجر"
 
-#: includes/admin/views/html-admin-page-status-report.php:448
+#: includes/admin/views/html-admin-page-status-report.php:447
 msgctxt "Page setting"
 msgid "Cart"
 msgstr "السلة"
 
-#: includes/admin/views/html-admin-page-status-report.php:453
+#: includes/admin/views/html-admin-page-status-report.php:452
 msgctxt "Page setting"
 msgid "Checkout"
 msgstr "إنهاء الطلب"
 
-#: includes/admin/views/html-admin-page-status-report.php:458
+#: includes/admin/views/html-admin-page-status-report.php:457
 msgctxt "Page setting"
 msgid "My Account"
 msgstr "حسابي"
 
-#: includes/admin/views/html-admin-page-status-report.php:472
+#: includes/admin/views/html-admin-page-status-report.php:471
 msgctxt "WC Pages links in the System Status"
 msgid "Edit %s page"
 msgstr ""
 
 #~ msgid ""
 #~ "As part of the API, we've introduced a UI for the Webhook system in 2.3. This "
-#~ "makes it easier for 3rd party apps to integrate with WooCommerce. Read more in "
-#~ "our %sdocs%s."
+#~ "makes it easier for 3rd party apps to integrate with WooCommerce. Read more in our "
+#~ "%sdocs%s."
 #~ msgstr ""
-#~ "كجزء من API ووكومرس، قمنا بتقديم واجهة استخدام لنظام Webhooks في الإصدارة 2‪.‬3. "
-#~ "مما يجعل من التطبيقات الخارجية سهولة التكامل مع ووكومرس. إقرأ المزيد في "
-#~ "%sتعليماتنا%s."
+#~ "كجزء من API ووكومرس، قمنا بتقديم واجهة استخدام لنظام Webhooks في الإصدارة 2‪.‬3. مما "
+#~ "يجعل من التطبيقات الخارجية سهولة التكامل مع ووكومرس. إقرأ المزيد في %sتعليماتنا%s."
 
 #~ msgid "Default Customer Address:"
 #~ msgstr "العنوان الإفتراضي للعميل:"
 
 #~ msgid ""
-#~ "If you like <strong>WooCommerce</strong> please leave us a <a href=\"%1$s\" "
-#~ "target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating on <a href="
-#~ "\"%1$s\" target=\"_blank\">WordPress.org</a>. A huge thank you from WooThemes "
-#~ "in advance!"
+#~ "If you like <strong>WooCommerce</strong> please leave us a <a href=\"%1$s\" target="
+#~ "\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating on <a href=\"%1$s\" "
+#~ "target=\"_blank\">WordPress.org</a>. A huge thank you from WooThemes in advance!"
 #~ msgstr ""
-#~ "إذا أعجبك <strong>ووكومرس</strong> فضلًا أترك لنا تقييمًا بـ <a href=\"%1$s\" "
-#~ "target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> على <a href=\"%1$s\" "
-#~ "target=\"_blank\">WordPress.org</a>. شكرًا جزيلًا."
+#~ "إذا أعجبك <strong>ووكومرس</strong> فضلًا أترك لنا تقييمًا بـ <a href=\"%1$s\" target="
+#~ "\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> على <a href=\"%1$s\" target="
+#~ "\"_blank\">WordPress.org</a>. شكرًا جزيلًا."
 
 #~ msgid ""
-#~ "List additional tax classes below (1 per line). This is in addition to the "
-#~ "default <code>Standard Rate</code>. Tax classes can be assigned to products."
+#~ "List additional tax classes below (1 per line). This is in addition to the default "
+#~ "<code>Standard Rate</code>. Tax classes can be assigned to products."
 #~ msgstr ""
 #~ "ضع فئات الضرائب الإضافية بالأسفل (واحد لكل سطر). والذي سيضاف إلى <code>الأسعار "
 #~ "القياسية</code>. فئات الضرائب قابلة للتخصيص على المنتجات أيضًا."
@@ -6657,15 +6629,13 @@ msgstr ""
 #~ msgstr "ما يعرض بعد السعر:"
 
 #~ msgid ""
-#~ "Define text to show after your product prices. This could be, for example, "
-#~ "\"inc. Vat\" to explain your pricing. You can also have prices substituted "
-#~ "here using one of the following: <code>{price_including_tax}, "
-#~ "{price_excluding_tax}</code>."
+#~ "Define text to show after your product prices. This could be, for example, \"inc. "
+#~ "Vat\" to explain your pricing. You can also have prices substituted here using one "
+#~ "of the following: <code>{price_including_tax}, {price_excluding_tax}</code>."
 #~ msgstr ""
-#~ "أضف نصًا ليتم عرضه بعد أسعار المنتجات. مثال: (السعر يشمل الضريبة). سياعدك في "
-#~ "وصف أسعارك بشكل أفضل. بإمكانك أيضًا إستبدال الأسعار هنا بإستخدام أحد الشفرات "
-#~ "التالية: <code dir=\"ltr\">{price_including_tax} أو {price_excluding_tax}</"
-#~ "code>."
+#~ "أضف نصًا ليتم عرضه بعد أسعار المنتجات. مثال: (السعر يشمل الضريبة). سياعدك في وصف "
+#~ "أسعارك بشكل أفضل. بإمكانك أيضًا إستبدال الأسعار هنا بإستخدام أحد الشفرات التالية: "
+#~ "<code dir=\"ltr\">{price_including_tax} أو {price_excluding_tax}</code>."
 
 #~ msgid "Display prices during cart/checkout:"
 #~ msgstr "عرض الأسعار في صفحة السلة/انهاء الطلب:"
@@ -6674,15 +6644,15 @@ msgstr ""
 #~ msgstr "عرض مجموع الضريبة:"
 
 #~ msgid ""
-#~ "This is the sum of the order totals, including shipping and taxes. This does "
-#~ "not include refunds."
+#~ "This is the sum of the order totals, including shipping and taxes. This does not "
+#~ "include refunds."
 #~ msgstr ""
 #~ "هذا هو ملخص إجماليات الطلبات، متضمنًا الشحن والضرائب. ولكن لا يتضمن المبالغ "
 #~ "المسترجعة."
 
 #~ msgid ""
-#~ "This is the net sales figure excluding shipping and taxes. This does not "
-#~ "include refunds."
+#~ "This is the net sales figure excluding shipping and taxes. This does not include "
+#~ "refunds."
 #~ msgstr "هذا هو رقم صافي المبيعات غير متضمن الشحن والضرائب والمبالغ المسترجعة."
 
 #~ msgid "Orders/refunds"
@@ -6704,8 +6674,7 @@ msgstr ""
 #~ msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
 #~ msgstr "الاسم اللطيف “%s” أكبر من 28 حرف، صغره رجاءً."
 
-#~ msgid ""
-#~ "Slug “%s” is not allowed because it is a reserved term. Change it, please."
+#~ msgid "Slug “%s” is not allowed because it is a reserved term. Change it, please."
 #~ msgstr "الاسم اللطيف “%s” لا يمكن استخدامه لأنه كلمة محجوز."
 
 #~ msgid "Slug “%s” is already in use. Change it, please."
@@ -6748,21 +6717,20 @@ msgstr ""
 #~ msgstr "أعد مبالغ الطلبات جزئيًا"
 
 #~ msgid ""
-#~ "Store owners can now do partial refunds on orders; define the refund amount, "
-#~ "qty, and optionally restore inventory. If the gateway supports it, the payment "
-#~ "can be automatically refunded too!"
+#~ "Store owners can now do partial refunds on orders; define the refund amount, qty, "
+#~ "and optionally restore inventory. If the gateway supports it, the payment can be "
+#~ "automatically refunded too!"
 #~ msgstr ""
-#~ "بإمكان مالكي المتجر الآن إعادة مبالغ الطلبات بشكل جزئي، وبإمكانهم وبكل بساطة "
-#~ "تحديد قيمة المبلغ المعاد، الكمية، واستعادة المخزون. من المستطاع أيضًا إعادة "
-#~ "المبلغ تلقائيًا إذا كانت الخاصية مدعومة لدى بوابة الدفع المستخدمة."
+#~ "بإمكان مالكي المتجر الآن إعادة مبالغ الطلبات بشكل جزئي، وبإمكانهم وبكل بساطة تحديد "
+#~ "قيمة المبلغ المعاد، الكمية، واستعادة المخزون. من المستطاع أيضًا إعادة المبلغ "
+#~ "تلقائيًا إذا كانت الخاصية مدعومة لدى بوابة الدفع المستخدمة."
 
 #~ msgid "Updated order totals UI"
 #~ msgstr "واجهة إستخدام محدثة لمجموع الطلبات"
 
 #~ msgid ""
 #~ "To support the partial refund functionality, the order items and totals panels "
-#~ "have been combined. As a result we have a simpler, more user friendly order "
-#~ "page."
+#~ "have been combined. As a result we have a simpler, more user friendly order page."
 #~ msgstr ""
 #~ "لدعم إعادة المبالغ جزئيًا على الطلبات، تم دمج لوحات عناصر ومجموع كل طلب في مكان "
 #~ "واحد. نتيجةً إلى ذلك، لدينا الآن صفحة أسهل وأكثر سلاسة لإدارة الطلب."
@@ -6776,34 +6744,34 @@ msgstr ""
 #~ msgid ""
 #~ "Update, delete and create orders, customers, products and coupons via the API."
 #~ msgstr ""
-#~ "بإمكان المطورين رفع وحذف وإنشاء الطلبات والعملاء والمنتجات وحتى القسائم "
-#~ "الشرائية عبر الـ API"
+#~ "بإمكان المطورين رفع وحذف وإنشاء الطلبات والعملاء والمنتجات وحتى القسائم الشرائية "
+#~ "عبر الـ API"
 
 #~ msgid "Other enhancements"
 #~ msgstr "تحسينات أخرى"
 
 #~ msgid ""
 #~ "Resources can now be ordered by any field you define for greater control over "
-#~ "returned results. v2 also introduces an endpoint for getting product "
-#~ "categories from your store."
+#~ "returned results. v2 also introduces an endpoint for getting product categories "
+#~ "from your store."
 #~ msgstr ""
-#~ "بالإمكان الآن طلب المصادر عبر أي حقل تم تعريفه لتحكم أكثر بالنتائج. بالإضافة "
-#~ "إلى ذلك، تقدم النسخة الجديدة إمكانية ضبط روابط نهاية لتصنيفات متجرك."
+#~ "بالإمكان الآن طلب المصادر عبر أي حقل تم تعريفه لتحكم أكثر بالنتائج. بالإضافة إلى "
+#~ "ذلك، تقدم النسخة الجديدة إمكانية ضبط روابط نهاية لتصنيفات متجرك."
 
 #~ msgid ""
 #~ "Trigger webhooks during events such as when an order is created. Opens up all "
 #~ "kinds of external integration opportunities."
 #~ msgstr ""
-#~ "بإمكانك الوصول إلى الـ Webhooks أثناء حدوث حدث كطلب تم إنشاءه. يمنح ذلك "
-#~ "إمكانيات عديدة للدمج الخارجي مع البرمجية."
+#~ "بإمكانك الوصول إلى الـ Webhooks أثناء حدوث حدث كطلب تم إنشاءه. يمنح ذلك إمكانيات "
+#~ "عديدة للدمج الخارجي مع البرمجية."
 
 #~ msgid "Language pack downloader"
 #~ msgstr "محمّل الترجمات"
 
 #~ msgid ""
-#~ "Due to the size of PO and MO files, we have removed them from core and "
-#~ "included our \"Language Pack Downloader\". International users can download "
-#~ "and update their translation files easily from the dashboard."
+#~ "Due to the size of PO and MO files, we have removed them from core and included "
+#~ "our \"Language Pack Downloader\". International users can download and update "
+#~ "their translation files easily from the dashboard."
 #~ msgstr ""
 #~ "تم حذف ملفات الترجمة من نواة الإضافة بسبب حجمها الكبير واستبدالها بـ «محمّل "
 #~ "الترجمات». حيث يمكن تحميل وتحديث الترجمات مباشرة من لوحة التحكم."
@@ -6812,11 +6780,11 @@ msgstr ""
 #~ msgstr "ادارة مخزون النوع"
 
 #~ msgid ""
-#~ "You can now set stock management options (such as backorder support) at "
-#~ "variation level giving much greater control over stock."
+#~ "You can now set stock management options (such as backorder support) at variation "
+#~ "level giving much greater control over stock."
 #~ msgstr ""
-#~ "تستطيع الآن ضبط خيارات لإدارة المخزون (مثل دعم الطلبات المؤجلة) لكل نوع. يعطيك "
-#~ "ذلك تحكم أكبر للمخزون."
+#~ "تستطيع الآن ضبط خيارات لإدارة المخزون (مثل دعم الطلبات المؤجلة) لكل نوع. يعطيك ذلك "
+#~ "تحكم أكبر للمخزون."
 
 #~ msgid "Improved Payment Gateways"
 #~ msgstr "بوابات دفع محسنة"
@@ -6824,30 +6792,28 @@ msgstr ""
 #~ msgid ""
 #~ "The Payment Gateway API has been enhanced to support refunds and storing "
 #~ "transaction IDs."
-#~ msgstr ""
-#~ "تم تحسين API بوابات الدفع لدعم المبالغ المعادة وتخزين أرقام تعريف المعاملات."
+#~ msgstr "تم تحسين API بوابات الدفع لدعم المبالغ المعادة وتخزين أرقام تعريف المعاملات."
 
 #~ msgid "Join us at the inaugural WooCommerce Conference in San Francisco"
 #~ msgstr "انضم الينا في المؤتمر الإفتتاحي لووكومرس في سان فرانسسكو"
 
 #~ msgid ""
-#~ "On the %s3rd and 4th%s of November 2014 WooCommerce creators WooThemes are "
-#~ "hosting an event dedicated to store owners &amp; WordPress developers wanting "
-#~ "to learn the art of eCommerce using WooCommerce."
+#~ "On the %s3rd and 4th%s of November 2014 WooCommerce creators WooThemes are hosting "
+#~ "an event dedicated to store owners &amp; WordPress developers wanting to learn the "
+#~ "art of eCommerce using WooCommerce."
 #~ msgstr ""
-#~ "يستضيف مبرمجوا ووكومرس في الثالث والرابع من نوفمبر 2014 حدث مخصص لمالكي "
-#~ "المتاجر ومطورين ووردبريس لتعلم المزيد عن فن التجارة الإلكترونية بإستخدام "
-#~ "ووكومرس."
+#~ "يستضيف مبرمجوا ووكومرس في الثالث والرابع من نوفمبر 2014 حدث مخصص لمالكي المتاجر "
+#~ "ومطورين ووردبريس لتعلم المزيد عن فن التجارة الإلكترونية بإستخدام ووكومرس."
 
 #~ msgid "Find out more & buy tickets"
 #~ msgstr "للمزيد وشراء التذاكر"
 
 #~ msgid ""
-#~ "Import complete - imported <strong>%s</strong> tax rates and skipped <strong>"
-#~ "%s</strong>."
+#~ "Import complete - imported <strong>%s</strong> tax rates and skipped <strong>%s</"
+#~ "strong>."
 #~ msgstr ""
-#~ "أكتمل الاستيراد - استورد <strong>%s</strong> من العمولات وترك <strong>%s</"
-#~ "strong> منها."
+#~ "أكتمل الاستيراد - استورد <strong>%s</strong> من العمولات وترك <strong>%s</strong> "
+#~ "منها."
 
 #~ msgid ""
 #~ "Check this box if the coupon grants free shipping. The <a href=\"%s\">free "
@@ -6859,8 +6825,7 @@ msgstr ""
 #~ msgid "Apply before tax"
 #~ msgstr "تطبيق بدون قيمة الضريبة"
 
-#~ msgid ""
-#~ "Check this box if the coupon should be applied before calculating cart tax."
+#~ msgid "Check this box if the coupon should be applied before calculating cart tax."
 #~ msgstr "حدد هذا الخيار اذا كانت القسيمة يجب أن تطبق قبل حساب ضريبة المشتريات."
 
 #~ msgid "Search for a product…"
@@ -6870,8 +6835,8 @@ msgstr ""
 #~ "List of emails to check against the customer's billing email when an order is "
 #~ "placed. Separate email addresses with commas."
 #~ msgstr ""
-#~ "قائمة عناوين البريد الإلكتروني لفحصها مع عنوان العميل عند انهاء طلب. افصل "
-#~ "العناوين بفاصلة."
+#~ "قائمة عناوين البريد الإلكتروني لفحصها مع عنوان العميل عند انهاء طلب. افصل العناوين "
+#~ "بفاصلة."
 
 #~ msgid "Save Order"
 #~ msgstr "حفظ الطلب"
@@ -6916,8 +6881,7 @@ msgstr ""
 #~ msgstr "تفعيل صندوق بحث الدول المتقدم"
 
 #~ msgid "This will enable a script allowing the country fields to be searchable."
-#~ msgstr ""
-#~ "لتفعيل صندوق بحث داخل نافذة إختيار الدولة، لجعل الوصول للدولة المطلوبة أسرع."
+#~ msgstr "لتفعيل صندوق بحث داخل نافذة إختيار الدولة، لجعل الوصول للدولة المطلوبة أسرع."
 
 #~ msgid "Frontend Styles"
 #~ msgstr "مظهر الواجهة"
@@ -6955,9 +6919,8 @@ msgstr ""
 #~ "wordpress.org/Changing_File_Permissions\">the Codex</a> for more information."
 #~ msgstr ""
 #~ "لتغيير الألوان <code>woocommerce/assets/css/woocommerce-base.less</code> و "
-#~ "<code>woocommerce.css</code> يجب أن يكونا قابلين للقرائة. شاهد <a href="
-#~ "\"http://codex.wordpress.org/Changing_File_Permissions\">Codex</a> لمزيد من "
-#~ "التفاصل."
+#~ "<code>woocommerce.css</code> يجب أن يكونا قابلين للقرائة. شاهد <a href=\"http://"
+#~ "codex.wordpress.org/Changing_File_Permissions\">Codex</a> لمزيد من التفاصل."
 
 #~ msgid "Product Options"
 #~ msgstr "خيارات المنتجات"
@@ -6966,8 +6929,8 @@ msgstr ""
 #~ msgstr "خيارات المخزون"
 
 #~ msgid ""
-#~ "Note: The shop page has children - child pages will not work if you enable "
-#~ "this option."
+#~ "Note: The shop page has children - child pages will not work if you enable this "
+#~ "option."
 #~ msgstr "ملاحظة صفحة التسوق لها صفحات فرعية لا تظهر عند تفعيل هذا الخيار"
 
 #~ msgid "Product Listings"
@@ -6988,12 +6951,11 @@ msgstr ""
 #~ "these settings you may need to <a href=\"%s\">regenerate your thumbnails</a>."
 #~ msgstr ""
 #~ "هذه الإعدادات تؤثر في المقاسات الأصلية لصور منتجاتك - العرض في واجهة المتجر قد "
-#~ "يتأثر بواسطة CSS. بعد تغييرك لهذه الإعدادات قد تحتاج لـ <a href=\"%s\">إعادة "
-#~ "توليد الصور المصغرة</a>."
+#~ "يتأثر بواسطة CSS. بعد تغييرك لهذه الإعدادات قد تحتاج لـ <a href=\"%s\">إعادة توليد "
+#~ "الصور المصغرة</a>."
 
 #~ msgid ""
-#~ "This option determines the customers default address (before they input their "
-#~ "own)."
+#~ "This option determines the customers default address (before they input their own)."
 #~ msgstr "هذا الخيار يحدد العنوان الإفتراضي للعملاء (قبل إدخال عناوينهم الخاصة)."
 
 #~ msgid "Browse themes"
@@ -7012,8 +6974,8 @@ msgstr ""
 #~ msgstr "إضافات ووردبريس المفعلة"
 
 #~ msgid ""
-#~ "%s - We recommend setting memory to at least 64MB. See: <a href=\"%s"
-#~ "\">Increasing memory allocated to PHP</a>"
+#~ "%s - We recommend setting memory to at least 64MB. See: <a href=\"%s\">Increasing "
+#~ "memory allocated to PHP</a>"
 #~ msgstr ""
 #~ "%s - ننصح بضبط الذاكرة على الأقل بـ 64MB. إقرأ المزيد عن <a href=\"%s\">زيادة "
 #~ "الذاكرة المخصصة لـ PHP</a>"
@@ -7064,8 +7026,8 @@ msgstr ""
 #~ "wp_remote_post() failed. PayPal IPN won't work with your server. Contact your "
 #~ "hosting provider. Error:"
 #~ msgstr ""
-#~ "‏wp_remote_post()&lrm; فشلت. باي بال IPN لا يعمل في حادمك. تواصل مع مستضيفك لحل "
-#~ "ا. الخطأ:"
+#~ "‏wp_remote_post()&lrm; فشلت. باي بال IPN لا يعمل في حادمك. تواصل مع مستضيفك لحل ا. "
+#~ "الخطأ:"
 
 #~ msgid "wp_remote_post() failed. PayPal IPN may not work with your server."
 #~ msgstr "‏wp_remote_post()&lrm; فشلت. باي بال IPN لا يعمل في خادمك."
@@ -7112,23 +7074,22 @@ msgstr ""
 #, fuzzy
 #~ msgid ""
 #~ "<strong>Your theme has bundled outdated copies of WooCommerce template files</"
-#~ "strong> &#8211; if you encounter functionality issues on the frontend this "
-#~ "could be the reason. Ensure you update or remove them (in general we recommend "
-#~ "only bundling the template files you actually need to customize). See the "
-#~ "system report for full details."
+#~ "strong> &#8211; if you encounter functionality issues on the frontend this could "
+#~ "be the reason. Ensure you update or remove them (in general we recommend only "
+#~ "bundling the template files you actually need to customize). See the system report "
+#~ "for full details."
 #~ msgstr ""
-#~ "<strong>قالبك يحتوي على ملفات قديمة من ووكومرس</strong>  &#8211; إذا واجهت "
-#~ "مشاكل وظيفية في واجهة متجرك فقد تكون هذه الملفات هي السبب. تأكد من تحديثها أو "
-#~ "حذفها (ننصح عمومًا بإستخدام ملفات أنت تريد تخصيصها فقط). شاهد تقرير النظام "
-#~ "لكامل التفاصيل."
+#~ "<strong>قالبك يحتوي على ملفات قديمة من ووكومرس</strong>  &#8211; إذا واجهت مشاكل "
+#~ "وظيفية في واجهة متجرك فقد تكون هذه الملفات هي السبب. تأكد من تحديثها أو حذفها "
+#~ "(ننصح عمومًا بإستخدام ملفات أنت تريد تخصيصها فقط). شاهد تقرير النظام لكامل التفاصيل."
 
 #~ msgid ""
-#~ "<strong>Your theme does not declare WooCommerce support</strong> &#8211; if "
-#~ "you encounter layout issues please read our integration guide or choose a "
-#~ "WooCommerce theme :)"
+#~ "<strong>Your theme does not declare WooCommerce support</strong> &#8211; if you "
+#~ "encounter layout issues please read our integration guide or choose a WooCommerce "
+#~ "theme :)"
 #~ msgstr ""
-#~ "‏<strong>قالبك الحالي لا يدعم ووكومرس</strong> &#8211; إذا واجهت مشاكل في "
-#~ "التصميم رجاءً أقرأ دليل التكامل أو ثبت أحد قوالب ووكومرس :)"
+#~ "‏<strong>قالبك الحالي لا يدعم ووكومرس</strong> &#8211; إذا واجهت مشاكل في التصميم "
+#~ "رجاءً أقرأ دليل التكامل أو ثبت أحد قوالب ووكومرس :)"
 
 #~ msgid "Theme Integration Guide"
 #~ msgstr "دليل تكامل القوالب"
@@ -7152,29 +7113,28 @@ msgstr ""
 #~ msgstr "الوصول للبيانات عبر تطبيقات أخرى"
 
 #~ msgid ""
-#~ "Built on top of the WooCommerce API, and targeted directly at developers, the "
-#~ "new REST API allows you to get data for <strong>Orders</strong>, "
-#~ "<strong>Coupons</strong>, <strong>Customers</strong>, <strong>Products</"
-#~ "strong> and <strong>Reports</strong> in both <code>XML</code> and <code>JSON</"
-#~ "code> formats."
+#~ "Built on top of the WooCommerce API, and targeted directly at developers, the new "
+#~ "REST API allows you to get data for <strong>Orders</strong>, <strong>Coupons</"
+#~ "strong>, <strong>Customers</strong>, <strong>Products</strong> and "
+#~ "<strong>Reports</strong> in both <code>XML</code> and <code>JSON</code> formats."
 #~ msgstr ""
-#~ "بنيت فوق API ووكومرس، ووجهت مباشرةً للمطورين: REST API الجديده تسمح لك بأخذ "
-#~ "بيانات <strong>الطلبات</strong>، <strong>القسائم</strong>، <strong>العملاء</"
-#~ "strong>، <strong>المنتجات</strong>، و<strong>التقارير</strong> "
-#~ "بصيغتي <code>XML</code>  و <code>JSON</code>."
+#~ "بنيت فوق API ووكومرس، ووجهت مباشرةً للمطورين: REST API الجديده تسمح لك بأخذ بيانات "
+#~ "<strong>الطلبات</strong>، <strong>القسائم</strong>، <strong>العملاء</strong>، "
+#~ "<strong>المنتجات</strong>، و<strong>التقارير</strong> بصيغتي <code>XML</code> "
+#~ " و <code>JSON</code>."
 
 #~ msgid "Authentication to keep data secure"
 #~ msgstr "توثيق يحمي بياناتك"
 
 #~ msgid ""
-#~ "Authentication for the REST API is performed using HTTP Basic Auth if you have "
-#~ "SSL enabled, or signed according to the <a href=\"http://tools.ietf.org/html/"
+#~ "Authentication for the REST API is performed using HTTP Basic Auth if you have SSL "
+#~ "enabled, or signed according to the <a href=\"http://tools.ietf.org/html/"
 #~ "rfc5849\">OAuth 1.0a</a> specification if you don't have SSL. Data is only "
 #~ "available to authenticated users."
 #~ msgstr ""
 #~ "التوثيق في REST API يعمل عبر التصريح الأساسي لـ HTTP اذا كان لديك SSL فعّال، أو "
-#~ "مسجل حسب شروط <a href=\"http://tools.ietf.org/html/rfc5849\">OAuth 1.0a</a> "
-#~ "اذا لم يكن لديك SSL. البيانات ستكون متوفرة فقط للمستخدمين الموثقين."
+#~ "مسجل حسب شروط <a href=\"http://tools.ietf.org/html/rfc5849\">OAuth 1.0a</a> اذا لم "
+#~ "يكن لديك SSL. البيانات ستكون متوفرة فقط للمستخدمين الموثقين."
 
 #~ msgid "UI and reporting improvements"
 #~ msgstr "تحسينات في واجهة الإستخدام وتسجيل التقارير"
@@ -7184,47 +7144,45 @@ msgstr ""
 
 #~ msgid ""
 #~ "WooCommerce 2.1 has had its UI restyled to work with the new admin design in "
-#~ "WordPress 3.8. All bitmap icons have been replaced with a custom, lightweight "
-#~ "icon font for razor sharp clarity on retina devices as well as improved "
-#~ "performance."
+#~ "WordPress 3.8. All bitmap icons have been replaced with a custom, lightweight icon "
+#~ "font for razor sharp clarity on retina devices as well as improved performance."
 #~ msgstr ""
-#~ "ووكومرس بنسخته 2.1 أتى بواجهة جديدة تمامًا لتعمل جنبًا لجنب مع واجهة ووردبريس. "
-#~ "جميع الأيقونات أصبحت فكتورية وعالية الدقة وأسرع في التحميل والأداء لتعمل على "
-#~ "جميع الشاشات."
+#~ "ووكومرس بنسخته 2.1 أتى بواجهة جديدة تمامًا لتعمل جنبًا لجنب مع واجهة ووردبريس. جميع "
+#~ "الأيقونات أصبحت فكتورية وعالية الدقة وأسرع في التحميل والأداء لتعمل على جميع "
+#~ "الشاشات."
 
 #~ msgid "Simplified order UI"
 #~ msgstr "واجهة مبسّطة لإدارة الطلبات"
 
 #~ msgid ""
-#~ "The orders panel has seen significant improvement to both the totals panel, "
-#~ "and line item display making editing new and existing orders a breeze."
+#~ "The orders panel has seen significant improvement to both the totals panel, and "
+#~ "line item display making editing new and existing orders a breeze."
 #~ msgstr ""
 #~ "لوحة إدارة الطلبات تم تحسينها بشكل كبير لتعرض المنتجات بشكل مباشر وبسيط لجعل "
 #~ "إدارتها أمرًا مريحًا."
 
 #~ msgid ""
-#~ "Item meta has also been optimised and can now be viewed as HTML rather than "
-#~ "stuck in a text input."
+#~ "Item meta has also been optimised and can now be viewed as HTML rather than stuck "
+#~ "in a text input."
 #~ msgstr "بيانات المنتجات تم تحسينها أيضًا لتعرض كـ HTML بدلًا من حقل نص عادي."
 
 #~ msgid "Improved Reporting"
 #~ msgstr "تسجيل تقارير أفضل"
 
 #~ msgid ""
-#~ "Reports have been redesigned with new <strong>filtering</strong> capabilities, "
-#~ "a new <strong>customer report</strong> showing orders/spending, and the "
-#~ "ability to <strong>export CSVs</strong>."
+#~ "Reports have been redesigned with new <strong>filtering</strong> capabilities, a "
+#~ "new <strong>customer report</strong> showing orders/spending, and the ability to "
+#~ "<strong>export CSVs</strong>."
 #~ msgstr ""
 #~ "تمت إعادة تصميم التقارير مع قدرات جديدة <strong>للفرز</strong> و<strong>تقارير "
-#~ "خاصة بالعملاء</strong> توضح طلباتهم والمبالغ التي دفعوها، وإمكانية "
-#~ "<strong>تصديرها بصيغة CSV</strong>."
+#~ "خاصة بالعملاء</strong> توضح طلباتهم والمبالغ التي دفعوها، وإمكانية <strong>تصديرها "
+#~ "بصيغة CSV</strong>."
 
 #~ msgid ""
 #~ "The dashboard also has a new widget showing you an overview of current orders "
 #~ "complete with sparklines for quick at-a-glance stats."
 #~ msgstr ""
-#~ "بالإضافة إلى صندوق في لوحة التحكم يعرض حالات الطلبات لأخذ نظرة شاملة وسريعة "
-#~ "عنها."
+#~ "بالإضافة إلى صندوق في لوحة التحكم يعرض حالات الطلبات لأخذ نظرة شاملة وسريعة عنها."
 
 #~ msgid "New separate plugins"
 #~ msgstr "إضافات خارجية جديدة"
@@ -7233,8 +7191,8 @@ msgstr ""
 #~ "To make core more lean, some integrations have been removed and turned into "
 #~ "dedicated plugins which you can install as and when you need them."
 #~ msgstr ""
-#~ "لجعل نواة المتجر أسرع، تم حذف بعض الإضافات التي كانت ترفق بشكل إفتراضي مع "
-#~ "الإضافة وتحويلها إلى إضافات منفصلة تستطيع تحميلها عندما تحتاجها."
+#~ "لجعل نواة المتجر أسرع، تم حذف بعض الإضافات التي كانت ترفق بشكل إفتراضي مع الإضافة "
+#~ "وتحويلها إلى إضافات منفصلة تستطيع تحميلها عندما تحتاجها."
 
 #~ msgid "Google Analytics"
 #~ msgstr "تحليلات قوقل Google Analytics"
@@ -7255,25 +7213,23 @@ msgstr ""
 #~ msgstr "مشاركة الشبكات الإجتماعية بواسطة ShareThis"
 
 #~ msgid "Add social network sharing buttons to products using ShareThis."
-#~ msgstr ""
-#~ "لإضافة أزرار مشاركة المنتجات في الشبكات الإجتماعية بإستخدام إضافة ShareThis."
+#~ msgstr "لإضافة أزرار مشاركة المنتجات في الشبكات الإجتماعية بإستخدام إضافة ShareThis."
 
 #~ msgid "Sharedaddy"
 #~ msgstr "تكامل مع Sharedaddy"
 
 #~ msgid "Add social network sharing buttons to products using Sharedaddy."
 #~ msgstr ""
-#~ "لإضافة أزرار مشاركة المنتجات في الشبكات الإجتماعية بإستخدام Sharedaddy عبر "
-#~ "إضافة Jetpack."
+#~ "لإضافة أزرار مشاركة المنتجات في الشبكات الإجتماعية بإستخدام Sharedaddy عبر إضافة "
+#~ "Jetpack."
 
 #~ msgid "ShareYourCart"
 #~ msgstr "شارك سلة مشترياتك عبر ShareYourCart"
 
-#~ msgid ""
-#~ "Let users share their carts for a discount using the ShareYourCart service."
+#~ msgid "Let users share their carts for a discount using the ShareYourCart service."
 #~ msgstr ""
-#~ "دع المستخدمين يشاركون محتويات سلة مشترياتهم في مقابل تزويدهم بخصم عليها عبر "
-#~ "خدمة ShareYourCart."
+#~ "دع المستخدمين يشاركون محتويات سلة مشترياتهم في مقابل تزويدهم بخصم عليها عبر خدمة "
+#~ "ShareYourCart."
 
 #~ msgid "Under the Hood"
 #~ msgstr "المزيد من المميزات الجديدة"
@@ -7282,11 +7238,11 @@ msgstr ""
 #~ msgstr "دعم نقل بيانات PayPal"
 
 #~ msgid ""
-#~ "PayPal Data Transfer (PDT) is an alternative for PayPal IPN which sends back "
-#~ "the status of an order when a customer returns from PayPal."
+#~ "PayPal Data Transfer (PDT) is an alternative for PayPal IPN which sends back the "
+#~ "status of an order when a customer returns from PayPal."
 #~ msgstr ""
-#~ "ناقل بيانات PayPal المسمى PDT هو بديل أحدث من IPN والذي يرسل حالة الطلب عندما "
-#~ "يقوم العميل للعودة للمتجر من موقع PayPal."
+#~ "ناقل بيانات PayPal المسمى PDT هو بديل أحدث من IPN والذي يرسل حالة الطلب عندما يقوم "
+#~ "العميل للعودة للمتجر من موقع PayPal."
 
 #~ msgid "Stylesheet separation"
 #~ msgstr "فصل ملفات التنسيق CSS"
@@ -7295,26 +7251,26 @@ msgstr ""
 #~ "Frontend styles have been split into separate appearance/layout/smallscreen "
 #~ "stylesheets to help with selective customisation."
 #~ msgstr ""
-#~ "ملفات تنسيق الواجهة تم تقسيمها لتكون ملفات منفصلة للمظهر/التخطيط/والشاشات "
-#~ "الصغيرة لتسهيل التعديل عليها."
+#~ "ملفات تنسيق الواجهة تم تقسيمها لتكون ملفات منفصلة للمظهر/التخطيط/والشاشات الصغيرة "
+#~ "لتسهيل التعديل عليها."
 
 #~ msgid "New endpoints"
 #~ msgstr "روابط نهاية جديدة"
 
 #~ msgid ""
-#~ "Certain pages such as \"Pay\", \"Order Received\" and some account pages are "
-#~ "now endpoints rather than pages to make checkout more reliable."
+#~ "Certain pages such as \"Pay\", \"Order Received\" and some account pages are now "
+#~ "endpoints rather than pages to make checkout more reliable."
 #~ msgstr ""
 #~ "صفحات معينة كصفحة (الدفع) أو (تم إستلام الطلب) وصفحات أخرى متعلقة بحساب العميل "
-#~ "تستخدم الآن كروابط نهاية بدلًا من كونها صفحات منفصلة لجعل تجربة انهاء الطلب "
-#~ "أكثر ثباتًا."
+#~ "تستخدم الآن كروابط نهاية بدلًا من كونها صفحات منفصلة لجعل تجربة انهاء الطلب أكثر "
+#~ "ثباتًا."
 
 #~ msgid "Default credit card form for gateways"
 #~ msgstr "نموذج بطاقات إئتمانية افتراضي لبوابات الدفع"
 
 #~ msgid ""
-#~ "We've added a standardized, default credit card form for gateways to use if "
-#~ "they support <code>default_credit_card_form</code>."
+#~ "We've added a standardized, default credit card form for gateways to use if they "
+#~ "support <code>default_credit_card_form</code>."
 #~ msgstr ""
 #~ "أضفنا نموذج إفتراضي جديد وقياسي لبوابات الدفع ليتم إستخدامه في حال دعم "
 #~ "<code>default_credit_card_form</code>."
@@ -7323,11 +7279,10 @@ msgstr ""
 #~ msgstr "حد للقسائم لكل عميل"
 
 #~ msgid ""
-#~ "Coupon usage limits can now be set per user (using email + ID) rather than "
-#~ "global."
+#~ "Coupon usage limits can now be set per user (using email + ID) rather than global."
 #~ msgstr ""
-#~ "حد إستخدام القسائم الآن أصبح إستخدامه لكل عميل بشكل منفصل (عبر بريده "
-#~ "الإلكتروني ومعرفه) بدلًا من تطبيقه بشكل عام."
+#~ "حد إستخدام القسائم الآن أصبح إستخدامه لكل عميل بشكل منفصل (عبر بريده الإلكتروني "
+#~ "ومعرفه) بدلًا من تطبيقه بشكل عام."
 
 #~ msgid "Streamlined new-account process"
 #~ msgstr "عملية إنشاء حساب جديد مبسطة"
@@ -7343,11 +7298,10 @@ msgstr ""
 #~ msgstr "خيارات إضافية لعرض الأسعار"
 
 #~ msgid ""
-#~ "Define whether prices should be shown incl. or excl. of tax on the frontend, "
-#~ "and add an optional suffix."
+#~ "Define whether prices should be shown incl. or excl. of tax on the frontend, and "
+#~ "add an optional suffix."
 #~ msgstr ""
-#~ "تحديد اذا ما كانت الأسعار يجب أن تظهر متضمنة أو غير متضمنة الضريبة في واجهة "
-#~ "المتجر."
+#~ "تحديد اذا ما كانت الأسعار يجب أن تظهر متضمنة أو غير متضمنة الضريبة في واجهة المتجر."
 
 #~ msgid "Past order linking"
 #~ msgstr "ربط الطلبات السابقة"
@@ -7389,11 +7343,11 @@ msgstr ""
 #~ msgstr "حذف الكمية"
 
 #~ msgid ""
-#~ "These rows contain taxes for this order. This allows you to display multiple "
-#~ "or compound taxes rather than a single total."
+#~ "These rows contain taxes for this order. This allows you to display multiple or "
+#~ "compound taxes rather than a single total."
 #~ msgstr ""
-#~ "هذه الضرائب تكون خاصة بهذا الطلب. وهي تسمح لك بتطبيق ضريبة على مكان معين أو "
-#~ "تطبيق ضرائب متعددة."
+#~ "هذه الضرائب تكون خاصة بهذا الطلب. وهي تسمح لك بتطبيق ضريبة على مكان معين أو تطبيق "
+#~ "ضرائب متعددة."
 
 #~ msgid ""
 #~ "Enable stock management at product level (not needed if managing stock at "
@@ -7411,8 +7365,8 @@ msgstr ""
 #~ msgstr "الشحن لعنوان الفاتورة بشكل إفتراضي وترك خيار لإضافة عنوان شحن مختلف"
 
 #~ msgid ""
-#~ "Log directory (<code>woocommerce/logs/</code>) is not writable. Logging will "
-#~ "not be possible."
+#~ "Log directory (<code>woocommerce/logs/</code>) is not writable. Logging will not "
+#~ "be possible."
 #~ msgstr ""
 #~ "ملف السجل  (<code>woocommerce/logs/</code>) غير قابل للكتابة. لن يمكن إنشاء "
 #~ "السجلات."

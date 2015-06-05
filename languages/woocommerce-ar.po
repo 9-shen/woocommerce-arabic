@@ -9,19 +9,19 @@
 # Updulah <Updulah@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: WooCommerce 2.3.8 Frontend\n"
+"Project-Id-Version: WooCommerce 2.3.10 Frontend\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2015-04-17 15:06:22+00:00\n"
-"PO-Revision-Date: 2015-04-24 14:55+0300\n"
+"POT-Creation-Date: 2015-06-03 20:32+0300\n"
+"PO-Revision-Date: 2015-06-03 20:50+0300\n"
 "Last-Translator: Abdullah Helayel <i@updu.la>\n"
 "Language-Team: Abdullah Helayel <i@updu.la>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && "
-"n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
-"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n"
+"%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 1.8.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: i18n/countries.php:18
@@ -2181,8 +2181,8 @@ msgid "Papua Barat"
 msgstr "بابوا الغربية"
 
 #: i18n/states/IN.php:13
-msgid "Andra Pradesh"
-msgstr "أندرا برديش"
+msgid "Andhra Pradesh"
+msgstr ""
 
 #: i18n/states/IN.php:14
 msgid "Arunachal Pradesh"
@@ -3744,6 +3744,334 @@ msgstr ""
 msgid "Ucayali"
 msgstr ""
 
+#: i18n/states/PH.php:12
+msgid "Abra"
+msgstr ""
+
+#: i18n/states/PH.php:13
+msgid "Agusan del Norte"
+msgstr ""
+
+#: i18n/states/PH.php:14
+msgid "Agusan del Sur"
+msgstr ""
+
+#: i18n/states/PH.php:15
+msgid "Aklan"
+msgstr ""
+
+#: i18n/states/PH.php:16
+msgid "Albay"
+msgstr ""
+
+#: i18n/states/PH.php:17
+msgid "Antique"
+msgstr ""
+
+#: i18n/states/PH.php:18
+msgid "Apayao"
+msgstr ""
+
+#: i18n/states/PH.php:19
+msgid "Aurora"
+msgstr ""
+
+#: i18n/states/PH.php:20
+msgid "Basilan"
+msgstr ""
+
+#: i18n/states/PH.php:21
+msgid "Bataan"
+msgstr ""
+
+#: i18n/states/PH.php:22
+msgid "Batanes"
+msgstr ""
+
+#: i18n/states/PH.php:23
+msgid "Batangas"
+msgstr ""
+
+#: i18n/states/PH.php:24
+msgid "Benguet"
+msgstr ""
+
+#: i18n/states/PH.php:25
+msgid "Biliran"
+msgstr ""
+
+#: i18n/states/PH.php:26
+msgid "Bohol"
+msgstr ""
+
+#: i18n/states/PH.php:27
+msgid "Bukidnon"
+msgstr ""
+
+#: i18n/states/PH.php:28
+msgid "Bulacan"
+msgstr ""
+
+#: i18n/states/PH.php:29
+msgid "Cagayan"
+msgstr ""
+
+#: i18n/states/PH.php:30
+msgid "Camarines Norte"
+msgstr ""
+
+#: i18n/states/PH.php:31
+msgid "Camarines Sur"
+msgstr ""
+
+#: i18n/states/PH.php:32
+msgid "Camiguin"
+msgstr ""
+
+#: i18n/states/PH.php:33
+msgid "Capiz"
+msgstr ""
+
+#: i18n/states/PH.php:34
+msgid "Catanduanes"
+msgstr ""
+
+#: i18n/states/PH.php:35
+msgid "Cavite"
+msgstr ""
+
+#: i18n/states/PH.php:36
+msgid "Cebu"
+msgstr ""
+
+#: i18n/states/PH.php:37
+msgid "Compostela Valley"
+msgstr ""
+
+#: i18n/states/PH.php:38
+msgid "Cotabato"
+msgstr ""
+
+#: i18n/states/PH.php:39
+msgid "Davao del Norte"
+msgstr ""
+
+#: i18n/states/PH.php:40
+msgid "Davao del Sur"
+msgstr ""
+
+#: i18n/states/PH.php:41
+msgid "Davao Occidental"
+msgstr ""
+
+#: i18n/states/PH.php:42
+msgid "Davao Oriental"
+msgstr ""
+
+#: i18n/states/PH.php:43
+msgid "Dinagat Islands"
+msgstr ""
+
+#: i18n/states/PH.php:44
+msgid "Eastern Samar"
+msgstr ""
+
+#: i18n/states/PH.php:45
+msgid "Guimaras"
+msgstr ""
+
+#: i18n/states/PH.php:46
+msgid "Ifugao"
+msgstr ""
+
+#: i18n/states/PH.php:47
+msgid "Ilocos Norte"
+msgstr ""
+
+#: i18n/states/PH.php:48
+msgid "Ilocos Sur"
+msgstr ""
+
+#: i18n/states/PH.php:49
+msgid "Iloilo"
+msgstr ""
+
+#: i18n/states/PH.php:50
+msgid "Isabela"
+msgstr ""
+
+#: i18n/states/PH.php:51
+msgid "Kalinga"
+msgstr ""
+
+#: i18n/states/PH.php:52
+msgid "La Union"
+msgstr ""
+
+#: i18n/states/PH.php:53
+msgid "Laguna"
+msgstr ""
+
+#: i18n/states/PH.php:54
+msgid "Lanao del Norte"
+msgstr ""
+
+#: i18n/states/PH.php:55
+msgid "Lanao del Sur"
+msgstr ""
+
+#: i18n/states/PH.php:56
+msgid "Leyte"
+msgstr ""
+
+#: i18n/states/PH.php:57
+msgid "Maguindanao"
+msgstr ""
+
+#: i18n/states/PH.php:58
+msgid "Marinduque"
+msgstr ""
+
+#: i18n/states/PH.php:59
+msgid "Masbate"
+msgstr ""
+
+#: i18n/states/PH.php:60
+msgid "Misamis Occidental"
+msgstr ""
+
+#: i18n/states/PH.php:61
+msgid "Misamis Oriental"
+msgstr ""
+
+#: i18n/states/PH.php:62
+msgid "Mountain Province"
+msgstr ""
+
+#: i18n/states/PH.php:63
+msgid "Negros Occidental"
+msgstr ""
+
+#: i18n/states/PH.php:64
+msgid "Negros Oriental"
+msgstr ""
+
+#: i18n/states/PH.php:65
+msgid "Northern Samar"
+msgstr ""
+
+#: i18n/states/PH.php:66
+msgid "Nueva Ecija"
+msgstr ""
+
+#: i18n/states/PH.php:67
+msgid "Nueva Vizcaya"
+msgstr ""
+
+#: i18n/states/PH.php:68
+msgid "Occidental Mindoro"
+msgstr ""
+
+#: i18n/states/PH.php:69
+msgid "Oriental Mindoro"
+msgstr ""
+
+#: i18n/states/PH.php:70
+msgid "Palawan"
+msgstr ""
+
+#: i18n/states/PH.php:71
+msgid "Pampanga"
+msgstr ""
+
+#: i18n/states/PH.php:72
+msgid "Pangasinan"
+msgstr ""
+
+#: i18n/states/PH.php:73
+msgid "Quezon"
+msgstr ""
+
+#: i18n/states/PH.php:74
+msgid "Quirino"
+msgstr ""
+
+#: i18n/states/PH.php:75
+msgid "Rizal"
+msgstr ""
+
+#: i18n/states/PH.php:76
+msgid "Romblon"
+msgstr ""
+
+#: i18n/states/PH.php:77
+msgid "Samar"
+msgstr ""
+
+#: i18n/states/PH.php:78
+msgid "Sarangani"
+msgstr ""
+
+#: i18n/states/PH.php:79
+msgid "Siquijor"
+msgstr ""
+
+#: i18n/states/PH.php:80
+msgid "Sorsogon"
+msgstr ""
+
+#: i18n/states/PH.php:81
+msgid "South Cotabato"
+msgstr ""
+
+#: i18n/states/PH.php:82
+msgid "Southern Leyte"
+msgstr ""
+
+#: i18n/states/PH.php:83
+msgid "Sultan Kudarat"
+msgstr ""
+
+#: i18n/states/PH.php:84
+msgid "Sulu"
+msgstr ""
+
+#: i18n/states/PH.php:85
+msgid "Surigao del Norte"
+msgstr ""
+
+#: i18n/states/PH.php:86
+msgid "Surigao del Sur"
+msgstr ""
+
+#: i18n/states/PH.php:87
+msgid "Tarlac"
+msgstr ""
+
+#: i18n/states/PH.php:88
+msgid "Tawi-Tawi"
+msgstr ""
+
+#: i18n/states/PH.php:89
+msgid "Zambales"
+msgstr ""
+
+#: i18n/states/PH.php:90
+msgid "Zamboanga del Norte"
+msgstr ""
+
+#: i18n/states/PH.php:91
+msgid "Zamboanga del Sur"
+msgstr ""
+
+#: i18n/states/PH.php:92
+msgid "Zamboanga Sibugay"
+msgstr ""
+
+#: i18n/states/PH.php:93
+msgid "Metro Manila"
+msgstr ""
+
 #: i18n/states/TH.php:13
 msgid ""
 "Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;&#3636;"
@@ -3758,11 +4086,11 @@ msgstr "أنغ ثونغ (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
 
 #: i18n/states/TH.php:15
 msgid ""
-"Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;"
-"&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
+"Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3629;"
+"&#3618;&#3640;&#3608;&#3618;&#3634;)"
 msgstr ""
-"أيوتثايا (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;"
-"&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
+"أيوتثايا (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3629;"
+"&#3618;&#3640;&#3608;&#3618;&#3634;)"
 
 #: i18n/states/TH.php:16
 msgid ""
@@ -3777,10 +4105,8 @@ msgid "Bueng Kan (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)"
 msgstr "بيونق كان (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)"
 
 #: i18n/states/TH.php:18
-msgid ""
-"Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
-msgstr ""
-"بوري رام (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
+msgid "Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
+msgstr "بوري رام (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
 
 #: i18n/states/TH.php:19
 msgid ""
@@ -3822,13 +4148,11 @@ msgstr "شومفون (&#3594;&#3640;&#3617;&#3614;&#3619;)"
 
 #: i18n/states/TH.php:27
 msgid "Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
-msgstr ""
-"كالاسين (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
+msgstr "كالاسين (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
 
 #: i18n/states/TH.php:28
 msgid ""
-"Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;"
-"&#3619;)"
+"Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;&#3619;)"
 msgstr ""
 "كامبينغ فيت (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;&#3619;)"
 
@@ -3897,8 +4221,8 @@ msgid ""
 "Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;"
 "&#3617;&#3634;)"
 msgstr ""
-"ناخون راتشاسيما (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;"
-"&#3617;&#3634;)"
+"ناخون راتشاسيما (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;&#3617;"
+"&#3634;)"
 
 #: i18n/states/TH.php:43
 msgid ""
@@ -3911,8 +4235,8 @@ msgid ""
 "Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;"
 "&#3619;&#3617;&#3619;&#3634;&#3594;)"
 msgstr ""
-"ناخون سي ثامارات (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;"
-"&#3619;&#3617;&#3619;&#3634;&#3594;)"
+"ناخون سي ثامارات (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;&#3619;"
+"&#3617;&#3619;&#3634;&#3594;)"
 
 #: i18n/states/TH.php:45
 msgid "Nan (&#3609;&#3656;&#3634;&#3609;)"
@@ -3924,11 +4248,11 @@ msgstr "ناراثيوات (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3
 
 #: i18n/states/TH.php:47
 msgid ""
-"Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;"
-"&#3635;&#3616;&#3641;)"
+"Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;"
+"&#3616;&#3641;)"
 msgstr ""
-"نونغ بوا لام فو (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;"
-"&#3635;&#3616;&#3641;)"
+"نونغ بوا لام فو (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;&#3635;"
+"&#3616;&#3641;)"
 
 #: i18n/states/TH.php:48
 msgid "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)"
@@ -3961,8 +4285,7 @@ msgstr "فاياو (&#3614;&#3632;&#3648;&#3618;&#3634;)"
 #: i18n/states/TH.php:55
 msgid ""
 "Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
-msgstr ""
-"فيتشابون (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
+msgstr "فيتشابون (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
 
 #: i18n/states/TH.php:56
 msgid "Phetchaburi (&#3648;&#3614;&#3594;&#3619;&#3610;&#3640;&#3619;&#3637;)"
@@ -3997,8 +4320,8 @@ msgid ""
 "Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;"
 "&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
 msgstr ""
-"براشواب خيرى خان (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;"
-"&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
+"براشواب خيرى خان (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;&#3619;"
+"&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
 
 #: i18n/states/TH.php:63
 msgid "Ranong (&#3619;&#3632;&#3609;&#3629;&#3591;)"
@@ -4040,8 +4363,8 @@ msgstr ""
 
 #: i18n/states/TH.php:71
 msgid ""
-"Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;"
-"&#3619;&#3634;&#3617;)"
+"Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;&#3619;"
+"&#3634;&#3617;)"
 msgstr ""
 "ساموت سونغخرام (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;&#3619;"
 "&#3634;&#3617;)"
@@ -4055,10 +4378,8 @@ msgid "Satun (&#3626;&#3605;&#3641;&#3621;)"
 msgstr "ساتون (&#3626;&#3605;&#3641;&#3621;)"
 
 #: i18n/states/TH.php:74
-msgid ""
-"Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
-msgstr ""
-"سنغ بوري (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
+msgid "Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
+msgstr "سنغ بوري (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
 
 #: i18n/states/TH.php:75
 msgid "Sisaket (&#3624;&#3619;&#3637;&#3626;&#3632;&#3648;&#3585;&#3625;)"
@@ -4106,11 +4427,11 @@ msgstr "ترات (&#3605;&#3619;&#3634;&#3604;)"
 
 #: i18n/states/TH.php:84
 msgid ""
-"Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;"
-"&#3634;&#3609;&#3637;)"
+"Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;"
+"&#3609;&#3637;)"
 msgstr ""
-"أوبون راتشاثاني (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;"
-"&#3634;&#3609;&#3637;)"
+"أوبون راتشاثاني (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;&#3634;"
+"&#3609;&#3637;)"
 
 #: i18n/states/TH.php:85
 msgid "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
@@ -4123,8 +4444,7 @@ msgstr ""
 "اوتاي ثاني (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
 
 #: i18n/states/TH.php:87
-msgid ""
-"Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
+msgid "Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
 msgstr ""
 "أوتاراديت (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
 
@@ -4736,7 +5056,7 @@ msgstr "كيب الغربية"
 
 #: includes/abstracts/abstract-wc-integration.php:29
 #: includes/abstracts/abstract-wc-settings-api.php:77
-#: includes/class-wc-install.php:648 includes/emails/class-wc-email.php:711
+#: includes/class-wc-install.php:664 includes/emails/class-wc-email.php:722
 msgid "Settings"
 msgstr "الإعدادات"
 
@@ -4751,8 +5071,8 @@ msgstr "&nbsp;<small>%sعبر %s</small>"
 
 #: includes/abstracts/abstract-wc-order.php:1681
 #: includes/abstracts/abstract-wc-product.php:968
-#: includes/abstracts/abstract-wc-product.php:974
-#: includes/class-wc-cart.php:1534 includes/class-wc-product-variable.php:322
+#: includes/abstracts/abstract-wc-product.php:974 includes/class-wc-cart.php:1534
+#: includes/class-wc-product-variable.php:322
 #: includes/class-wc-product-variation.php:318
 msgid "Free!"
 msgstr "مجانًا!"
@@ -4799,8 +5119,8 @@ msgstr "حالة الطلب تغيرت من (%s) إلى (%s)."
 msgid "Item's #%s variation #%s stock reduced from %s to %s."
 msgstr ""
 
-#: includes/abstracts/abstract-wc-order.php:2400 includes/class-wc-ajax.php:1201
-#: includes/class-wc-ajax.php:1202
+#: includes/abstracts/abstract-wc-order.php:2400 includes/class-wc-ajax.php:1264
+#: includes/class-wc-ajax.php:1265
 msgid "Item #%s stock reduced from %s to %s."
 msgstr "كمية العنصر #%s تغيرت من %s إلى %s."
 
@@ -4841,7 +5161,7 @@ msgstr "إقرأ المزيد"
 
 #: includes/abstracts/abstract-wc-product.php:625
 #: includes/abstracts/abstract-wc-product.php:636
-#: includes/abstracts/abstract-wc-product.php:658 includes/class-wc-ajax.php:660
+#: includes/abstracts/abstract-wc-product.php:658 includes/class-wc-ajax.php:680
 #: includes/class-wc-product-variation.php:530
 #: includes/class-wc-product-variation.php:540
 #: includes/class-wc-product-variation.php:556
@@ -4867,28 +5187,28 @@ msgid "%s in stock"
 msgstr "%s في المخزون"
 
 #: includes/abstracts/abstract-wc-product.php:653
-#: includes/class-wc-product-variation.php:553 templates/cart/cart.php:74
+#: includes/class-wc-product-variation.php:553 templates/cart/cart.php:76
 msgid "Available on backorder"
 msgstr "متاح كطلب غير متوفر في المخزون حاليًا"
 
 #: includes/abstracts/abstract-wc-product.php:663
-#: includes/abstracts/abstract-wc-product.php:669 includes/class-wc-ajax.php:661
+#: includes/abstracts/abstract-wc-product.php:669 includes/class-wc-ajax.php:681
 #: includes/class-wc-product-variation.php:559
 #: includes/class-wc-product-variation.php:563
 msgid "Out of stock"
 msgstr "غير متوفر في المخزون"
 
-#: includes/abstracts/abstract-wc-product.php:1109
+#: includes/abstracts/abstract-wc-product.php:1114
 #: templates/single-product/rating.php:27
 msgid "Rated %s out of 5"
 msgstr "قيم بـ %s من 5"
 
-#: includes/abstracts/abstract-wc-product.php:1111
+#: includes/abstracts/abstract-wc-product.php:1116
 #: templates/single-product/review.php:30
 msgid "out of 5"
 msgstr "من 5"
 
-#: includes/abstracts/abstract-wc-product.php:1504
+#: includes/abstracts/abstract-wc-product.php:1453
 msgid "%s &ndash; %s"
 msgstr "%s &ndash; %s"
 
@@ -5043,219 +5363,219 @@ msgstr "دعم JSONP معطل لهذا الموقع"
 msgid "The JSONP callback function is invalid"
 msgstr "عملية طلب JSONP غير صالحة"
 
-#: includes/api/class-wc-api-orders.php:315
+#: includes/api/class-wc-api-orders.php:313
 #: includes/api/v1/class-wc-api-orders.php:258
 msgid "You do not have permission to read the orders count"
 msgstr "أنت لا تمتلك الصلاحية لقراءة عدد الطلبات"
 
-#: includes/api/class-wc-api-orders.php:366
+#: includes/api/class-wc-api-orders.php:364
 #, fuzzy
 msgid "You do not have permission to create orders"
 msgstr "أنت لا تمتلك الصلاحية لقراءة عدد الطلبات"
 
-#: includes/api/class-wc-api-orders.php:382
-#: includes/api/class-wc-api-orders.php:531
+#: includes/api/class-wc-api-orders.php:380
+#: includes/api/class-wc-api-orders.php:529
 #, fuzzy
 msgid "Customer ID is invalid"
 msgstr "Consumer Key غير صالح"
 
-#: includes/api/class-wc-api-orders.php:392
+#: includes/api/class-wc-api-orders.php:390
 msgid "Cannot create order: %s"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:426
+#: includes/api/class-wc-api-orders.php:424
 #, fuzzy
 msgid "Payment method ID and title are required"
 msgstr "تم اضافة وسيلة الدفع بنجاح."
 
-#: includes/api/class-wc-api-orders.php:442
-#: includes/api/class-wc-api-orders.php:602
+#: includes/api/class-wc-api-orders.php:440
+#: includes/api/class-wc-api-orders.php:600
 #, fuzzy
 msgid "Provided order currency is invalid"
 msgstr "Consumer Secret غير صالح"
 
-#: includes/api/class-wc-api-orders.php:557
+#: includes/api/class-wc-api-orders.php:555
 #, fuzzy
 msgid "Order item ID is required"
 msgstr "اسم المستخدم مطلوب."
 
-#: includes/api/class-wc-api-orders.php:828
+#: includes/api/class-wc-api-orders.php:826
 msgid "Order item ID provided is not associated with order"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:850
+#: includes/api/class-wc-api-orders.php:848
 #, fuzzy
 msgid "Product ID is required"
 msgstr "كلمة المرور مطلوبة."
 
-#: includes/api/class-wc-api-orders.php:860
+#: includes/api/class-wc-api-orders.php:858
 msgid "Product ID provided does not match this line item"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:868
+#: includes/api/class-wc-api-orders.php:866
 #, fuzzy
 msgid "Product is invalid"
 msgstr "Consumer Secret غير صالح"
 
-#: includes/api/class-wc-api-orders.php:873
+#: includes/api/class-wc-api-orders.php:871
 msgid "Product quantity must be a positive float"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:878
+#: includes/api/class-wc-api-orders.php:876
 #, fuzzy
 msgid "Product quantity is required"
 msgstr "كلمة المرور مطلوبة."
 
-#: includes/api/class-wc-api-orders.php:892
+#: includes/api/class-wc-api-orders.php:890
 #, fuzzy
 msgid "The product variation is invalid"
 msgstr "عملية طلب JSONP غير صالحة"
 
-#: includes/api/class-wc-api-orders.php:923
+#: includes/api/class-wc-api-orders.php:921
 msgid "Cannot create line item, try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:931
+#: includes/api/class-wc-api-orders.php:929
 msgid "Cannot update line item, try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:949
+#: includes/api/class-wc-api-orders.php:947
 msgid "Shipping total must be a positive amount"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:956
+#: includes/api/class-wc-api-orders.php:954
 #, fuzzy
 msgid "Shipping method ID is required"
 msgstr "اختر طرق الشحن"
 
-#: includes/api/class-wc-api-orders.php:964
+#: includes/api/class-wc-api-orders.php:962
 msgid "Cannot create shipping method, try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:986
+#: includes/api/class-wc-api-orders.php:984
 msgid "Cannot update shipping method, try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1006
+#: includes/api/class-wc-api-orders.php:1004
 #, fuzzy
 msgid "Fee title is required"
 msgstr "اسم المستخدم مطلوب."
 
-#: includes/api/class-wc-api-orders.php:1018
+#: includes/api/class-wc-api-orders.php:1016
 msgid "Fee tax class is required when fee is taxable"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1039
+#: includes/api/class-wc-api-orders.php:1037
 msgid "Cannot create fee, try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1065
+#: includes/api/class-wc-api-orders.php:1063
 msgid "Cannot update fee, try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1083
+#: includes/api/class-wc-api-orders.php:1081
 msgid "Coupon discount total must be a positive amount"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1090
+#: includes/api/class-wc-api-orders.php:1088
 #, fuzzy
 msgid "Coupon code is required"
 msgstr "تم تطبيق القسيمة مسبقًا!"
 
-#: includes/api/class-wc-api-orders.php:1096
+#: includes/api/class-wc-api-orders.php:1094
 msgid "Cannot create coupon, try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1114
+#: includes/api/class-wc-api-orders.php:1112
 msgid "Cannot update coupon, try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1179
-#: includes/api/class-wc-api-orders.php:1279
-#: includes/api/class-wc-api-orders.php:1341
+#: includes/api/class-wc-api-orders.php:1177
+#: includes/api/class-wc-api-orders.php:1277
+#: includes/api/class-wc-api-orders.php:1339
 #, fuzzy
 msgid "Invalid order note ID"
 msgstr "طلب خاطئ."
 
-#: includes/api/class-wc-api-orders.php:1185
-#: includes/api/class-wc-api-orders.php:1286
-#: includes/api/class-wc-api-orders.php:1348
+#: includes/api/class-wc-api-orders.php:1183
+#: includes/api/class-wc-api-orders.php:1284
+#: includes/api/class-wc-api-orders.php:1346
 msgid "An order note with the provided ID could not be found"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1215
+#: includes/api/class-wc-api-orders.php:1213
 #, fuzzy
 msgid "You do not have permission to create order notes"
 msgstr "أنت لا تمتلك الصلاحية لقراءة عدد الطلبات"
 
-#: includes/api/class-wc-api-orders.php:1230
+#: includes/api/class-wc-api-orders.php:1228
 #, fuzzy
 msgid "Order note is required"
 msgstr "اسم المستخدم مطلوب."
 
-#: includes/api/class-wc-api-orders.php:1239
+#: includes/api/class-wc-api-orders.php:1237
 msgid "Cannot create order note, please try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1291
-#: includes/api/class-wc-api-orders.php:1353
+#: includes/api/class-wc-api-orders.php:1289
+#: includes/api/class-wc-api-orders.php:1351
 msgid "The order note ID provided is not associated with the order"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1360
+#: includes/api/class-wc-api-orders.php:1358
 #, fuzzy
 msgid "This order note cannot be deleted"
 msgstr "هذا %s لا يمكن أن يكون محذوفًا"
 
-#: includes/api/class-wc-api-orders.php:1365
+#: includes/api/class-wc-api-orders.php:1363
 #, fuzzy
 msgid "Permanently deleted order note"
 msgstr "عميل محذوف بشكل دائم"
 
-#: includes/api/class-wc-api-orders.php:1426
-#: includes/api/class-wc-api-orders.php:1580
-#: includes/api/class-wc-api-orders.php:1639
+#: includes/api/class-wc-api-orders.php:1424
+#: includes/api/class-wc-api-orders.php:1578
+#: includes/api/class-wc-api-orders.php:1637
 #, fuzzy
 msgid "Invalid order refund ID"
 msgstr "طلب خاطئ."
 
-#: includes/api/class-wc-api-orders.php:1433
-#: includes/api/class-wc-api-orders.php:1587
-#: includes/api/class-wc-api-orders.php:1646
+#: includes/api/class-wc-api-orders.php:1431
+#: includes/api/class-wc-api-orders.php:1585
+#: includes/api/class-wc-api-orders.php:1644
 msgid "An order refund with the provided ID could not be found"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1498
+#: includes/api/class-wc-api-orders.php:1496
 #, fuzzy
 msgid "You do not have permission to create order refunds"
 msgstr "أنت لا تمتلك الصلاحية لقراءة عدد الطلبات"
 
-#: includes/api/class-wc-api-orders.php:1504
+#: includes/api/class-wc-api-orders.php:1502
 #, fuzzy
 msgid "Order ID is invalid"
 msgstr "Consumer Key غير صالح"
 
-#: includes/api/class-wc-api-orders.php:1511
+#: includes/api/class-wc-api-orders.php:1509
 #, fuzzy
 msgid "Refund amount is required"
 msgstr "اسم المستخدم مطلوب."
 
-#: includes/api/class-wc-api-orders.php:1513
+#: includes/api/class-wc-api-orders.php:1511
 msgid "Refund amount must be positive"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1523
+#: includes/api/class-wc-api-orders.php:1521
 msgid "Cannot create order refund, please try again"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1540
+#: includes/api/class-wc-api-orders.php:1538
 msgid ""
 "An error occurred while attempting to create the refund using the payment "
 "gateway API"
 msgstr ""
 
-#: includes/api/class-wc-api-orders.php:1592
-#: includes/api/class-wc-api-orders.php:1651
+#: includes/api/class-wc-api-orders.php:1590
+#: includes/api/class-wc-api-orders.php:1649
 msgid "The order refund ID provided is not associated with the order"
 msgstr ""
 
@@ -5270,36 +5590,36 @@ msgid "You do not have permission to create products"
 msgstr "أنت لا تمتلك الصلاحية لقراءة عدد المنتجات"
 
 #: includes/api/class-wc-api-products.php:212
-#: includes/api/class-wc-api-products.php:326
+#: includes/api/class-wc-api-products.php:327
 msgid "Invalid product type - the product type must be any of these: %s"
 msgstr ""
 
-#: includes/api/class-wc-api-products.php:420
-#: includes/api/class-wc-api-products.php:456
+#: includes/api/class-wc-api-products.php:421
+#: includes/api/class-wc-api-products.php:457
 #, fuzzy
 msgid "You do not have permission to read product categories"
 msgstr "أنت لا تمتلك الصلاحية لقراءة عدد المنتجات"
 
-#: includes/api/class-wc-api-products.php:451
+#: includes/api/class-wc-api-products.php:452
 #, fuzzy
 msgid "Invalid product category ID"
 msgstr "product-category"
 
-#: includes/api/class-wc-api-products.php:462
+#: includes/api/class-wc-api-products.php:463
 msgid "A product category with the provided ID could not be found"
 msgstr ""
 
-#: includes/api/class-wc-api-products.php:725
-#: includes/api/class-wc-api-products.php:1183
+#: includes/api/class-wc-api-products.php:726
+#: includes/api/class-wc-api-products.php:1184
 msgid "The SKU already exists on another product"
 msgstr ""
 
-#: includes/api/class-wc-api-products.php:1136
+#: includes/api/class-wc-api-products.php:1137
 msgid "Variation #%s of %s"
 msgstr "إختلاف #%s من %s"
 
-#: includes/api/class-wc-api-products.php:1611
-#: includes/api/class-wc-api-products.php:1612
+#: includes/api/class-wc-api-products.php:1613
+#: includes/api/class-wc-api-products.php:1614
 #: includes/api/v1/class-wc-api-products.php:461
 #: includes/api/v1/class-wc-api-products.php:462
 #: includes/wc-product-functions.php:272
@@ -5307,20 +5627,20 @@ msgstr "إختلاف #%s من %s"
 msgid "Placeholder"
 msgstr "Placeholder"
 
-#: includes/api/class-wc-api-products.php:1686
+#: includes/api/class-wc-api-products.php:1688
 #, fuzzy
 msgid "Invalid URL %s"
 msgstr "غير صالح %s"
 
-#: includes/api/class-wc-api-products.php:1698
+#: includes/api/class-wc-api-products.php:1700
 msgid "Error getting remote image %s"
 msgstr ""
 
-#: includes/api/class-wc-api-products.php:1727
+#: includes/api/class-wc-api-products.php:1729
 msgid "Zero size file downloaded"
 msgstr ""
 
-#: includes/api/class-wc-api-products.php:1861
+#: includes/api/class-wc-api-products.php:1863
 msgid "Invalid product SKU"
 msgstr ""
 
@@ -5419,8 +5739,7 @@ msgstr ""
 
 #: includes/api/class-wc-api-webhooks.php:185
 #: includes/api/class-wc-api-webhooks.php:273
-msgid ""
-"Webhook delivery URL must be a valid URL starting with http:// or https://"
+msgid "Webhook delivery URL must be a valid URL starting with http:// or https://"
 msgstr ""
 
 #: includes/api/class-wc-api-webhooks.php:194
@@ -5461,67 +5780,66 @@ msgstr "للأسف، جلستك انتهت."
 msgid "Return to homepage"
 msgstr "عودة للرئيسية"
 
-#: includes/class-wc-ajax.php:644
+#: includes/class-wc-ajax.php:664
 msgid "Same as parent"
 msgstr "مماثل للأب"
 
-#: includes/class-wc-ajax.php:645
+#: includes/class-wc-ajax.php:665
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:212
 msgid "Standard"
 msgstr "قياسي"
 
-#: includes/class-wc-ajax.php:654
+#: includes/class-wc-ajax.php:674
 msgid "Do not allow"
 msgstr "عدم السماح"
 
-#: includes/class-wc-ajax.php:655
+#: includes/class-wc-ajax.php:675
 msgid "Allow, but notify customer"
 msgstr "السماح ولكن بتنبيه العميل"
 
-#: includes/class-wc-ajax.php:656
+#: includes/class-wc-ajax.php:676
 msgid "Allow"
 msgstr "السماح"
 
-#: includes/class-wc-ajax.php:936
+#: includes/class-wc-ajax.php:968
 msgid "File %d"
 msgstr "الملف %d:"
 
-#: includes/class-wc-ajax.php:1210
+#: includes/class-wc-ajax.php:1273
 msgid ""
-"No products had their stock reduced - they may not have stock management "
-"enabled."
+"No products had their stock reduced - they may not have stock management enabled."
 msgstr "لا يوجد منتجات تنقص كميتها - قد يكون مدير المخزن غير ممكن."
 
-#: includes/class-wc-ajax.php:1249 includes/class-wc-ajax.php:1250
-#: includes/class-wc-ajax.php:1931
+#: includes/class-wc-ajax.php:1316 includes/class-wc-ajax.php:1317
+#: includes/class-wc-ajax.php:2050
 msgid "Item #%s stock increased from %s to %s."
 msgstr "كمية العنصر #%s زادة من %s إلى %s"
 
-#: includes/class-wc-ajax.php:1257
+#: includes/class-wc-ajax.php:1324
 msgid ""
 "No products had their stock increased - they may not have stock management "
 "enabled."
 msgstr "لا يوجد منتجات زادت كميتها - قد يكون مدير المخزن غير ممكن."
 
-#: includes/class-wc-ajax.php:1272
+#: includes/class-wc-ajax.php:1343
 #: includes/widgets/class-wc-widget-product-categories.php:52
 #: templates/single-product-reviews.php:65
 msgid "Name"
 msgstr "الاسم"
 
-#: includes/class-wc-ajax.php:1272
+#: includes/class-wc-ajax.php:1343
 msgid "Value"
 msgstr "القيمة"
 
-#: includes/class-wc-ajax.php:1502
+#: includes/class-wc-ajax.php:1593
 msgid "Delete note"
 msgstr "حذف الملاحظة"
 
-#: includes/class-wc-ajax.php:1871
+#: includes/class-wc-ajax.php:1990
 msgid "Invalid refund amount"
 msgstr "قيمة المبلغ غير صالحة"
 
-#: includes/class-wc-ajax.php:1916
+#: includes/class-wc-ajax.php:2035
 msgid "Refund failed"
 msgstr "حدث خطأ أثناء إجراء عملية الإعادة"
 
@@ -5549,23 +5867,23 @@ msgstr "نتائج البحث عن &ldquo;%s&rdquo;"
 msgid "Page %d"
 msgstr "الصفحة %d"
 
-#: includes/class-wc-cache-helper.php:132
+#: includes/class-wc-cache-helper.php:146
 msgid ""
-"In order for <strong>database caching</strong> to work with WooCommerce you "
-"must add <code>_wc_session_</code> to the \"Ignored Query Strings\" option in "
-"W3 Total Cache settings <a href=\"%s\">here</a>."
+"In order for <strong>database caching</strong> to work with WooCommerce you must "
+"add <code>_wc_session_</code> to the \"Ignored Query Strings\" option in W3 "
+"Total Cache settings <a href=\"%s\">here</a>."
 msgstr ""
-"ليعمل <strong>التخزين المؤقت لقاعدة البيانات</strong> في ووكومرس يجب عليك "
-"إضافة <code>_wc_session_</code> إلى خيار \"Ignored Query Strings\" في إعدادات "
-"W3 Total Cache <a href=\"%s\">من هنا</a>."
+"ليعمل <strong>التخزين المؤقت لقاعدة البيانات</strong> في ووكومرس يجب عليك إضافة "
+"<code>_wc_session_</code> إلى خيار \"Ignored Query Strings\" في إعدادات W3 Total "
+"Cache <a href=\"%s\">من هنا</a>."
 
 #: includes/class-wc-cart.php:237
 msgid ""
-"%s has been removed from your cart because it can no longer be purchased. "
-"Please contact us if you need assistance."
+"%s has been removed from your cart because it can no longer be purchased. Please "
+"contact us if you need assistance."
 msgstr ""
-"%s تمت ازالته من سلتك لأنه أصبح غير قابل للشراء. الرجاء الاتصال بنا اذا احتجت "
-"أي مساعدة."
+"%s تمت ازالته من سلتك لأنه أصبح غير قابل للشراء. الرجاء الاتصال بنا اذا احتجت أي "
+"مساعدة."
 
 #: includes/class-wc-cart.php:431
 msgid "An item which is no longer available was removed from your cart."
@@ -5573,31 +5891,31 @@ msgstr "تم حذف منتج من سلة مشترياتك كونه أصبح غي
 
 #: includes/class-wc-cart.php:457
 msgid ""
-"Sorry, \"%s\" is not in stock. Please edit your cart and try again. We "
-"apologise for any inconvenience caused."
+"Sorry, \"%s\" is not in stock. Please edit your cart and try again. We apologise "
+"for any inconvenience caused."
 msgstr ""
-"المعذرة، ولكن \"%s\" ليس متوفرًا في المخزون. الرجاء تعديل سلة مشترياتك "
-"والمحاولة مرة أخرى. نعتذر عن أي مشاكل قد سببناها إليك."
+"المعذرة، ولكن \"%s\" ليس متوفرًا في المخزون. الرجاء تعديل سلة مشترياتك والمحاولة "
+"مرة أخرى. نعتذر عن أي مشاكل قد سببناها إليك."
 
 #: includes/class-wc-cart.php:471
 msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order (%s in "
-"stock). Please edit your cart and try again. We apologise for any "
-"inconvenience caused."
+"stock). Please edit your cart and try again. We apologise for any inconvenience "
+"caused."
 msgstr ""
-"المعذرة، ولكننا لا نمتلك كمية كافية من \"%s\" في المخزون لتنفيذ طلبك (%s "
-"متوفرة في المخزون). الرجاء تعديل سلة مشترياتك والمحاولة مرة أخرى. نعتذر عن أي "
-"مشاكل قد سببناها إليك."
+"المعذرة، ولكننا لا نمتلك كمية كافية من \"%s\" في المخزون لتنفيذ طلبك (%s متوفرة "
+"في المخزون). الرجاء تعديل سلة مشترياتك والمحاولة مرة أخرى. نعتذر عن أي مشاكل قد "
+"سببناها إليك."
 
 #: includes/class-wc-cart.php:506
 msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order right now. "
-"Please try again in %d minutes or edit your cart and try again. We apologise "
-"for any inconvenience caused."
+"Please try again in %d minutes or edit your cart and try again. We apologise for "
+"any inconvenience caused."
 msgstr ""
 "المعذرة، ولكننا لا نمتلك كمية كافية من \"%s\" في المخزون لتنفيذ طلبك الآن. "
-"الرجاء المحاولة بعد %d دقيقة أو تعديل سلة مشترياتك والمحاولة مرة أخرى. نعتذر "
-"عن أي مشاكل قد سببناها إليك."
+"الرجاء المحاولة بعد %d دقيقة أو تعديل سلة مشترياتك والمحاولة مرة أخرى. نعتذر عن "
+"أي مشاكل قد سببناها إليك."
 
 #: includes/class-wc-cart.php:685
 msgid "Get cart should not be called before the wp_loaded action."
@@ -5621,30 +5939,29 @@ msgstr "المعذرة، ولكن هذا المنتج غير قابل للشرا
 msgid ""
 "You cannot add &quot;%s&quot; to the cart because the product is out of stock."
 msgstr ""
-"لا يمكن إضافة &quot;%s&quot; لسلة مشترياتك لأن المنتج أصبح غير متوفر في "
-"المخزون."
+"لا يمكن إضافة &quot;%s&quot; لسلة مشترياتك لأن المنتج أصبح غير متوفر في المخزون."
 
 #: includes/class-wc-cart.php:901
 msgid ""
 "You cannot add that amount of &quot;%s&quot; to the cart because there is not "
 "enough stock (%s remaining)."
 msgstr ""
-"لا يمكنك إضافة هذه الكمية من &quot;%s&quot; لسلة مشترياتك لأن المخزون منخفض "
-"منها (%s متبقية فقط)"
+"لا يمكنك إضافة هذه الكمية من &quot;%s&quot; لسلة مشترياتك لأن المخزون منخفض منها "
+"(%s متبقية فقط)"
 
 #: includes/class-wc-cart.php:922
 msgid ""
 "You cannot add that amount to the cart &mdash; we have %s in stock and you "
 "already have %s in your cart."
 msgstr ""
-"لا يمكنك إضافة هذه الكمية إلى السلة &mdash; لدينا %s في المخزون ولديك %s في "
-"سلتك."
+"لا يمكنك إضافة هذه الكمية إلى السلة &mdash; لدينا %s في المخزون ولديك %s في سلتك."
 
 #: includes/class-wc-checkout.php:69 includes/class-wc-checkout.php:78
 #: includes/class-wc-emails.php:43 includes/class-wc-emails.php:52
 #: includes/class-wc-payment-gateways.php:46
 #: includes/class-wc-payment-gateways.php:55 includes/class-wc-shipping.php:65
-#: includes/class-wc-shipping.php:74 woocommerce.php:106 woocommerce.php:114
+#: includes/class-wc-shipping.php:74 includes/emails/class-wc-email.php:696
+#: woocommerce.php:106 woocommerce.php:114
 msgid "Cheatin&#8217; huh?"
 msgstr "&#8217;تحاول الغش؟"
 
@@ -5673,11 +5990,10 @@ msgstr "لم نستطع معالجة طلبك، الرجاء المحاولة م
 
 #: includes/class-wc-checkout.php:367
 msgid ""
-"Sorry, your session has expired. <a href=\"%s\" class=\"wc-backward\">Return "
-"to homepage</a>"
+"Sorry, your session has expired. <a href=\"%s\" class=\"wc-backward\">Return to "
+"homepage</a>"
 msgstr ""
-"عذراً، جلستك إنتهت.a href=\"%s\" class=\"wc-backward\"> عودة للصفحة الرئيسية.</"
-"a>"
+"عذراً، جلستك إنتهت.a href=\"%s\" class=\"wc-backward\"> عودة للصفحة الرئيسية.</a>"
 
 #: includes/class-wc-checkout.php:447 includes/class-wc-form-handler.php:85
 msgid "is a required field."
@@ -5739,7 +6055,7 @@ msgstr "&#x200b;"
 msgid "VAT"
 msgstr "ضريبة"
 
-#: includes/class-wc-countries.php:284 includes/class-wc-tax.php:632
+#: includes/class-wc-countries.php:284 includes/class-wc-tax.php:633
 msgid "Tax"
 msgstr "الضريبة"
 
@@ -5853,77 +6169,81 @@ msgstr "البريد الإلكتروني"
 msgid "Phone"
 msgstr "الهاتف"
 
-#: includes/class-wc-coupon.php:683
+#: includes/class-wc-coupon.php:681
 msgid "Coupon code applied successfully."
 msgstr "تم تطبيق رمز القسيمة بنجاح."
 
-#: includes/class-wc-coupon.php:686
+#: includes/class-wc-coupon.php:684
 msgid "Coupon code removed successfully."
 msgstr "تم حذف قسيمة الشراء بنجاح."
 
-#: includes/class-wc-coupon.php:704
+#: includes/class-wc-coupon.php:702
 msgid "Coupon is not valid."
 msgstr "القسيمة غير صالح."
 
-#: includes/class-wc-coupon.php:707 includes/class-wc-coupon.php:790
-msgid "Coupon does not exist!"
-msgstr "القسيمة غير موجودة!"
+#: includes/class-wc-coupon.php:705
+msgid "Coupon \"%s\" does not exist!"
+msgstr ""
 
-#: includes/class-wc-coupon.php:710
+#: includes/class-wc-coupon.php:708
 msgid ""
-"Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from "
-"your order."
+"Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from your "
+"order."
 msgstr "نأسف، القسيمة \"%s\" غير صالحة - لقد تم إزالتها من طلبك."
 
-#: includes/class-wc-coupon.php:713
+#: includes/class-wc-coupon.php:711
 msgid ""
 "Sorry, it seems the coupon \"%s\" is not yours - it has now been removed from "
 "your order."
 msgstr "نأسف، لا يحق لك استخدام القسيمة \"%s\" - لقد تم إزالتها من طلبك."
 
-#: includes/class-wc-coupon.php:716
+#: includes/class-wc-coupon.php:714
 msgid "Coupon code already applied!"
 msgstr "تم تطبيق القسيمة مسبقًا!"
 
-#: includes/class-wc-coupon.php:719
+#: includes/class-wc-coupon.php:717
 msgid ""
-"Sorry, coupon \"%s\" has already been applied and cannot be used in "
-"conjunction with other coupons."
+"Sorry, coupon \"%s\" has already been applied and cannot be used in conjunction "
+"with other coupons."
 msgstr "نأسف، القسيمة  \"%s\" لا يمكن أن يستخدم معها قسائم أخرى."
 
-#: includes/class-wc-coupon.php:722
+#: includes/class-wc-coupon.php:720
 msgid "Coupon usage limit has been reached."
 msgstr "لقد نفذة القسيمة."
 
-#: includes/class-wc-coupon.php:725
+#: includes/class-wc-coupon.php:723
 msgid "This coupon has expired."
 msgstr "لقد انتهت صلاحية القسيمة"
 
-#: includes/class-wc-coupon.php:728
+#: includes/class-wc-coupon.php:726
 msgid "The minimum spend for this coupon is %s."
 msgstr "أقل سعر تطبق عليه هذه القسيمة هو %s"
 
-#: includes/class-wc-coupon.php:731
+#: includes/class-wc-coupon.php:729
 msgid "The maximum spend for this coupon is %s."
 msgstr "أعلى سعر تطبق عليه هذه القسيمة هو %s"
 
-#: includes/class-wc-coupon.php:734
+#: includes/class-wc-coupon.php:732
 msgid "Sorry, this coupon is not applicable to your cart contents."
 msgstr "نأسف، ولكن هذه القسيمة غير قابلة للتطبيق على محتويات سلة مشترياتك."
 
-#: includes/class-wc-coupon.php:747
+#: includes/class-wc-coupon.php:745
 msgid "Sorry, this coupon is not applicable to the products: %s."
 msgstr "عذرًا، هذه القسيمة غير قابلة للتطبيق على هذه المنتجات: %s."
 
-#: includes/class-wc-coupon.php:767
+#: includes/class-wc-coupon.php:765
 msgid "Sorry, this coupon is not applicable to the categories: %s."
 msgstr "عذرًا، هذه القسيمة غير قابلة للتطبيق على هذه التصنيفات: %s."
 
-#: includes/class-wc-coupon.php:770
+#: includes/class-wc-coupon.php:768
 msgid "Sorry, this coupon is not valid for sale items."
 msgstr "نأسف، لكن هذه القسيمة لا تطبق مع العناصر التي عليها خصومات."
 
-#: includes/class-wc-coupon.php:793
+#: includes/class-wc-coupon.php:788
+msgid "Coupon does not exist!"
+msgstr "القسيمة غير موجودة!"
+
+#: includes/class-wc-coupon.php:791
 msgid "Please enter a coupon code."
 msgstr "رجاء أدخل رمز القسيمة"
 
@@ -6095,8 +6415,7 @@ msgstr "تم إلغاء طلبك."
 
 #: includes/class-wc-form-handler.php:555
 msgid ""
-"Your order can no longer be cancelled. Please contact us if you need "
-"assistance."
+"Your order can no longer be cancelled. Please contact us if you need assistance."
 msgstr "طلبك لم يعد قابلًا للإلغاء. الرجاء التواصل معنا إذا أحتجت لأي مساعدة."
 
 #: includes/class-wc-form-handler.php:587
@@ -6160,58 +6479,56 @@ msgid "Please select a rating"
 msgstr "الرجاء إختيار تقييم للمنتج"
 
 #: includes/class-wc-frontend-scripts.php:222
-#: includes/wc-template-functions.php:1565
+#: includes/wc-template-functions.php:1579
 msgid "required"
 msgstr "مطلوب"
 
 #: includes/class-wc-frontend-scripts.php:248
 msgid ""
-"Sorry, no products matched your selection. Please choose a different "
-"combination."
+"Sorry, no products matched your selection. Please choose a different combination."
 msgstr "للأسف لا يوجد منتجات تطابق أختياراتك، الرجاء اختيار مجموعة مختلفة."
 
 #: includes/class-wc-frontend-scripts.php:249
-msgid ""
-"Sorry, this product is unavailable. Please choose a different combination."
+msgid "Sorry, this product is unavailable. Please choose a different combination."
 msgstr "عفواً ، هذا المنتج غير متوفر. الرجاء اختيار تشكيلة أخرى "
 
 #: includes/class-wc-frontend-scripts.php:255
 msgid "Select an option&hellip;"
 msgstr "رجاء حدد خيار&hellip;"
 
-#: includes/class-wc-install.php:421
+#: includes/class-wc-install.php:437
 msgid "Customer"
 msgstr "عميل"
 
-#: includes/class-wc-install.php:428
+#: includes/class-wc-install.php:444
 msgid "Shop Manager"
 msgstr "مدير المتجر"
 
-#: includes/class-wc-install.php:648
+#: includes/class-wc-install.php:664
 msgid "View WooCommerce Settings"
 msgstr "عرض إعدادات ووكومرس"
 
-#: includes/class-wc-install.php:664
+#: includes/class-wc-install.php:680
 msgid "View WooCommerce Documentation"
 msgstr "عرض تعليمات ووكومرس"
 
-#: includes/class-wc-install.php:664
+#: includes/class-wc-install.php:680
 msgid "Docs"
 msgstr "التعليمات"
 
-#: includes/class-wc-install.php:665
+#: includes/class-wc-install.php:681
 msgid "View WooCommerce API Docs"
 msgstr "عرض تعليمات ووكومرس API"
 
-#: includes/class-wc-install.php:665
+#: includes/class-wc-install.php:681
 msgid "API Docs"
 msgstr "تعليمات الـ API"
 
-#: includes/class-wc-install.php:666
+#: includes/class-wc-install.php:682
 msgid "Visit Premium Customer Support Forum"
 msgstr ""
 
-#: includes/class-wc-install.php:666
+#: includes/class-wc-install.php:682
 msgid "Premium Support"
 msgstr "الدعم"
 
@@ -6385,15 +6702,14 @@ msgstr "جديد %s"
 #: includes/class-wc-post-types.php:233
 #: includes/widgets/class-wc-widget-products.php:29
 msgid "Products"
-msgstr "المنتجات"
+msgstr "منتجات"
 
 #: includes/class-wc-post-types.php:234 templates/cart/cart.php:27
 #: templates/checkout/form-pay.php:20 templates/checkout/review-order.php:17
 #: templates/emails/admin-cancelled-order.php:22
 #: templates/emails/admin-new-order.php:27
 #: templates/emails/customer-completed-order.php:27
-#: templates/emails/customer-invoice.php:31
-#: templates/emails/customer-note.php:31
+#: templates/emails/customer-invoice.php:31 templates/emails/customer-note.php:31
 #: templates/emails/customer-processing-order.php:27
 #: templates/order/order-details.php:21
 msgid "Product"
@@ -6505,7 +6821,7 @@ msgstr "المبالغ المعادة"
 msgid "Coupons"
 msgstr "القسائم"
 
-#: includes/class-wc-post-types.php:340 templates/cart/cart.php:119
+#: includes/class-wc-post-types.php:340 templates/cart/cart.php:122
 msgid "Coupon"
 msgstr "القسيمة:"
 
@@ -6550,8 +6866,7 @@ msgid "Parent Coupon"
 msgstr "القسيمة الرئيسية"
 
 #: includes/class-wc-post-types.php:354
-msgid ""
-"This is where you can add new coupons that customers can use in your store."
+msgid "This is where you can add new coupons that customers can use in your store."
 msgstr "هنا يمكنك إضافة قسائم ليستخدمها عملاءك في المتجر."
 
 #: includes/class-wc-post-types.php:377
@@ -6691,11 +7006,11 @@ msgstr "حدد أحد الخيارات"
 
 #: includes/class-wc-product-variable.php:570
 msgid ""
-"This variable product has no active variations so cannot be published. "
-"Changing status to draft."
+"This variable product has no active variations so cannot be published. Changing "
+"status to draft."
 msgstr ""
-"هذا المنتج المتغير لا يوجد لديه متغيرات نشطة، لذلك لا يمكن نشره. جاري تغيير "
-"حالة المنتج الى مسودة."
+"هذا المنتج المتغير لا يوجد لديه متغيرات نشطة، لذلك لا يمكن نشره. جاري تغيير حالة "
+"المنتج الى مسودة."
 
 #: includes/class-wc-product-variation.php:662
 msgid "%s &ndash; %s%s"
@@ -6730,10 +7045,10 @@ msgstr "اضافة وسيلة دفع"
 msgid "Lost Password"
 msgstr "نسيت كلمة المرور"
 
-#: includes/class-wc-shortcodes.php:958
+#: includes/class-wc-shortcodes.php:967
 msgid ""
-"Use $args[\"posts_per_page\"] instead. Deprecated argument will be removed in "
-"WC 2.2."
+"Use $args[\"posts_per_page\"] instead. Deprecated argument will be removed in WC "
+"2.2."
 msgstr ""
 
 #: includes/emails/class-wc-email-cancelled-order.php:28
@@ -6743,11 +7058,11 @@ msgstr "طلب ملغى"
 
 #: includes/emails/class-wc-email-cancelled-order.php:29
 msgid ""
-"Cancelled order emails are sent when orders have been marked cancelled (if "
-"they were previously pending or on-hold)."
+"Cancelled order emails are sent when orders have been marked cancelled (if they "
+"were previously pending or on-hold)."
 msgstr ""
-"يتم ارسال بريد الطلب الملغى عند وضع علامة (ملغى) على الطلب (اذا كانت حالته "
-"مسبقًا معلقة أو بإنتظار العمل عليه)."
+"يتم ارسال بريد الطلب الملغى عند وضع علامة (ملغى) على الطلب (اذا كانت حالته مسبقًا "
+"معلقة أو بإنتظار العمل عليه)."
 
 #: includes/emails/class-wc-email-cancelled-order.php:32
 msgid "[{site_title}] Cancelled order ({order_number})"
@@ -6756,7 +7071,7 @@ msgstr "‏[{site_title}] طلب ملغى ({order_number})"
 #: includes/emails/class-wc-email-cancelled-order.php:117
 #: includes/emails/class-wc-email-customer-completed-order.php:143
 #: includes/emails/class-wc-email-new-order.php:123
-#: includes/emails/class-wc-email.php:477
+#: includes/emails/class-wc-email.php:478
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:74
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:54
 #: includes/gateways/paypal/includes/settings-paypal.php:12
@@ -6770,7 +7085,7 @@ msgstr "تفعيل/تعطيل"
 #: includes/emails/class-wc-email-cancelled-order.php:119
 #: includes/emails/class-wc-email-customer-completed-order.php:145
 #: includes/emails/class-wc-email-new-order.php:125
-#: includes/emails/class-wc-email.php:479
+#: includes/emails/class-wc-email.php:480
 msgid "Enable this email notification"
 msgstr "تفعيل رسالة التنبيه"
 
@@ -6784,8 +7099,8 @@ msgstr "المستلم"
 msgid ""
 "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
 msgstr ""
-"أضف البريد الإلكتروني للمستلم أو المستلمين (عند وضع عدة عناوين، إفصلها "
-"بفاصلة). الإفتراضي هو <code>%s</code>."
+"أضف البريد الإلكتروني للمستلم أو المستلمين (عند وضع عدة عناوين، إفصلها بفاصلة). "
+"الإفتراضي هو <code>%s</code>."
 
 #: includes/emails/class-wc-email-cancelled-order.php:130
 #: includes/emails/class-wc-email-customer-completed-order.php:149
@@ -6812,14 +7127,14 @@ msgid ""
 "This controls the main heading contained within the email notification. Leave "
 "blank to use the default heading: <code>%s</code>."
 msgstr ""
-"هذا النص يظهر كترويسة رئيسية للرسالة. أتركه فارغًا لإستخدام الترويسة "
-"الإفتراضية: <code>%s</code>."
+"هذا النص يظهر كترويسة رئيسية للرسالة. أتركه فارغًا لإستخدام الترويسة الإفتراضية: "
+"<code>%s</code>."
 
 #: includes/emails/class-wc-email-cancelled-order.php:144
 #: includes/emails/class-wc-email-customer-completed-order.php:177
 #: includes/emails/class-wc-email-customer-invoice.php:179
 #: includes/emails/class-wc-email-new-order.php:150
-#: includes/emails/class-wc-email.php:497
+#: includes/emails/class-wc-email.php:498
 msgid "Email type"
 msgstr "نوع الرسالة"
 
@@ -6827,7 +7142,7 @@ msgstr "نوع الرسالة"
 #: includes/emails/class-wc-email-customer-completed-order.php:179
 #: includes/emails/class-wc-email-customer-invoice.php:181
 #: includes/emails/class-wc-email-new-order.php:152
-#: includes/emails/class-wc-email.php:499
+#: includes/emails/class-wc-email.php:500
 msgid "Choose which format of email to send."
 msgstr "إختر صيغة الرسالة المرسلة."
 
@@ -6856,8 +7171,7 @@ msgid "Your order is complete - download your files"
 msgstr "طلبك مكتمل - حمل ملفاتك"
 
 #: includes/emails/class-wc-email-customer-completed-order.php:42
-msgid ""
-"Your {site_title} order from {order_date} is complete - download your files"
+msgid "Your {site_title} order from {order_date} is complete - download your files"
 msgstr "طلبك من {site_title} بتاريخ {order_date} مكتمل! - حمل ملفاتك"
 
 #: includes/emails/class-wc-email-customer-completed-order.php:151
@@ -6868,7 +7182,7 @@ msgstr "طلبك من {site_title} بتاريخ {order_date} مكتمل! - حم�
 #: includes/emails/class-wc-email-customer-invoice.php:160
 #: includes/emails/class-wc-email-customer-invoice.php:167
 #: includes/emails/class-wc-email-customer-invoice.php:174
-#: includes/emails/class-wc-email.php:485 includes/emails/class-wc-email.php:492
+#: includes/emails/class-wc-email.php:486 includes/emails/class-wc-email.php:493
 msgid "Defaults to <code>%s</code>"
 msgstr "الإفتراضي هو <code>%s</code>"
 
@@ -6907,12 +7221,12 @@ msgid "Order {order_number} details"
 msgstr "معلومات الطلب {order_number}"
 
 #: includes/emails/class-wc-email-customer-invoice.php:151
-#: includes/emails/class-wc-email.php:483
+#: includes/emails/class-wc-email.php:484
 msgid "Email subject"
 msgstr "عنوان الرسالة"
 
 #: includes/emails/class-wc-email-customer-invoice.php:158
-#: includes/emails/class-wc-email.php:490
+#: includes/emails/class-wc-email.php:491
 msgid "Email heading"
 msgstr "ترويسة الرسالة"
 
@@ -6984,8 +7298,7 @@ msgstr "إعادة تعيين كلمة المرور"
 
 #: includes/emails/class-wc-email-customer-reset-password.php:41
 msgid ""
-"Customer \"reset password\" emails are sent when customers reset their "
-"passwords."
+"Customer \"reset password\" emails are sent when customers reset their passwords."
 msgstr ""
 "يتم ارسال بريد استعادة كلمة المرور عند طلب العملاء لإستعادة كلمة مرور حسابهم."
 
@@ -7014,19 +7327,19 @@ msgid "[{site_title}] New customer order ({order_number}) - {order_date}"
 msgstr ""
 "[{site_title}] إستلام طلب جديد من أحد العملاء ({order_number}) - {order_date}"
 
-#: includes/emails/class-wc-email.php:514
+#: includes/emails/class-wc-email.php:515
 msgid "Plain text"
 msgstr "نص عادي"
 
-#: includes/emails/class-wc-email.php:518
+#: includes/emails/class-wc-email.php:519
 msgid "HTML"
 msgstr "HTML"
 
-#: includes/emails/class-wc-email.php:519
+#: includes/emails/class-wc-email.php:520
 msgid "Multipart"
 msgstr "متعددة الأجزاء"
 
-#: includes/emails/class-wc-email.php:556 includes/emails/class-wc-email.php:580
+#: includes/emails/class-wc-email.php:557 includes/emails/class-wc-email.php:580
 msgid "Could not write to template file."
 msgstr "لم يتمكن من الكتابة لملف القالب."
 
@@ -7038,31 +7351,34 @@ msgstr "تم نسخ قالب الملف إلى الثيم."
 msgid "Template file deleted from theme."
 msgstr "تم حذف قالب الملف من الثيم."
 
-#: includes/emails/class-wc-email.php:741
+#: includes/emails/class-wc-email.php:692
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: includes/emails/class-wc-email.php:752
 msgid "HTML template"
 msgstr "قالب HTML"
 
-#: includes/emails/class-wc-email.php:742
+#: includes/emails/class-wc-email.php:753
 msgid "Plain text template"
 msgstr "قالب النص العادي"
 
-#: includes/emails/class-wc-email.php:767
+#: includes/emails/class-wc-email.php:778
 msgid "Delete template file"
 msgstr "حذف ملف القالب"
 
-#: includes/emails/class-wc-email.php:770
+#: includes/emails/class-wc-email.php:781
 msgid ""
 "This template has been overridden by your theme and can be found in: <code>%s</"
 "code>."
 msgstr ""
-"تمت الكتابة على هذا القالب بواسطة ثيمك والذي بإمكانك إيجاده في: <code>%s</"
-"code>."
+"تمت الكتابة على هذا القالب بواسطة ثيمك والذي بإمكانك إيجاده في: <code>%s</code>."
 
-#: includes/emails/class-wc-email.php:783
+#: includes/emails/class-wc-email.php:794
 msgid "Copy file to theme"
 msgstr "نسخ الملف إلى الثيم"
 
-#: includes/emails/class-wc-email.php:786
+#: includes/emails/class-wc-email.php:797
 msgid ""
 "To override and edit this email template copy <code>%s</code> to your theme "
 "folder: <code>%s</code>."
@@ -7070,19 +7386,19 @@ msgstr ""
 "لكتابة وتحرير قالب البريد الإلكتروني إنسخ <code>%s</code> إلى مجلد ثيمك: <code>"
 "%s</code>."
 
-#: includes/emails/class-wc-email.php:795
+#: includes/emails/class-wc-email.php:806
 msgid "File was not found."
 msgstr "لم يتم إيجاد الملف."
 
-#: includes/emails/class-wc-email.php:820
+#: includes/emails/class-wc-email.php:831
 msgid "View template"
 msgstr "عرض القالب"
 
-#: includes/emails/class-wc-email.php:821
+#: includes/emails/class-wc-email.php:832
 msgid "Hide template"
 msgstr "إخفاء القالب"
 
-#: includes/emails/class-wc-email.php:832
+#: includes/emails/class-wc-email.php:843
 msgid "Are you sure you want to delete this template file?"
 msgstr "هل بالفعل تريد حذف هذا القالب"
 
@@ -7091,8 +7407,7 @@ msgid "BACS"
 msgstr "حوالة مصرفية"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:32
-msgid ""
-"Allows payments by BACS, more commonly known as direct bank/wire transfer."
+msgid "Allows payments by BACS, more commonly known as direct bank/wire transfer."
 msgstr "لتفعيل الدفع عبر الحوالة أو الإيداع المصرفي المباشر."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:76
@@ -7141,7 +7456,7 @@ msgstr "حوالة مصرفية مباشرة"
 #: includes/gateways/cod/class-wc-gateway-cod.php:75
 #: includes/gateways/paypal/includes/settings-paypal.php:25
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:199
-#: includes/wc-template-functions.php:934
+#: includes/wc-template-functions.php:948
 msgid "Description"
 msgstr "الوصف"
 
@@ -7154,8 +7469,8 @@ msgstr "وصف وسيلة الدفع الذي يراه المستخدم أثنا
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:90
 msgid ""
 "Make your payment directly into our bank account. Please use your Order ID as "
-"the payment reference. Your order won't be shipped until the funds have "
-"cleared in our account."
+"the payment reference. Your order won't be shipped until the funds have cleared "
+"in our account."
 msgstr ""
 "قم بإجراء حوالة مباشرة لأحد حساباتنا المصرفية. الرجاء إستخدام رقم طلبك كمرجع "
 "للحوالة. لن يتم شحن طلبك حتى يتم التأكد من عملية الدفع."
@@ -7169,8 +7484,7 @@ msgstr "تعليمات المشترين"
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:96
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:76
 msgid "Instructions that will be added to the thank you page and emails."
-msgstr ""
-"التعليمات التي سيتم إضافتها في رسالة الشكر المرسلة عبر البريد الإلكتروني."
+msgstr "التعليمات التي سيتم إضافتها في رسالة الشكر المرسلة عبر البريد الإلكتروني."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:118
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:274
@@ -7258,9 +7572,9 @@ msgstr "شيك"
 
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:28
 msgid ""
-"Allows cheque payments. Why would you take cheques in this day and age? Well "
-"you probably wouldn't but it does allow you to make test purchases for testing "
-"order emails and the 'success' pages etc."
+"Allows cheque payments. Why would you take cheques in this day and age? Well you "
+"probably wouldn't but it does allow you to make test purchases for testing order "
+"emails and the 'success' pages etc."
 msgstr ""
 "لتفعيل الدفع عبر الشيكات. ربما قد تكون وسيلة قديمة للدفع، لكنها قد تكون طريقة "
 "نافعة لإختبار وظائف المتجر والتأكد من عمل كل شيء."
@@ -7352,11 +7666,11 @@ msgstr "باي بال"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:34
 msgid ""
-"PayPal standard works by sending customers to PayPal where they can enter "
-"their payment information."
+"PayPal standard works by sending customers to PayPal where they can enter their "
+"payment information."
 msgstr ""
-"يعمل باي بال القياسي عبر إرسال العملاء إلى موقع باي بال الرسمي حيث يمكنهم "
-"إدخال معلومات الدفع بأمان تام."
+"يعمل باي بال القياسي عبر إرسال العملاء إلى موقع باي بال الرسمي حيث يمكنهم إدخال "
+"معلومات الدفع بأمان تام."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:93
 msgid "PayPal Acceptance Mark"
@@ -7366,79 +7680,77 @@ msgstr ""
 msgid "What is PayPal?"
 msgstr "ماهو «باي بال»؟"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:203
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:199
 msgid "Gateway Disabled"
 msgstr "بوابة الدفع معطلة"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:203
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:199
 msgid "PayPal does not support your store currency."
 msgstr "باي بال لا يدعم عملة متجرك."
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:291
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:287
 msgid "Refunded %s - Refund ID: %s"
 msgstr "مبلغ معاد %s - رمز التعريف: %s"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:132
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:131
 msgid "Validation error: PayPal currencies do not match (code %s)."
 msgstr "خطأ في التحقق: عملات باي بال غير متوافقة (الشفرة %s)"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:146
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:145
 msgid "Validation error: PayPal amounts do not match (gross %s)."
 msgstr "خطأ في التحقق: مبلغ باي بال ليس مثل المتوقع (إجمالي  %s)"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:160
-msgid ""
-"Validation error: PayPal IPN response from a different email address (%s)."
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:159
+msgid "Validation error: PayPal IPN response from a different email address (%s)."
 msgstr "خطأ في التحقق: رد IPN من بريد مختلف عن (%s)."
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:183
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:182
 msgid "IPN payment completed"
 msgstr "الدفع أكتمل"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:185
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:184
 msgid "Payment pending: %s"
 msgstr "مدفوعات في الإنتظار: %s"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:202
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:238
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:252
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:201
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:237
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:251
 msgid "Payment %s via IPN."
 msgstr "الدفع (%s) عبر IPN"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:241
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:240
 msgid "Payment for order #%s refunded/reversed"
 msgstr ""
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:242
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:241
 msgid "Order %s has been marked as refunded - PayPal reason code: %s"
 msgstr "الطلب %s علم كمردود - رمز رد باي بال: %s"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:255
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:254
 msgid "Payment for order #%s reversed"
 msgstr ""
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:256
-msgid ""
-"Order %s has been marked on-hold due to a reversal - PayPal reason code: %s"
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:255
+msgid "Order %s has been marked on-hold due to a reversal - PayPal reason code: %s"
 msgstr ""
 "الطلب %s تم تحديده تحت المراجعة بسبب استقبال عكسي - الكود الخاص بالسبب للباي "
 "بال: %s"
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:266
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:265
 msgid "Reversal cancelled for order #%s"
 msgstr ""
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:267
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:266
 msgid ""
 "Order #%s has had a reversal cancelled. Please check the status of payment and "
 "update the order status accordingly here: %s"
 msgstr ""
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-pdt-handler.php:75
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-pdt-handler.php:74
 msgid "Validation error: PayPal amounts do not match (amt %s)."
 msgstr "خطأ في التأكيد: أسعار باي بال لا تتوافق (amt %s)."
 
-#: includes/gateways/paypal/includes/class-wc-gateway-paypal-pdt-handler.php:77
+#: includes/gateways/paypal/includes/class-wc-gateway-paypal-pdt-handler.php:76
 msgid "PDT payment completed"
 msgstr "دفعة PDT أكتملت."
 
@@ -7470,11 +7782,10 @@ msgstr "بريد باي بال الإلكتروني"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:34
 msgid ""
-"Please enter your PayPal email address; this is needed in order to take "
-"payment."
+"Please enter your PayPal email address; this is needed in order to take payment."
 msgstr ""
-"رجاء أدخل بريدك الإلكتروني المسجل في باي بال، هذا الحقل مطلوب لتتمكن من "
-"إستقبال المبالغ المدفوعة إليك."
+"رجاء أدخل بريدك الإلكتروني المسجل في باي بال، هذا الحقل مطلوب لتتمكن من إستقبال "
+"المبالغ المدفوعة إليك."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:40
 msgid "PayPal Sandbox"
@@ -7486,8 +7797,8 @@ msgstr "تفعيل باي بال الإختباري"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:44
 msgid ""
-"PayPal sandbox can be used to test payments. Sign up for a developer account "
-"<a href=\"%s\">here</a>."
+"PayPal sandbox can be used to test payments. Sign up for a developer account <a "
+"href=\"%s\">here</a>."
 msgstr ""
 "يستخدم (باي بال الإختباري) لإختبار الدفع عبر باي بال بدون إرسال مبالغ حقيقية. "
 "سجل حساب مطور <a href=\"%s\">هنا</a>."
@@ -7517,12 +7828,12 @@ msgstr "بريد إستقبال المبالغ"
 #: includes/gateways/paypal/includes/settings-paypal.php:61
 msgid ""
 "If your main PayPal email differs from the PayPal email entered above, input "
-"your main receiver email for your PayPal account here. This is used to "
-"validate IPN requests."
+"your main receiver email for your PayPal account here. This is used to validate "
+"IPN requests."
 msgstr ""
-"إذا كان بريدك الرئيسي على بال بال يختلف عن البريد الذي أدخلته بالأعلى، أدخل "
-"بريد إستقبال المبالغ الرئيسي (Receiver Email) لحسابك في باي بال هنا. يستخدم "
-"هذا البريد للتحقق من طلبات IPN."
+"إذا كان بريدك الرئيسي على بال بال يختلف عن البريد الذي أدخلته بالأعلى، أدخل بريد "
+"إستقبال المبالغ الرئيسي (Receiver Email) لحسابك في باي بال هنا. يستخدم هذا "
+"البريد للتحقق من طلبات IPN."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:67
 msgid "PayPal Identity Token"
@@ -7531,12 +7842,12 @@ msgstr "‏(Identity Token) حسابك في باي بال"
 #: includes/gateways/paypal/includes/settings-paypal.php:69
 msgid ""
 "Optionally enable \"Payment Data Transfer\" (Profile > Website Payment "
-"Preferences) and then copy your identity token here. This will allow payments "
-"to be verified without the need for PayPal IPN."
+"Preferences) and then copy your identity token here. This will allow payments to "
+"be verified without the need for PayPal IPN."
 msgstr ""
-"(إختياري) فعل خيار \"Payment Data Transfer\" من لوحة تحكم حسابك على بال بال "
-"عبر (Profile > Website Payment Preferences) ثم انسخ الـ (identity token) هنا. "
-"سيسمح ذلك بتوثيق المدفوعات بلا الحاجة إلى (باي بال IPN)."
+"(إختياري) فعل خيار \"Payment Data Transfer\" من لوحة تحكم حسابك على بال بال عبر "
+"(Profile > Website Payment Preferences) ثم انسخ الـ (identity token) هنا. سيسمح "
+"ذلك بتوثيق المدفوعات بلا الحاجة إلى (باي بال IPN)."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:75
 msgid "Invoice Prefix"
@@ -7545,12 +7856,11 @@ msgstr "بادئة الفاتورة"
 #: includes/gateways/paypal/includes/settings-paypal.php:77
 msgid ""
 "Please enter a prefix for your invoice numbers. If you use your PayPal account "
-"for multiple stores ensure this prefix is unique as PayPal will not allow "
-"orders with the same invoice number."
+"for multiple stores ensure this prefix is unique as PayPal will not allow orders "
+"with the same invoice number."
 msgstr ""
-"الرجاء إدخال بادئة لأرقام الفواتير. إذا كنت تستخدم حساب باي بال لعدة متاجر، "
-"تأكد بأن تكون البادئة مختلفة لأن PayPal لن يسمح بالطلبات ذات أرقام الفواتير "
-"المكررة."
+"الرجاء إدخال بادئة لأرقام الفواتير. إذا كنت تستخدم حساب باي بال لعدة متاجر، تأكد "
+"بأن تكون البادئة مختلفة لأن PayPal لن يسمح بالطلبات ذات أرقام الفواتير المكررة."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:82
 msgid "Shipping Details"
@@ -7565,8 +7875,8 @@ msgid ""
 "PayPal allows us to send one address. If you are using PayPal for shipping "
 "labels you may prefer to send the shipping address rather than billing."
 msgstr ""
-"يسمح لنا باي بال بإرسال عنوان واحد فقط. قد ترغب بإرسال عنوان الشحن بدلًا من "
-"عنوان الفاتورة إذا كنت تستخدم باي بال لبوصليات الشحن."
+"يسمح لنا باي بال بإرسال عنوان واحد فقط. قد ترغب بإرسال عنوان الشحن بدلًا من عنوان "
+"الفاتورة إذا كنت تستخدم باي بال لبوصليات الشحن."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:89
 msgid "Address Override"
@@ -7579,8 +7889,8 @@ msgstr "فعل هذا الخيار لمنع تغيير بيانات العنوا
 
 #: includes/gateways/paypal/includes/settings-paypal.php:92
 msgid ""
-"PayPal verifies addresses therefore this setting can cause errors (we "
-"recommend keeping it disabled)."
+"PayPal verifies addresses therefore this setting can cause errors (we recommend "
+"keeping it disabled)."
 msgstr ""
 "يتحقق باي بال من العناوين، لذلك قد يسبب هذا الخيار بعض المشاكل (نوصي بتعطيله)."
 
@@ -7629,8 +7939,8 @@ msgid ""
 "Enter your PayPal API credentials to process refunds via PayPal. Learn how to "
 "access your PayPal API Credentials %shere%s."
 msgstr ""
-"أدخل بيانات توثيق تفوضيات باي بال لتنفيذ عمليات إعادة المبالغ عبر باي بال. "
-"تفضل %sهنا%s للمزيد من المعلومات."
+"أدخل بيانات توثيق تفوضيات باي بال لتنفيذ عمليات إعادة المبالغ عبر باي بال. تفضل "
+"%sهنا%s للمزيد من المعلومات."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:121
 msgid "API Username"
@@ -7673,8 +7983,7 @@ msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:163
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:272
-msgid ""
-"Sorry, the minimum allowed order total is 0.50 to use this payment method."
+msgid "Sorry, the minimum allowed order total is 0.50 to use this payment method."
 msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:277
@@ -7737,8 +8046,8 @@ msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:25
 msgid ""
-"Take payments via Simplify Commerce - uses simplify.js to create card tokens "
-"and the Simplify Commerce SDK. Requires SSL when sandbox is disabled."
+"Take payments via Simplify Commerce - uses simplify.js to create card tokens and "
+"the Simplify Commerce SDK. Requires SSL when sandbox is disabled."
 msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:91
@@ -7753,8 +8062,8 @@ msgstr "البدء"
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:103
 msgid ""
 "Simplify Commerce is your merchant account and payment gateway all rolled into "
-"one. Choose Simplify Commerce as your WooCommerce payment gateway to get "
-"access to your money quickly with a powerful, secure payment engine backed by "
+"one. Choose Simplify Commerce as your WooCommerce payment gateway to get access "
+"to your money quickly with a powerful, secure payment engine backed by "
 "MasterCard."
 msgstr ""
 
@@ -7780,8 +8089,8 @@ msgstr ""
 msgid ""
 "Simplify Commerce is enabled, but the <a href=\"%s\">force SSL option</a> is "
 "disabled; your checkout may not be secure! Please enable SSL and ensure your "
-"server has a valid SSL certificate - Simplify Commerce will only work in "
-"sandbox mode."
+"server has a valid SSL certificate - Simplify Commerce will only work in sandbox "
+"mode."
 msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:186
@@ -7802,12 +8111,12 @@ msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:209
 msgid ""
-"Standard will display the credit card fields on your store (SSL required). "
-"%1$s Hosted Payments will display a Simplify Commerce modal dialog on your "
-"store (if SSL) or will redirect the customer to Simplify Commerce hosted page "
-"(if not SSL). %1$s Note: Hosted Payments need a new API Key pair with the "
-"hosted payments flag selected. %2$sFor more details check the Simplify "
-"Commerce docs%3$s."
+"Standard will display the credit card fields on your store (SSL required). %1$s "
+"Hosted Payments will display a Simplify Commerce modal dialog on your store (if "
+"SSL) or will redirect the customer to Simplify Commerce hosted page (if not "
+"SSL). %1$s Note: Hosted Payments need a new API Key pair with the hosted "
+"payments flag selected. %2$sFor more details check the Simplify Commerce docs"
+"%3$s."
 msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:213
@@ -7832,8 +8141,8 @@ msgstr "تفعيل باي بال الإختباري"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:227
 msgid ""
-"Place the payment gateway in sandbox mode using sandbox API keys (real "
-"payments will not be taken)."
+"Place the payment gateway in sandbox mode using sandbox API keys (real payments "
+"will not be taken)."
 msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:231
@@ -7882,16 +8191,15 @@ msgstr ""
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:412
 #: templates/emails/admin-new-order.php:22
 #: templates/emails/customer-completed-order.php:22
-#: templates/emails/customer-invoice.php:26
-#: templates/emails/customer-note.php:26
+#: templates/emails/customer-invoice.php:26 templates/emails/customer-note.php:26
 #: templates/emails/customer-processing-order.php:22
 msgid "Order #%s"
 msgstr "رقم الطلب #%s"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:429
 msgid ""
-"Thank you for your order, please click the button below to pay with credit "
-"card using Simplify Commerce by MasterCard."
+"Thank you for your order, please click the button below to pay with credit card "
+"using Simplify Commerce by MasterCard."
 msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:438
@@ -8065,8 +8373,8 @@ msgstr "الحد الأدنى لرسوم تجهيز الشحنة"
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:86
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:126
 msgid ""
-"Enter a minimum fee amount. Fee's less than this will be increased. Leave "
-"blank to disable."
+"Enter a minimum fee amount. Fee's less than this will be increased. Leave blank "
+"to disable."
 msgstr ""
 "أدخل حد أدنى للرسوم. الرسوم الأقل من الحد سيتم زيادتها. أتركه فارغًا للتعطيل."
 
@@ -8076,8 +8384,8 @@ msgstr ""
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:93
 msgid ""
-"Add-on rates are extra shipping options with additional costs (based on the "
-"flat rate)."
+"Add-on rates are extra shipping options with additional costs (based on the flat "
+"rate)."
 msgstr ""
 
 #: includes/shipping/flat-rate/includes/settings-flat-rate.php:96
@@ -8243,9 +8551,9 @@ msgstr "ماهي الرموز البريدية المتاحة للإستلام �
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:130
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:83
 msgid ""
-"Separate codes with a comma. Accepts wildcards, e.g. <code>P*</code> will "
-"match a postcode of PE30. Also accepts a pattern, e.g. <code>NG1___</code> "
-"would match NG1 1AA but not NG10 1AA"
+"Separate codes with a comma. Accepts wildcards, e.g. <code>P*</code> will match "
+"a postcode of PE30. Also accepts a pattern, e.g. <code>NG1___</code> would match "
+"NG1 1AA but not NG10 1AA"
 msgstr "أفصل الرموز بفاصلة، ما عدا رموز (wildcards)."
 
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:24
@@ -8258,8 +8566,8 @@ msgid ""
 "Local pickup is a simple method which allows customers to pick up orders "
 "themselves."
 msgstr ""
-"الإستلام المحلي طريقة بسيطة تسمح للعملاء بإلتقاط الطلبات بنفسهم بدلًا من "
-"إرسالها إليهم."
+"الإستلام المحلي طريقة بسيطة تسمح للعملاء بإلتقاط الطلبات بنفسهم بدلًا من إرسالها "
+"إليهم."
 
 #: includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:68
 msgid "Enable local pickup"
@@ -8308,8 +8616,7 @@ msgid ""
 "The order totals have been updated. Please confirm your order by pressing the "
 "Place Order button at the bottom of the page."
 msgstr ""
-"سعر طلبك تم إعادة حسابه. رجاء أكد طلبك عبر الضغط على زر تأكيد الطلب أسفل "
-"الصفحة."
+"سعر طلبك تم إعادة حسابه. رجاء أكد طلبك عبر الضغط على زر تأكيد الطلب أسفل الصفحة."
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:206
 msgid "Your password has been reset."
@@ -8613,8 +8920,8 @@ msgstr "خصم % للمنتج"
 
 #: includes/wc-deprecated-functions.php:708
 msgid ""
-"The shop_order_status taxonomy is no more in WooCommerce 2.2! You should use "
-"the new WooCommerce post_status instead, <a href=\"%s\">read more...</a>"
+"The shop_order_status taxonomy is no more in WooCommerce 2.2! You should use the "
+"new WooCommerce post_status instead, <a href=\"%s\">read more...</a>"
 msgstr ""
 
 #: includes/wc-deprecated-functions.php:712
@@ -8653,94 +8960,93 @@ msgstr "منتج خارجي"
 msgid "Variable product"
 msgstr "منتج متعدد الأنواع"
 
-#: includes/wc-template-functions.php:120
+#: includes/wc-template-functions.php:134
 msgid "New products"
 msgstr "المنتجات الجديدة"
 
-#: includes/wc-template-functions.php:128
+#: includes/wc-template-functions.php:142
 msgid "New products added to %s"
 msgstr "منتجات جديدة في %s"
 
-#: includes/wc-template-functions.php:136
+#: includes/wc-template-functions.php:150
 msgid "New products tagged %s"
 msgstr "منتجات جديدة بالوسم %s"
 
-#: includes/wc-template-functions.php:372
+#: includes/wc-template-functions.php:386
 msgid ""
 "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
 msgstr "هذا المتجر اختباري وهو لأغراض تجريبية &mdash; لن يتم إستقبال أي طلبات."
 
-#: includes/wc-template-functions.php:391
+#: includes/wc-template-functions.php:405
 msgid "Search Results: &ldquo;%s&rdquo;"
 msgstr "نتائج البحث: &ldquo;%s&rdquo;"
 
-#: includes/wc-template-functions.php:394
+#: includes/wc-template-functions.php:408
 msgid "&nbsp;&ndash; Page %s"
 msgstr "&nbsp;&ndash; صفحة %s"
 
-#: includes/wc-template-functions.php:625
+#: includes/wc-template-functions.php:639
 msgid "Default sorting"
 msgstr "الترتيب الإفتراضي"
 
-#: includes/wc-template-functions.php:626
+#: includes/wc-template-functions.php:640
 msgid "Sort by popularity"
 msgstr "الترتيب حسب الشهرة"
 
-#: includes/wc-template-functions.php:627
+#: includes/wc-template-functions.php:641
 msgid "Sort by average rating"
 msgstr "الترتيب حسب متوسط التقييمات"
 
-#: includes/wc-template-functions.php:628
+#: includes/wc-template-functions.php:642
 msgid "Sort by newness"
 msgstr "الترتيب حسب الأحدث"
 
-#: includes/wc-template-functions.php:629
+#: includes/wc-template-functions.php:643
 msgid "Sort by price: low to high"
 msgstr "الترتيب حسب السعر: من الأدنى للأعلى"
 
-#: includes/wc-template-functions.php:630
+#: includes/wc-template-functions.php:644
 msgid "Sort by price: high to low"
 msgstr "الترتيب حسب السعر: من الأعلى للأدنى"
 
-#: includes/wc-template-functions.php:943
-#: templates/checkout/form-shipping.php:58
+#: includes/wc-template-functions.php:957 templates/checkout/form-shipping.php:58
 #: templates/single-product/tabs/additional-information.php:16
 msgid "Additional Information"
 msgstr "معلومات إضافية"
 
-#: includes/wc-template-functions.php:952
+#: includes/wc-template-functions.php:966
 msgid "Reviews (%d)"
 msgstr "المراجعات (%d)"
 
-#: includes/wc-template-functions.php:1036
+#: includes/wc-template-functions.php:1050
 msgid ""
 "Use $args argument as an array instead. Deprecated argument will be removed in "
 "WC 2.2."
 msgstr "استخدم $args كمصفوفة عوضا. سيتم حذف الاستعلامات القديمة. "
 
-#: includes/wc-template-functions.php:1132
+#: includes/wc-template-functions.php:1146
 msgid "Proceed to Checkout"
 msgstr "إنهاء الطلب"
 
-#: includes/wc-template-functions.php:1251
+#: includes/wc-template-functions.php:1265
 msgid "Place order"
 msgstr "تأكيد الطلب"
 
-#: includes/wc-template-functions.php:1623
+#: includes/wc-template-functions.php:1637
 #: templates/cart/shipping-calculator.php:30
 msgid "Select a country&hellip;"
 msgstr "اختر الدولة&hellip;"
 
-#: includes/wc-template-functions.php:1631
+#: includes/wc-template-functions.php:1645
 msgid "Update country"
 msgstr "تحديث الدولة"
 
-#: includes/wc-template-functions.php:1671
+#: includes/wc-template-functions.php:1685
 #: templates/cart/shipping-calculator.php:54
 msgid "Select a state&hellip;"
 msgstr "اختر الولاية"
 
-#: includes/wc-template-functions.php:1777
+#: includes/wc-template-functions.php:1791
 #: templates/single-product/add-to-cart/variable.php:27
 msgid "Choose an option"
 msgstr "إختر أحد الخيارات"
@@ -8762,8 +9068,7 @@ msgid "Please enter a valid account username."
 msgstr "رجاء أدخل اسم مستخدم صحيح"
 
 #: includes/wc-user-functions.php:65
-msgid ""
-"An account is already registered with that username. Please choose another."
+msgid "An account is already registered with that username. Please choose another."
 msgstr "هناك بالفعل حساب بهذا الاسم، رجاء أختر اسم آخر."
 
 #: includes/wc-user-functions.php:86
@@ -8887,8 +9192,8 @@ msgid ""
 "Shows a price filter slider in a widget which lets you narrow down the list of "
 "shown products when viewing product categories."
 msgstr ""
-"لعرض شريط سحب لتصفية الأسعار في ودجت، والذي يمكنك من تقليل عدد المنتجات "
-"المعروضة حين عرض تصنيفات المنتجات."
+"لعرض شريط سحب لتصفية الأسعار في ودجت، والذي يمكنك من تقليل عدد المنتجات المعروضة "
+"حين عرض تصنيفات المنتجات."
 
 #: includes/widgets/class-wc-widget-price-filter.php:27
 msgid "WooCommerce Price Filter"
@@ -9006,8 +9311,7 @@ msgstr "التاريخ"
 #: templates/emails/admin-cancelled-order.php:24
 #: templates/emails/admin-new-order.php:29
 #: templates/emails/customer-completed-order.php:29
-#: templates/emails/customer-invoice.php:33
-#: templates/emails/customer-note.php:33
+#: templates/emails/customer-invoice.php:33 templates/emails/customer-note.php:33
 #: templates/emails/customer-processing-order.php:29
 msgid "Price"
 msgstr "السعر"
@@ -9099,8 +9403,8 @@ msgstr "الرجاء استخدام حاسبة الشحن لعرض وسائل ا
 
 #: templates/cart/cart-shipping.php:63
 msgid ""
-"Please continue to the checkout and enter your full address to see if there "
-"are any available shipping methods."
+"Please continue to the checkout and enter your full address to see if there are "
+"any available shipping methods."
 msgstr ""
 "الرجاء استكمال عملية إنهاء الطلب وادخال عنوانك الكامل لترى اذا كان هنالك أي "
 "وسائل شحن متاحة."
@@ -9146,8 +9450,7 @@ msgstr ""
 #: templates/cart/cart.php:29 templates/emails/admin-cancelled-order.php:23
 #: templates/emails/admin-new-order.php:28
 #: templates/emails/customer-completed-order.php:28
-#: templates/emails/customer-invoice.php:32
-#: templates/emails/customer-note.php:32
+#: templates/emails/customer-invoice.php:32 templates/emails/customer-note.php:32
 #: templates/emails/customer-processing-order.php:28
 msgid "Quantity"
 msgstr "الكمية"
@@ -9156,15 +9459,15 @@ msgstr "الكمية"
 msgid "Remove this item"
 msgstr "إزالة هذا المنتج"
 
-#: templates/cart/cart.php:119 templates/checkout/form-coupon.php:25
+#: templates/cart/cart.php:122 templates/checkout/form-coupon.php:25
 msgid "Coupon code"
 msgstr "رمز القسيمة"
 
-#: templates/cart/cart.php:119 templates/checkout/form-coupon.php:29
+#: templates/cart/cart.php:122 templates/checkout/form-coupon.php:29
 msgid "Apply Coupon"
 msgstr "تطبيق القسيمة"
 
-#: templates/cart/cart.php:126
+#: templates/cart/cart.php:128
 msgid "Update Cart"
 msgstr "تحديث السلة"
 
@@ -9200,8 +9503,8 @@ msgstr "تحديث المجموع"
 
 #: templates/checkout/cart-errors.php:18
 msgid ""
-"There are some issues with the items in your cart (shown above). Please go "
-"back to the cart page and resolve these issues before checking out."
+"There are some issues with the items in your cart (shown above). Please go back "
+"to the cart page and resolve these issues before checking out."
 msgstr ""
 "هنالك بعض المشاكل في المنتجات المضافة لسلة مشترياتك (ظاهرة بالأعلى). الرجاء "
 "العودة إلى صفحة سلة المشتريات وحل هذه المشاكل قبل إنهاء الطلب."
@@ -9303,17 +9606,17 @@ msgid ""
 "Please contact us if you require assistance or wish to make alternate "
 "arrangements."
 msgstr ""
-"للأسف يبدو أنه لا يوجد طرق دفع متوفرة لمنطقتك، رجاء إذا احتجت المساعدة، أو "
-"رغبت في طرح طرق بديلة رجاء اتصل بنا."
+"للأسف يبدو أنه لا يوجد طرق دفع متوفرة لمنطقتك، رجاء إذا احتجت المساعدة، أو رغبت "
+"في طرح طرق بديلة رجاء اتصل بنا."
 
 #: templates/checkout/payment.php:43
 msgid ""
-"Since your browser does not support JavaScript, or it is disabled, please "
-"ensure you click the <em>Update Totals</em> button before placing your order. "
-"You may be charged more than the amount stated above if you fail to do so."
+"Since your browser does not support JavaScript, or it is disabled, please ensure "
+"you click the <em>Update Totals</em> button before placing your order. You may "
+"be charged more than the amount stated above if you fail to do so."
 msgstr ""
-"بما أن متصفحك لا يدعم جافاسكربت أو أنها معطلة، تأكد من ضغط زر <em>تحديث "
-"المجموع</em> قبل تأكيد طلبك. قد ترى رسوم مختلفة عن المحسوبة إذا لم تفعل ذلك."
+"بما أن متصفحك لا يدعم جافاسكربت أو أنها معطلة، تأكد من ضغط زر <em>تحديث المجموع</"
+"em> قبل تأكيد طلبك. قد ترى رسوم مختلفة عن المحسوبة إذا لم تفعل ذلك."
 
 #: templates/checkout/payment.php:43
 msgid "Update totals"
@@ -9381,8 +9684,7 @@ msgstr "دفع"
 
 #: templates/emails/customer-new-account.php:18
 #: templates/emails/plain/customer-new-account.php:16
-msgid ""
-"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgid "Thanks for creating an account on %s. Your username is <strong>%s</strong>."
 msgstr "شكرا لإنشاء حساب في %s. اسمك هو <strong>%s</strong>."
 
 #: templates/emails/customer-new-account.php:22
@@ -9409,8 +9711,8 @@ msgstr "للتذكير، معلومات طلبك موجودة أدناه."
 #: templates/emails/customer-processing-order.php:18
 #: templates/emails/plain/customer-processing-order.php:16
 msgid ""
-"Your order has been received and is now being processed. Your order details "
-"are shown below for your reference:"
+"Your order has been received and is now being processed. Your order details are "
+"shown below for your reference:"
 msgstr ""
 "تم إستلام طلبك وهو الآن قيد التنفيذ. تفاصيل الطلب موجودة بالأسفل في حال أردت "
 "مراجعتها:"
@@ -9542,8 +9844,8 @@ msgid ""
 "payment method. Please contact us if you require assistance or wish to make "
 "alternate arrangements."
 msgstr ""
-"عذرًا، يبدو بأنه لا توجد وسائل دفع تدعم إضافة وسيلة دفع جديدة. الرجاء الاتصال "
-"بنا إذا احتجت لأي مساعدة أو اقتراحات بديلة."
+"عذرًا، يبدو بأنه لا توجد وسائل دفع تدعم إضافة وسيلة دفع جديدة. الرجاء الاتصال بنا "
+"إذا احتجت لأي مساعدة أو اقتراحات بديلة."
 
 #: templates/myaccount/form-edit-account.php:23
 msgid "First name"
@@ -9645,8 +9947,8 @@ msgstr ""
 #: templates/myaccount/my-account.php:24
 msgid ""
 "From your account dashboard you can view your recent orders, manage your "
-"shipping and billing addresses and <a href=\"%s\">edit your password and "
-"account details</a>."
+"shipping and billing addresses and <a href=\"%s\">edit your password and account "
+"details</a>."
 msgstr ""
 "من خلال لوحة تحكم حسابك بإمكانك عرض أحدث الطلبات وإدارة عناوين الشحن والفاتورة "
 "و<a href=\"%s\">تعديل كلمة مرورك وتفاصيل حسابك</a>."
@@ -9713,13 +10015,11 @@ msgstr "عرض"
 
 #: templates/myaccount/view-order.php:20
 msgid ""
-"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
-"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
-"mark>."
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class=\"order-"
+"date\">%s</mark> and is currently <mark class=\"order-status\">%s</mark>."
 msgstr ""
-"الطلب رقم #<mark class=\"order-number\">%s</mark> تم إستلامه بتاريخ <mark "
-"class=\"order-date\">%s</mark> وهو حاليًا <mark class=\"order-status\">%s</"
-"mark>."
+"الطلب رقم #<mark class=\"order-number\">%s</mark> تم إستلامه بتاريخ <mark class="
+"\"order-date\">%s</mark> وهو حاليًا <mark class=\"order-status\">%s</mark>."
 
 #: templates/myaccount/view-order.php:24 templates/order/tracking.php:25
 msgid "Order Updates"
@@ -9732,12 +10032,12 @@ msgstr "l jS \\o\\f F Y, h:ia"
 #: templates/order/form-tracking.php:20
 msgid ""
 "To track your order please enter your Order ID in the box below and press the "
-"\"Track\" button. This was given to you on your receipt and in the "
-"confirmation email you should have received."
+"\"Track\" button. This was given to you on your receipt and in the confirmation "
+"email you should have received."
 msgstr ""
 "فضلًا أدخل رقم طلبك في الصندوق أدناه وأضغط زر لتتبعه \"تتبع الطلب\" لعرض حالته. "
-"بإمكانك العثور على رقم الطلب في البريد المرسل إليك والذي يحتوي على فاتورة "
-"تأكيد الطلب."
+"بإمكانك العثور على رقم الطلب في البريد المرسل إليك والذي يحتوي على فاتورة تأكيد "
+"الطلب."
 
 #: templates/order/form-tracking.php:22
 msgid "Order ID"
@@ -10091,42 +10391,42 @@ msgctxt "enhanced select"
 msgid "Searching&hellip;"
 msgstr "جاري البحث&hellip;"
 
-#: includes/class-wc-install.php:195
+#: includes/class-wc-install.php:211
 msgctxt "Page slug"
 msgid "shop"
 msgstr "shop"
 
-#: includes/class-wc-install.php:200
+#: includes/class-wc-install.php:216
 msgctxt "Page slug"
 msgid "cart"
 msgstr "cart"
 
-#: includes/class-wc-install.php:205
+#: includes/class-wc-install.php:221
 msgctxt "Page slug"
 msgid "checkout"
 msgstr "checkout"
 
-#: includes/class-wc-install.php:210
+#: includes/class-wc-install.php:226
 msgctxt "Page slug"
 msgid "my-account"
 msgstr "my-account"
 
-#: includes/class-wc-install.php:196
+#: includes/class-wc-install.php:212
 msgctxt "Page title"
 msgid "Shop"
 msgstr "المتجر"
 
-#: includes/class-wc-install.php:201
+#: includes/class-wc-install.php:217
 msgctxt "Page title"
 msgid "Cart"
 msgstr "السلة"
 
-#: includes/class-wc-install.php:206
+#: includes/class-wc-install.php:222
 msgctxt "Page title"
 msgid "Checkout"
 msgstr "إنهاء الطلب"
 
-#: includes/class-wc-install.php:211
+#: includes/class-wc-install.php:227
 msgctxt "Page title"
 msgid "My Account"
 msgstr "حسابي"
@@ -10134,32 +10434,32 @@ msgstr "حسابي"
 #: includes/class-wc-post-types.php:66
 msgctxt "Admin menu name"
 msgid "Categories"
-msgstr "التصنيفات"
+msgstr "تصنيفات"
 
 #: includes/class-wc-post-types.php:101
 msgctxt "Admin menu name"
 msgid "Tags"
-msgstr "الوسوم"
+msgstr "وسوم"
 
 #: includes/class-wc-post-types.php:138
 msgctxt "Admin menu name"
 msgid "Shipping Classes"
-msgstr "فئات الشحن"
+msgstr "فئات شحن"
 
 #: includes/class-wc-post-types.php:235
 msgctxt "Admin menu name"
 msgid "Products"
-msgstr "المنتجات"
+msgstr "منتجات"
 
 #: includes/class-wc-post-types.php:294
 msgctxt "Admin menu name"
 msgid "Orders"
-msgstr "الطلبات"
+msgstr "طلبات"
 
 #: includes/class-wc-post-types.php:341
 msgctxt "Admin menu name"
 msgid "Coupons"
-msgstr "القسائم"
+msgstr "قسائم"
 
 #: includes/class-wc-post-types.php:379
 msgctxt "Admin menu name"
@@ -10258,17 +10558,17 @@ msgctxt "Order date parsed by strftime"
 msgid "%b %d, %Y @ %I:%M %p"
 msgstr "%d %b %Y @ %I:%M %p"
 
-#: includes/wc-page-functions.php:106
+#: includes/wc-page-functions.php:112
 msgctxt "edit-address-slug"
 msgid "billing"
 msgstr "‏billing"
 
-#: includes/wc-page-functions.php:107
+#: includes/wc-page-functions.php:113
 msgctxt "edit-address-slug"
 msgid "shipping"
 msgstr "‏shipping"
 
-#: includes/wc-template-functions.php:1206
+#: includes/wc-template-functions.php:1220
 msgctxt "breadcrumb"
 msgid "Home"
 msgstr "الرئيسية"
@@ -10302,6 +10602,9 @@ msgstr "البحث عن:"
 msgctxt "submit button"
 msgid "Search"
 msgstr "بحث"
+
+#~ msgid "Andra Pradesh"
+#~ msgstr "أندرا برديش"
 
 #~ msgid "Make a selection"
 #~ msgstr "حدد خيارًا"
@@ -10371,8 +10674,8 @@ msgstr "بحث"
 #~ "Order complete emails are sent to the customer when the order is marked "
 #~ "complete and usual indicates that the order has been shipped."
 #~ msgstr ""
-#~ "رسالة الطلبات المكملة ترسل للعميل عند وضع علامة للطلب كـ (مكتمل) وغالبًا "
-#~ "تفيد بأن الطلب تم شحنه."
+#~ "رسالة الطلبات المكملة ترسل للعميل عند وضع علامة للطلب كـ (مكتمل) وغالبًا تفيد "
+#~ "بأن الطلب تم شحنه."
 
 #~ msgid ""
 #~ "Customer invoice emails can be sent to the user containing order info and "
@@ -10392,8 +10695,7 @@ msgstr "بحث"
 #~ msgstr "هذه الرسالة ترسل للعميل بعد إتمام الدفع، وتحتوي على تفاصيل الطلب."
 
 #~ msgid ""
-#~ "Customer reset password emails are sent when a customer resets their "
-#~ "password."
+#~ "Customer reset password emails are sent when a customer resets their password."
 #~ msgstr "ترسل عندما يقوم عميل بطلب إعادة تعيين كلمة المرور المتعلقة بحسابه."
 
 #~ msgid "Mijireh Checkout"
@@ -10437,8 +10739,8 @@ msgstr "بحث"
 #~ "PayPal allows us to send 1 address. If you are using PayPal for shipping "
 #~ "labels you may prefer to send the shipping address rather than billing."
 #~ msgstr ""
-#~ "يسمح لنا باي بال بإرسال عنوان واحد فقط. قد تفضّل إرسال بيانات عنوان الشحن "
-#~ "إذا كنت تستخدم باي بال لبوصليات الشحن."
+#~ "يسمح لنا باي بال بإرسال عنوان واحد فقط. قد تفضّل إرسال بيانات عنوان الشحن إذا "
+#~ "كنت تستخدم باي بال لبوصليات الشحن."
 
 #~ msgid "Address override"
 #~ msgstr "منع تغيير العنوان"
@@ -10459,11 +10761,11 @@ msgstr "بحث"
 #~ msgstr "تم إلغاء العملية العكسية للطلب %s"
 
 #~ msgid ""
-#~ "Order %s has had a reversal cancelled. Please check the status of payment "
-#~ "and update the order status accordingly."
+#~ "Order %s has had a reversal cancelled. Please check the status of payment and "
+#~ "update the order status accordingly."
 #~ msgstr ""
-#~ "الطلب %s تم إلغاء العملية العكسية له. الرجاء التأكد من حالة الدفع وتحديث "
-#~ "حالة الطلب بعدها. "
+#~ "الطلب %s تم إلغاء العملية العكسية له. الرجاء التأكد من حالة الدفع وتحديث حالة "
+#~ "الطلب بعدها. "
 
 #~ msgid "(Order %s)"
 #~ msgstr "(الطلب %s)"
@@ -10475,9 +10777,9 @@ msgstr "بحث"
 #~ msgstr "أسعار إضافية"
 
 #~ msgid ""
-#~ "Optional extra shipping options with additional costs (one per line): "
-#~ "Option Name | Additional Cost [+- Percents] | Per Cost Type (order, class, "
-#~ "or item) Example: <code>Priority Mail | 6.95 [+ 0.2%] | order</code>."
+#~ "Optional extra shipping options with additional costs (one per line): Option "
+#~ "Name | Additional Cost [+- Percents] | Per Cost Type (order, class, or item) "
+#~ "Example: <code>Priority Mail | 6.95 [+ 0.2%] | order</code>."
 #~ msgstr ""
 #~ "خيارات شحن إضافية مع تكاليف إضافية (واحدة لكل سطر) مع إتّباع هذه الصيغة: "
 #~ " Option Name | Additional Cost [+- Percents] | Per Cost Type (order, class, "
@@ -10487,8 +10789,8 @@ msgstr "بحث"
 #~ msgstr "الرموز البريدية"
 
 #~ msgid ""
-#~ "What zip/post codes would you like to offer delivery to? Separate codes "
-#~ "with a comma. Accepts wildcards, e.g. P* will match a postcode of PE30."
+#~ "What zip/post codes would you like to offer delivery to? Separate codes with "
+#~ "a comma. Accepts wildcards, e.g. P* will match a postcode of PE30."
 #~ msgstr "ما هي الرموز البريديه التي تود عرض التسليم المحلي لها؟ أفصلها بفاصلة."
 
 #~ msgid ""
@@ -10522,11 +10824,11 @@ msgstr "بحث"
 #~ msgstr "عرض العدد"
 
 #~ msgid ""
-#~ "There doesn&lsquo;t seem to be any available shipping methods. Please "
-#~ "double check your address, or contact us if you need any help."
+#~ "There doesn&lsquo;t seem to be any available shipping methods. Please double "
+#~ "check your address, or contact us if you need any help."
 #~ msgstr ""
-#~ "لا يبدو بأن هنالك أي طرق شحن متوفرة. الرجاء إعادة فحص عنوانك، أو التواصل "
-#~ "بنا إذا أردت أي مساعدة."
+#~ "لا يبدو بأن هنالك أي طرق شحن متوفرة. الرجاء إعادة فحص عنوانك، أو التواصل بنا "
+#~ "إذا أردت أي مساعدة."
 
 #~ msgid "You have received an order from %s. Their order is as follows:"
 #~ msgstr "لقد إستلمت طلبًا جديدًا للتو من %s. والطلب كالتالي:"
@@ -10623,14 +10925,14 @@ msgstr "بحث"
 
 #~ msgid ""
 #~ "provides a fully PCI Compliant, secure way to collect and transmit credit "
-#~ "card data to your payment gateway while keeping you in control of the "
-#~ "design of your site. Mijireh supports a wide variety of payment gateways: "
-#~ "Stripe, Authorize.net, PayPal, eWay, SagePay, Braintree, PayLeap, and more."
+#~ "card data to your payment gateway while keeping you in control of the design "
+#~ "of your site. Mijireh supports a wide variety of payment gateways: Stripe, "
+#~ "Authorize.net, PayPal, eWay, SagePay, Braintree, PayLeap, and more."
 #~ msgstr ""
-#~ "متوافقة تمامًا مع PCI، وسيلة آمنة لحفظ ونقل بيانات البطاقات الإئتمانية "
-#~ "لبوابة دفع المتجر، مع إبقاء تحكمك بتصميم متجرك. Mijireh يدعم مجموعة واسعة "
-#~ "من بوابات الدفع مثل: Stripe، Authorize.net، PayPal، eWay، SagePay، "
-#~ "Braintree، PayLeap، والمزيد!"
+#~ "متوافقة تمامًا مع PCI، وسيلة آمنة لحفظ ونقل بيانات البطاقات الإئتمانية لبوابة "
+#~ "دفع المتجر، مع إبقاء تحكمك بتصميم متجرك. Mijireh يدعم مجموعة واسعة من بوابات "
+#~ "الدفع مثل: Stripe، Authorize.net، PayPal، eWay، SagePay، Braintree، PayLeap، "
+#~ "والمزيد!"
 
 #~ msgid "Join for free"
 #~ msgstr "أنضم مجانًا"
@@ -10640,12 +10942,12 @@ msgstr "بحث"
 
 #~ msgid ""
 #~ "provides a fully PCI Compliant, secure way to collect and transmit credit "
-#~ "card data to your payment gateway while keeping you in control of the "
-#~ "design of your site."
+#~ "card data to your payment gateway while keeping you in control of the design "
+#~ "of your site."
 #~ msgstr ""
-#~ "توفر توافق تام مع PCI، وهي طريقة آمنة لنقل بيانات البطاقات الائتمانية "
-#~ "لخدمات تلقي المال الخاصة لك، تمنحك تحكم كامل في الدفع ببساطة بينما تترك "
-#~ "باقي الجهد لمحتوى موقعك."
+#~ "توفر توافق تام مع PCI، وهي طريقة آمنة لنقل بيانات البطاقات الائتمانية لخدمات "
+#~ "تلقي المال الخاصة لك، تمنحك تحكم كامل في الدفع ببساطة بينما تترك باقي الجهد "
+#~ "لمحتوى موقعك."
 
 #~ msgid "PayPal standard"
 #~ msgstr "PayPal القياسي"

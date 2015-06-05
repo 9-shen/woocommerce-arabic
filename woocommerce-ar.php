@@ -2,9 +2,9 @@
 
 /**
  * Plugin Name: WooCommerce Arabic
- * Plugin URI: http://ar-wc.com
- * Description: Adds completed Arabic translation & currencies to WooCommerce.
- * Version: 1.0.1
+ * Plugin URI: https://profiles.wordpress.org/updula#content-plugins
+ * Description: Adds completed & proper Arabic translation and some missing currencies to WooCommerce.
+ * Version: 1.0.2
  * Author: Abdullah Helayel
  * Author URI: http://updu.la/
  * Text Domain: wc_ar
@@ -59,18 +59,13 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
     // Get current language
     $locale = apply_filters( 'plugin_locale', get_locale(), 'woocommerce' );
 
-    // Check if current language is Arabic, load it from this plugin directory
-    if ( $locale === 'ar' ) {
+    // Load WooCommerce admin translation
+    if ( is_admin() ) {
+      load_textdomain( 'woocommerce', plugin_dir_path( __FILE__ ) . 'languages/woocommerce-admin-' . $locale . '.mo' );
+    }
 
-      // Load WooCommerce admin translation
-      if ( is_admin() ) {
-        load_textdomain( 'woocommerce', plugin_dir_path( __FILE__ ) . 'languages/woocommerce-admin-' . $locale . '.mo' );
-      }
-
-      // Load main WooCommerce translation
-      load_textdomain( 'woocommerce', plugin_dir_path( __FILE__ ) . 'languages/woocommerce-' . $locale . '.mo' );
-
-    } // End of Arabic check
+    // Load main WooCommerce translation
+    load_textdomain( 'woocommerce', plugin_dir_path( __FILE__ ) . 'languages/woocommerce-' . $locale . '.mo' );
 
     // Load this plugin translation
     load_plugin_textdomain( 'wc_ar', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
