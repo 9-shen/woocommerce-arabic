@@ -18,7 +18,7 @@ The Arabic translation won't load unless the current language your WooCommerce s
 
 Also, the currencies titles and symbols were fully translated and could be adjusted through out the language files.
 
-**Currently compatible with version `2.3.10` of WooCommerce**
+**Currently compatible with version `2.4+` of WooCommerce**
 
 == Installation ==
 
