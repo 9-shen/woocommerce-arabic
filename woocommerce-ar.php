@@ -2,9 +2,9 @@
 
 /**
  * Plugin Name: WooCommerce Arabic
- * Plugin URI: https://profiles.wordpress.org/updula#content-plugins
- * Description: Adds completed & proper Arabic translation and some missing currencies to WooCommerce.
- * Version: 1.0.2
+ * Plugin URI: https://twitter.com/WooCommerceAR
+ * Description: Adds completed & proper Arabic translation to WooCommerce in addition to some missing GCC currencies.
+ * Version: 1.0.3
  * Author: Abdullah Helayel
  * Author URI: http://updu.la/
  * Text Domain: wc_ar

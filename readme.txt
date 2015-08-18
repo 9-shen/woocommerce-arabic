@@ -4,7 +4,7 @@ Tags: WooCommerce, Arabic, Arab, Middle East, Saudi, Saudi Arabia, Saudi Riyal, 
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=i@updu.la&item_name=Donation+for+WooCommerce+RTL+Plugin
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -40,6 +40,9 @@ The manual installation method involves downloading our plugin and uploading it 
 Each time **WooCommerce** gets updated, a new version of **WooCommerce Arabic** will get updated as well, so it keeps the language files up-to-date.
 
 == Changelog ==
+
+= 1.0.3 =
+* WooCommerce 2.4.4 compatibility.
 
 = 1.0.2 =
 * WooCommerce 2.3.10 compatibility.
